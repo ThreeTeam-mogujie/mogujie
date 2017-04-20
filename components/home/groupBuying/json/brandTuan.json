@@ -1,0 +1,484 @@
+{
+    "result": {
+        "handschop": {
+            "next": [
+                {
+                    "lowestDiscount": 4,
+                    "groupId": 590,
+                    "clickTotal": 11968,
+                    "pcBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170411_8g9619k3idke7e7d8kdjc30ea4ejc_1900x360.jpg",
+                    "description": "品质生活小家必遇",
+                    "pcEnter": "http://s2.mogucdn.com/mlcdn/1689c6/170411_52k9ggl1kjjefe5e3k063effc25fg_750x300.jpg",
+                    "promotionDesc": "满99减10",
+                    "type": 0,
+                    "activityId": "1lw",
+                    "brandId": "1ekm",
+                    "name": "时代超力",
+                    "logo": "http://s2.mogucdn.com/mlcdn/1689c6/170401_87ffa89gbfa7e8a6jcc5333daf1jl_640x640.jpg",
+                    "appBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170411_1f4c6b86ej4kif19a7j851l2g7bj0_750x300.jpg",
+                    "shopId": "1czamy",
+                    "brandLogo": "http://s2.mogucdn.com/mlcdn/1689c6/170411_3d34lfkjg7b8k2f4lgklfk4aj9561_172x78.png",
+                    "enterTime": 0,
+                    "promotion": [
+                        {
+                            "couponEndTime": 1492963200,
+                            "couponStartTime": 1492358400,
+                            "cutPrice": 10,
+                            "limitPrice": 99,
+                            "name": "99减10元",
+                            "proId": "1hv5mcy20"
+                        },
+                        {
+                            "couponEndTime": 1492963200,
+                            "couponStartTime": 1477411200,
+                            "cutPrice": 3,
+                            "limitPrice": 55,
+                            "name": "55元减3元",
+                            "proId": "1hv5kbcfa"
+                        },
+                        {
+                            "couponEndTime": 1500134400,
+                            "couponStartTime": 1484582400,
+                            "cutPrice": 10,
+                            "limitPrice": 105,
+                            "name": "105减10",
+                            "proId": "1hv5llkfg"
+                        }
+                    ],
+                    "status": 0
+                },
+                {
+                    "lowestDiscount": 2,
+                    "groupId": 590,
+                    "clickTotal": 59546,
+                    "pcBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170412_20a4419a5lcej7fhh8gb90bihk28h_1900x360.jpg",
+                    "description": "民族底妆护肤品牌",
+                    "pcEnter": "http://s2.mogucdn.com/mlcdn/1689c6/170412_46cgi6h8adac73idd7k0egjj53if8_750x300.jpg",
+                    "promotionDesc": "满188减80",
+                    "type": 1,
+                    "activityId": "1lw",
+                    "brandId": "1emq",
+                    "name": "植美村",
+                    "logo": "http://s2.mogucdn.com/mlcdn/1689c6/170414_7i2a347fd2071ehj533a42d6j2cf2_640x640.jpg",
+                    "appBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170412_89f873aee0db05i8i0c92ed2c7gdc_750x300.jpg",
+                    "shopId": "1cxywo",
+                    "brandLogo": "http://s2.mogucdn.com/mlcdn/1689c6/170412_6fkk0di1ac5ll9g608809310099hd_172x78.png",
+                    "enterTime": 0,
+                    "promotion": [
+                        {
+                            "couponEndTime": 1493222400,
+                            "couponStartTime": 1492272000,
+                            "cutPrice": 80,
+                            "limitPrice": 188,
+                            "name": "188-80",
+                            "proId": "1hv5md4pu"
+                        },
+                        {
+                            "couponEndTime": 1493222400,
+                            "couponStartTime": 1492444800,
+                            "cutPrice": 80,
+                            "limitPrice": 188,
+                            "name": "188-80",
+                            "proId": "1hv5md9yc"
+                        },
+                        {
+                            "couponEndTime": 1493049600,
+                            "couponStartTime": 1492272000,
+                            "cutPrice": 10,
+                            "limitPrice": 58,
+                            "name": "58-10",
+                            "proId": "1hv5mdgt8"
+                        }
+                    ],
+                    "status": 0
+                },
+                {
+                    "lowestDiscount": 5,
+                    "groupId": 590,
+                    "clickTotal": 28133,
+                    "pcBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170411_1a50a3deblk63lhi8ff2bebi5k2be_1900x360.jpg",
+                    "description": "29年美食制造",
+                    "pcEnter": "http://s2.mogucdn.com/mlcdn/1689c6/170411_2jaii39601161kdeca4g4hd2e6j35_750x300.jpg",
+                    "promotionDesc": "满3减3",
+                    "type": 1,
+                    "activityId": "1lw",
+                    "brandId": "1emw",
+                    "name": "小王子",
+                    "logo": "http://s2.mogucdn.com/mlcdn/1689c6/170401_2844bcb3kccf6233f027ceaehkakk_640x640.jpg",
+                    "appBanner": "http://s17.mogucdn.com/mlcdn/1689c6/170411_0014b5897dbl14h8lj4i208232dfi_750x300.jpg",
+                    "shopId": "1oyx56",
+                    "brandLogo": "http://s2.mogucdn.com/mlcdn/1689c6/170411_1i2d4i51i02d5k1e27138c8619gg5_172x78.png",
+                    "enterTime": 0,
+                    "promotion": [
+                        {
+                            "couponEndTime": 1493049599,
+                            "couponStartTime": 1492394400,
+                            "cutPrice": 3,
+                            "limitPrice": 3,
+                            "name": "3元无门槛",
+                            "proId": "1hv5mcya8"
+                        },
+                        {
+                            "couponEndTime": 1493049599,
+                            "couponStartTime": 1492394400,
+                            "cutPrice": 5,
+                            "limitPrice": 39,
+                            "name": "满39减5元",
+                            "proId": "1hv5mcyak"
+                        },
+                        {
+                            "couponEndTime": 1493049599,
+                            "couponStartTime": 1492394400,
+                            "cutPrice": 10,
+                            "limitPrice": 59,
+                            "name": "满59减10",
+                            "proId": "1hv5mcyb0"
+                        }
+                    ],
+                    "status": 0
+                },
+                {
+                    "lowestDiscount": 3,
+                    "groupId": 590,
+                    "clickTotal": 2299,
+                    "pcBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170413_65726d4211eadd4ca7dhd51bj1eib_1900x360.jpg",
+                    "description": "品质生活崇尚天然",
+                    "pcEnter": "http://s2.mogucdn.com/mlcdn/1689c6/170412_624fg80b3ljjh7a971i95h11db9dj_750x300.jpg",
+                    "promotionDesc": "满49减20",
+                    "type": 0,
+                    "activityId": "1lw",
+                    "brandId": "1en4",
+                    "name": "虎标",
+                    "logo": "",
+                    "appBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170412_4ed7b4g4b0ah2f26fg7cjbhk4fb00_750x300.jpg",
+                    "shopId": "1qy5tw",
+                    "brandLogo": "http://s2.mogucdn.com/mlcdn/1689c6/170412_7e5fbg2l58d1i7c8j735g05e5bb8b_172x78.png",
+                    "enterTime": 0,
+                    "promotion": [
+                        {
+                            "couponEndTime": 1493481600,
+                            "couponStartTime": 1492272000,
+                            "cutPrice": 20,
+                            "limitPrice": 49,
+                            "name": "品牌团专享",
+                            "proId": "1hv5md0ys"
+                        },
+                        {
+                            "couponEndTime": 1498752000,
+                            "couponStartTime": 1487174400,
+                            "cutPrice": 5,
+                            "limitPrice": 49,
+                            "name": "满49减5",
+                            "proId": "1hv5lo8vw"
+                        },
+                        {
+                            "couponEndTime": 1498752000,
+                            "couponStartTime": 1487174400,
+                            "cutPrice": 10,
+                            "limitPrice": 99,
+                            "name": "满99减10",
+                            "proId": "1hv5lo8wa"
+                        }
+                    ],
+                    "status": 0
+                },
+                {
+                    "lowestDiscount": 3,
+                    "groupId": 590,
+                    "clickTotal": 365,
+                    "pcBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170413_846eicchh1e1kj76f7i6af6c7271f_1900x360.jpg",
+                    "description": "新西兰进口蜂蜜",
+                    "pcEnter": "http://s2.mogucdn.com/mlcdn/1689c6/170412_24242d924jabcj73aackaicl6jkb6_750x300.jpg",
+                    "promotionDesc": "满99减10",
+                    "type": 1,
+                    "activityId": "1lw",
+                    "brandId": "1en6",
+                    "name": "蜜滋兰",
+                    "logo": "http://s2.mogucdn.com/mlcdn/1689c6/170413_79ia2ghfeb0clejag1c3hbiicfdda_640x640.jpg",
+                    "appBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170412_675l818eld3ihh83gdld7lad4c08b_750x300.jpg",
+                    "shopId": "1qmtcg",
+                    "brandLogo": "http://s2.mogucdn.com/mlcdn/1689c6/170412_22a52lci1dc82gdi8jl84b0fg0112_172x78.png",
+                    "enterTime": 0,
+                    "promotion": [
+                        {
+                            "couponEndTime": 1498752000,
+                            "couponStartTime": 1483459200,
+                            "cutPrice": 10,
+                            "limitPrice": 99,
+                            "name": "99减10元",
+                            "proId": "1hv5ljbnk"
+                        },
+                        {
+                            "couponEndTime": 1498752000,
+                            "couponStartTime": 1492358400,
+                            "cutPrice": 20,
+                            "limitPrice": 299,
+                            "name": "299减20",
+                            "proId": "1hv5mdtmc"
+                        },
+                        {
+                            "couponEndTime": 1498752000,
+                            "couponStartTime": 1492358400,
+                            "cutPrice": 50,
+                            "limitPrice": 499,
+                            "name": "499减50",
+                            "proId": "1hv5mdtme"
+                        }
+                    ],
+                    "status": 0
+                }
+            ],
+            "actStartTime": 1492394400,
+            "actEndTime": 1492826400,
+            "list": [
+                {
+                    "lowestDiscount": 3,
+                    "groupId": 588,
+                    "clickTotal": 59201,
+                    "pcBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170411_0ek6ah0a8e01eh8676301h0edc630_1900x360.jpg",
+                    "description": "天然草本纤体美妍",
+                    "pcEnter": "http://s2.mogucdn.com/mlcdn/1689c6/170411_2b2edl24523j73gc0g873173abkd9_750x300.jpg",
+                    "promotionDesc": "满88减15",
+                    "type": 0,
+                    "activityId": "1ls",
+                    "brandId": "1ekq",
+                    "name": "佰薇集",
+                    "logo": "http://s2.mogucdn.com/mlcdn/1689c6/170401_5e150ekb10lgj5h162bf7c8cg3cfh_640x640.jpg",
+                    "appBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170411_3f8chli63i5j2ae5867kg8i5bkd3i_750x300.jpg",
+                    "shopId": "1pu84i",
+                    "brandLogo": "http://s2.mogucdn.com/mlcdn/1689c6/170411_6b3hi8eb4aldff0dhbaa8cb12blae_172x78.png",
+                    "enterTime": 0,
+                    "promotion": [
+                        {
+                            "couponEndTime": 1492826400,
+                            "couponStartTime": 1492221600,
+                            "cutPrice": 15,
+                            "limitPrice": 88,
+                            "name": "热卖51期",
+                            "proId": "1hv5mcwvq"
+                        },
+                        {
+                            "couponEndTime": 1500652800,
+                            "couponStartTime": 1490174468,
+                            "cutPrice": 3,
+                            "limitPrice": 58,
+                            "name": "58减3",
+                            "proId": "1hv5m9zby"
+                        },
+                        {
+                            "couponEndTime": 1500652800,
+                            "couponStartTime": 1490174550,
+                            "cutPrice": 5,
+                            "limitPrice": 78,
+                            "name": "78减5",
+                            "proId": "1hv5m9zcc"
+                        }
+                    ],
+                    "status": 0
+                },
+                {
+                    "lowestDiscount": 3,
+                    "groupId": 588,
+                    "clickTotal": 9415,
+                    "pcBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170410_484c30c8h9ef92hc7f4l1c94c6459_1900x360.jpg",
+                    "description": "祛痘护肤专家",
+                    "pcEnter": "http://s2.mogucdn.com/mlcdn/1689c6/170410_4j89bj60ib225d52hlc622e2751jj_750x300.jpg",
+                    "promotionDesc": "满139减20",
+                    "type": 0,
+                    "activityId": "1ls",
+                    "brandId": "1ejc",
+                    "name": "WIS",
+                    "logo": "",
+                    "appBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170410_8178idcgh38lg4cf3e48j3c4a41g0_750x300.jpg",
+                    "shopId": "1cvz30",
+                    "brandLogo": "http://s2.mogucdn.com/mlcdn/1689c6/170410_67jk8chl758bfja2lde1lhf0b1ifa_172x78.png",
+                    "enterTime": 0,
+                    "promotion": [
+                        {
+                            "couponEndTime": 1492876799,
+                            "couponStartTime": 1492221600,
+                            "cutPrice": 20,
+                            "limitPrice": 139,
+                            "name": "139减20",
+                            "proId": "1hv5mcqai"
+                        },
+                        {
+                            "couponEndTime": 1492876799,
+                            "couponStartTime": 1492221600,
+                            "cutPrice": 5,
+                            "limitPrice": 5,
+                            "name": "无门槛5元",
+                            "proId": "1hv5mcqam"
+                        }
+                    ],
+                    "status": 0
+                },
+                {
+                    "lowestDiscount": 3,
+                    "groupId": 588,
+                    "clickTotal": 17805,
+                    "pcBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170411_0j6587jlbac27ji2ldllk0b0bb234_1900x360.jpg",
+                    "description": "精油洗护持久留香",
+                    "pcEnter": "http://s2.mogucdn.com/mlcdn/1689c6/170411_613kfd9f7fhigadf2ake5kl96k9h6_750x300.jpg",
+                    "promotionDesc": "满69减30",
+                    "type": 0,
+                    "activityId": "1ls",
+                    "brandId": "1ek6",
+                    "name": "阿道夫",
+                    "logo": "http://s2.mogucdn.com/mlcdn/1689c6/170411_6ah5bg9l5d26gj0begi1k13igh5jl_640x640.jpg",
+                    "appBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170411_8d0efbkdefg1a4k7258ged1fb643e_750x300.jpg",
+                    "shopId": "1qn3k6",
+                    "brandLogo": "http://s2.mogucdn.com/mlcdn/1689c6/170410_4edl22c17a08dj6k680ia4g39i044_172x78.png",
+                    "enterTime": 0,
+                    "promotion": [
+                        {
+                            "couponEndTime": 1492876799,
+                            "couponStartTime": 1491753600,
+                            "cutPrice": 30,
+                            "limitPrice": 69,
+                            "name": "30剁手券",
+                            "proId": "1hv5mct7u"
+                        },
+                        {
+                            "couponEndTime": 1492876799,
+                            "couponStartTime": 1492099200,
+                            "cutPrice": 9,
+                            "limitPrice": 99,
+                            "name": "99-9",
+                            "proId": "1hv5mdgoi"
+                        },
+                        {
+                            "couponEndTime": 1492876799,
+                            "couponStartTime": 1492099200,
+                            "cutPrice": 15,
+                            "limitPrice": 159,
+                            "name": "159-15",
+                            "proId": "1hv5mdgou"
+                        }
+                    ],
+                    "status": 0
+                },
+                {
+                    "lowestDiscount": 5,
+                    "groupId": 588,
+                    "clickTotal": 1723,
+                    "pcBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170410_0bj075hff355hgh5ldgiid9jl34ei_1900x360.jpg",
+                    "description": "迷你可爱时尚前卫",
+                    "pcEnter": "http://s2.mogucdn.com/mlcdn/1689c6/170410_77el8cje5bl6h3fg3e2gihaeeii49_750x300.jpg",
+                    "promotionDesc": "满90减5",
+                    "type": 0,
+                    "activityId": "1ls",
+                    "brandId": "1ejw",
+                    "name": "小浣熊",
+                    "logo": "http://s2.mogucdn.com/mlcdn/1689c6/170412_2ff8397g60bhj83613gg48li7kg30_640x640.jpg",
+                    "appBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170410_4c4adc88cac1lhjgdk2iled9h83gb_750x300.jpg",
+                    "shopId": "1owtg0",
+                    "brandLogo": "http://s2.mogucdn.com/mlcdn/1689c6/170410_5a6i9837748hl27cele7dl9hla3hl_172x78.png",
+                    "enterTime": 0,
+                    "promotion": [
+                        {
+                            "couponEndTime": 1493481600,
+                            "couponStartTime": 1477929600,
+                            "cutPrice": 5,
+                            "limitPrice": 90,
+                            "name": "5元优惠卷",
+                            "proId": "1hv5kpnki"
+                        }
+                    ],
+                    "status": 0
+                }
+            ],
+            "isEnd": true,
+            "brand": [
+                {
+                    "lowestDiscount": 4,
+                    "groupId": 588,
+                    "clickTotal": 13568,
+                    "pcBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170411_8096c170c0gkc80lajee4kk78781e_1900x360.jpg",
+                    "description": "挑遍全球好零食",
+                    "pcEnter": "http://s2.mogucdn.com/mlcdn/1689c6/170411_3lkjfj8e3e53c4h7ahffei102h972_750x300.jpg",
+                    "promotionDesc": "满99减10",
+                    "type": 1,
+                    "activityId": "1ls",
+                    "brandId": "1eko",
+                    "name": "良品铺子",
+                    "logo": "http://s2.mogucdn.com/mlcdn/1689c6/170401_56fd5660c069hd71di48jc402k3dd_640x640.jpg",
+                    "appBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170411_4c4chkd8hfcf1fg7b800591d77kik_750x300.jpg",
+                    "shopId": "117089dw",
+                    "brandLogo": "http://s2.mogucdn.com/mlcdn/1689c6/170411_8e001f64454e6kg3f2hgcc03a4jl1_172x78.png",
+                    "enterTime": 0,
+                    "promotion": [
+                        {
+                            "couponEndTime": 1492826460,
+                            "couponStartTime": 1492221600,
+                            "cutPrice": 10,
+                            "limitPrice": 99,
+                            "name": "51期10元",
+                            "proId": "1hv5mcwzw"
+                        },
+                        {
+                            "couponEndTime": 1493567999,
+                            "couponStartTime": 1490925481,
+                            "cutPrice": 3,
+                            "limitPrice": 50,
+                            "name": "4满50减3",
+                            "proId": "1hv5mbavk"
+                        },
+                        {
+                            "couponEndTime": 1493567999,
+                            "couponStartTime": 1490925879,
+                            "cutPrice": 5,
+                            "limitPrice": 78,
+                            "name": "4满78减5",
+                            "proId": "1hv5mbavw"
+                        }
+                    ],
+                    "status": 0
+                },
+                {
+                    "lowestDiscount": 5,
+                    "groupId": 588,
+                    "clickTotal": 44743,
+                    "pcBanner": "http://s2.mogucdn.com/mlcdn/1689c6/170410_69eb6fa6i57lijdha5blbcg154717_1900x360.jpg",
+                    "description": "趣味零食探索家",
+                    "pcEnter": "http://s2.mogucdn.com/mlcdn/1689c6/170410_8a91gh76hcd0gfie3j1d007bg833e_750x300.jpg",
+                    "promotionDesc": "满109减10",
+                    "type": 1,
+                    "activityId": "1ls",
+                    "brandId": "1ejs",
+                    "name": "百草味",
+                    "logo": "http://s2.mogucdn.com/mlcdn/1689c6/170331_82k9geek3fkeeck515j838j54bl1b_640x640.jpg",
+                    "appBanner": "http://s2.mogucdn.com/p2/170417/17c_35fj04dd002bl3h33gdiilb2fbg0k_750x300.jpg",
+                    "shopId": "1os6vu",
+                    "brandLogo": "http://s2.mogucdn.com/mlcdn/1689c6/170410_80535f6ddfa9i3h06336c672i8dl0_172x78.png",
+                    "enterTime": 0,
+                    "promotion": [
+                        {
+                            "couponEndTime": 1492826400,
+                            "couponStartTime": 1492221600,
+                            "cutPrice": 10,
+                            "limitPrice": 109,
+                            "name": "109-10",
+                            "proId": "1hv5mcs8u"
+                        },
+                        {
+                            "couponEndTime": 1502938800,
+                            "couponStartTime": 1490927400,
+                            "cutPrice": 5,
+                            "limitPrice": 78,
+                            "name": "78-5",
+                            "proId": "1hv5mbahe"
+                        }
+                    ],
+                    "status": 0
+                }
+            ],
+            "nowTime": 1492687667
+        }
+    },
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    }
+}
+ 
