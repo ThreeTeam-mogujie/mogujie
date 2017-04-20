@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html ng-app='mogujie'>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>蘑菇街</title>
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="css/index.css" />
+    <link rel="stylesheet" href="css/swiper-3.4.1.min.css" />
+    <script src="js/libs/angular.js"></script>
+    <script src="js/libs/angular-css.min.js"></script>
+    <script src="js/libs/angular-ui-router.js"></script>
+    <script src="js/libs/swiper-3.4.1.min.js"></script>
+	<script src="app.js"></script>
+	<script src="components/home/home.js"></script>
+	<script src="components/category/category.js"></script>
+</head>
+<body>
+	<div id="wrap">
+    <div id="main" ui-view></div>
+    <div id="tab">
+        <ul>
+            <li><a ui-sref='home' href="">首页</a></li>
+            <li><a ui-sref='category' href="">分类</a></li>
+            <li><a ui-sref='shopcar' href="">购物车</a></li>
+            <li><a ui-sref='mine' href="">我的</a></li>
+        </ul>
+    </div>
+</div>
+</body>
+</html>

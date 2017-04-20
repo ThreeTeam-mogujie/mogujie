@@ -1,0 +1,13 @@
+#header{
+    height: 10%;
+    width: 100%;
+    background: #ffd600;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}
+#box{
+    height: 100%;
+    width: 100%;
+    margin-top: 10%;
+}
