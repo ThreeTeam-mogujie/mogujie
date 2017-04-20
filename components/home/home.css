@@ -11,3 +11,70 @@
     width: 100%;
     margin-top: 10%;
 }
+/*获取首页轮播图*/
+.swiper-slide{
+    width: 100%;
+    height: 100%;
+
+}
+.swiper-slide img{
+    width: 100%;
+}
+
+/*团购，每日上新，新人专享*/
+#threeTitle{
+	margin: 0.5rem 0;
+}
+#threeTitle.content1{
+    width: 100%;
+    /*height: 100%;*/
+}
+
+.content1>li{
+    float: left;
+    width: 33.3%;
+    /*height: 100%;*/
+   
+}
+.content1>li>a{
+	padding: 0 10%;
+	
+}
+.content1>li>a>p{
+    text-align: center;
+}
+.content1>li>a>div{
+	width: 100%;
+	height: 4rem;
+	text-align: center;
+	/*background: red;*/
+	display: flex;
+	justify-content: center;
+}
+.content1>li>a>div>img{
+	width: 50%;
+	
+}
+
+/*秒杀*/
+#sec{
+	margin: 0.5rem 0;
+}
+.home-sec-top{
+	padding: 0.5rem;
+}
+.home-sec-top p{
+	float: left;
+	width: 3rem;
+	height: 1.5rem;
+}
+.home-sec-top span{
+	display: inline-block;
+	float: left;
+	width: 3rem;
+	height: 1.5rem;
+}
+.home-sec-top a{
+	float: right;
+	display: inline-block;
+}

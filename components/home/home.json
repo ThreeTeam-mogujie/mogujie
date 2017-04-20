@@ -1,0 +1,385 @@
+{
+    "data": {
+        "4604": {
+            "context": {
+                "currentTime": 1492658977
+            },
+            "isEnd": true,
+            "list": [
+                {
+                    "title": "首页",
+                    "selected": "https://s2.mogucdn.com/p2/170315/40592144_6ii829464gk34ai4hkdf14cdea05d_44x44.png",
+                    "acm": "3.mce.1_10_19wsk.4604.0.zmryYqhiQWY4K.m_231174",
+                    "link": "http://m.mogujie.com?mt=12.4604.r84325.4583&acm=3.mce.1_10_19wsk.4604.0.zmryYqhiQWY4K.m_231174",
+                    "image": "https://s2.mogucdn.com/p2/170315/40592144_5a62k5aecifecf3iaddc0eb2l384b_44x44.png"
+                },
+                {
+                    "title": "分类",
+                    "selected": "https://s2.mogucdn.com/p2/170315/40592144_6c127ldgd4ccebg2e8i42kedgdd69_44x44.png",
+                    "acm": "3.mce.1_10_19wso.4604.0.zmryYqhiQWY4L.m_231176",
+                    "link": "http://act.mogujie.com/cateyichi?ismobile=1&mt=12.4604.r84327.4583&acm=3.mce.1_10_19wso.4604.0.zmryYqhiQWY4L.m_231176",
+                    "image": "https://s2.mogucdn.com/p2/170315/40592144_0b8i11l822b0adfjaaifl11ig86f1_44x44.png"
+                },
+                {
+                    "title": "购物车",
+                    "selected": "https://s2.mogucdn.com/p2/170315/40592144_4l6kkh68522ha1je77i1gfa4b82j2_44x44.png",
+                    "acm": "3.mce.1_10_1b1l6.4604.0.zmryYqhiQWY4M.m_257609",
+                    "link": "http://m.mogujie.com/x6/cart/list?acm=3.mce.1_10_1b1l6.4604.0.zmryYqhiQWY4M.m_257609",
+                    "image": "https://s2.mogucdn.com/p2/170315/40592144_67ja8jj102089fj6djai0l6khb0h5_44x44.png"
+                },
+                {
+                    "title": "我的",
+                    "selected": "https://s2.mogucdn.com/p2/170315/40592144_4aba4gee9khhe66df2723085cg75h_44x44.png",
+                    "acm": "3.mce.1_10_19wsq.4604.0.zmryYqhiQWY4N.m_231177",
+                    "link": "http://h5.mogujie.com/mgj-personal/personal.html?mt=12.4604.r98160.4583&acm=3.mce.1_10_19wsq.4604.0.zmryYqhiQWY4N.m_231177",
+                    "image": "https://s2.mogucdn.com/p2/170315/40592144_35ikl8db8a4lfa3f29k8k4b9k3ji2_44x44.png"
+                }
+            ],
+            "nextPage": 1
+        },
+        "36344": {
+            "context": {
+                "currentTime": 1492658977
+            },
+            "isEnd": true,
+            "list": [
+                {
+                    "startTime": 1492617600,
+                    "title": "女鞋新品",
+                    "sort": 1,
+                    "acm": "3.mce.1_10_1bou2.36344.0.zmryYqhiQUUlC.m_272673",
+                    "description": "",
+                    "link": "http://act.mogujie.com/shoexinpin?acm=3.mce.1_10_1bou2.36344.0.zmryYqhiQUUlC.m_272673",
+                    "image": "https://s10.mogucdn.com/mlcdn/c45406/170401_606f811d1h0j67jd5jf9fg4j7b13d_750x390.jpg",
+                    "endTime": 1492704000
+                },
+                {
+                    "startTime": 1492617600,
+                    "title": "美丽说优选-初夏新品",
+                    "sort": 2,
+                    "acm": "3.mce.1_10_1bou4.36344.0.zmryYqhiQUUlD.m_272674",
+                    "description": "美丽说优选-初夏新品",
+                    "link": "http://act.mogujie.com/youxuanxinpinh5?acm=3.mce.1_10_1bou4.36344.0.zmryYqhiQUUlD.m_272674",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170419_4f3bbjeg16fll7ee1hkjbjcdjbgkc_750x390.jpg",
+                    "endTime": 1492704000
+                },
+                {
+                    "startTime": 1492617600,
+                    "title": "领券下单专区",
+                    "sort": 2,
+                    "acm": "3.mce.1_10_1boyq.36344.0.zmryYqhiQUUlE.m_272757",
+                    "description": "",
+                    "link": "http://act.mogujie.com/lqxhh?userid=12y47e4&acm=3.mce.1_10_1boyq.36344.0.zmryYqhiQUUlE.m_272757",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170419_0f2ie09066gi448b3a4b5fdg62f2j_750x390.jpg",
+                    "endTime": 1492704000
+                },
+                {
+                    "startTime": 1492617600,
+                    "title": "全民运动季vol.1",
+                    "sort": 2,
+                    "acm": "3.mce.1_10_1boys.36344.0.zmryYqhiQUUlF.m_272758",
+                    "description": "",
+                    "link": "http://act.mogujie.com/qmydj01?acm=3.mce.1_10_1boys.36344.0.zmryYqhiQUUlF.m_272758",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170418_6i04h72d0f33e4e1jjd4l2fkd5ki3_750x390.jpg",
+                    "endTime": 1492704000
+                },
+                {
+                    "startTime": 1492617600,
+                    "title": "拥抱春夏",
+                    "sort": 3,
+                    "acm": "3.mce.1_10_1boym.36344.0.zmryYqhiQUUlG.m_272755",
+                    "description": "",
+                    "link": "http://act.mogujie.com/ybcxapp?acm=3.mce.1_10_1boym.36344.0.zmryYqhiQUUlG.m_272755",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170417_2i07h03j8625af1d6c0j84j33e8k5_750x390.jpg",
+                    "endTime": 1492704000
+                },
+                {
+                    "startTime": 1492617600,
+                    "title": "领券下单--晴乐/奕涵",
+                    "sort": 4,
+                    "acm": "3.mce.1_10_1bou6.36344.0.zmryYqhiQUUlH.m_272675",
+                    "link": "http://act.mogujie.com/lqxhh?userid=12y47e4&acm=3.mce.1_10_1bou6.36344.0.zmryYqhiQUUlH.m_272675",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170417_5f53561i4he148e3ac26edaeagk9l_750x390.jpg",
+                    "endTime": 1492704000
+                }
+            ],
+            "nextPage": 1
+        },
+        "41119": {
+            "context": {
+                "currentTime": 1492658977
+            },
+            "isEnd": true,
+            "list": [
+                {
+                    "time": 1823,
+                    "moreLink": "http://qiang.mogujie.com/fastbuy/indexh5",
+                    "title": "11点快抢",
+                    "viceTitle": "距结束",
+                    "list": [
+                        {
+                            "coverImg": "https://s14.mogucdn.com/mlcdn/c45406/170406_8afb1i44dihll0hgd5gjgj0e245gh_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "https://s10.mogucdn.com/mlcdn/1689c6/170411_3f03298cg51f6ccfj4a829flba393_640x640.jpg_320x999.jpg",
+                            "left": 7,
+                            "listUrl": "http://qiang.mogujie.com/fastbuy/indexh5?topId=19nq7a&topType=2&eventTime=1492658977",
+                            "price": "98.60",
+                            "rushId": 8111767,
+                            "salePrice": "55.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 120,
+                            "title": "紫焜韩版休闲两件套",
+                            "tradeItemId": 612825669,
+                            "transparentImg": "https://s10.mogucdn.com/mlcdn/1689c6/170411_09fk7ki0big9591g83913i35e950j_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "https://s10.mogucdn.com/mlcdn/c45406/170405_66lc92fib6chahhflh3713eb179c0_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "https://s10.mogucdn.com/mlcdn/1689c6/170415_65kleg948ee7al0fekdeifh7ehe59_640x640.jpg_320x999.jpg",
+                            "left": 16,
+                            "listUrl": "http://qiang.mogujie.com/fastbuy/indexh5?topId=19p704&topType=2&eventTime=1492658977",
+                            "price": "98.58",
+                            "rushId": 8145982,
+                            "salePrice": "55.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 140,
+                            "title": "时尚短袖连帽卫衣破洞裤",
+                            "tradeItemId": 612734689,
+                            "transparentImg": "https://s24.mogucdn.com/mlcdn/1689c6/170415_5010i2he9e4dled8f64bbj27ccib7_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "https://s10.mogucdn.com/mlcdn/c45406/170409_7cd9f67dbe60k4af0e69aihk75j2h_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "https://s14.mogucdn.com/mlcdn/1689c6/170414_74ll3fda52kd29dbaa85l11d6d2i7_640x640.jpg_320x999.jpg",
+                            "left": 56,
+                            "listUrl": "http://qiang.mogujie.com/fastbuy/indexh5?topId=19p57a&topType=2&eventTime=1492658977",
+                            "price": "107.1",
+                            "rushId": 8144815,
+                            "salePrice": "55.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 160,
+                            "title": "时尚亮片破洞卫衣短裤套装",
+                            "tradeItemId": 612965108,
+                            "transparentImg": "https://s10.mogucdn.com/mlcdn/1689c6/170414_40lf7fd4450ile79d5b928ckea1f2_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "https://s24.mogucdn.com/p2/161207/162294784_7c302c86b8h2iif4ijkgb6dc8kebh_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "https://s10.mogucdn.com/mlcdn/1689c6/170418_625d4ealg5a575dh2hk1e17696kck_640x640.jpg_320x999.jpg",
+                            "left": 49,
+                            "listUrl": "http://qiang.mogujie.com/fastbuy/indexh5?topId=19po2u&topType=2&eventTime=1492658977",
+                            "price": "85.00",
+                            "rushId": 8157047,
+                            "salePrice": "39.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 100,
+                            "title": "70cm加宽瑜伽垫+拉力器",
+                            "tradeItemId": 607677465,
+                            "transparentImg": "https://s10.mogucdn.com/mlcdn/1689c6/170418_0b4b6jjeijbdic12f1bk224ll6eb1_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "https://s10.mogucdn.com/mlcdn/c45406/170402_7a6l6l29cj4998gkakge86aid9fg2_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "https://s10.mogucdn.com/mlcdn/1689c6/170417_08h1g5i7ia3f0lf91d62j2eke96bc_640x640.jpg_320x999.jpg",
+                            "left": 82,
+                            "listUrl": "http://qiang.mogujie.com/fastbuy/indexh5?topId=19pljy&topType=2&eventTime=1492658977",
+                            "price": "112.8",
+                            "rushId": 8155411,
+                            "salePrice": "55.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 120,
+                            "title": "休闲套装 T恤+条纹阔腿裤",
+                            "tradeItemId": 612515507,
+                            "transparentImg": "https://s10.mogucdn.com/mlcdn/1689c6/170417_6ch4c1b85g3lfe86bgdl0gg406d0c_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "https://s14.mogucdn.com/p1/160620/1f6efc_ie4dsytcgbqtcnbuhezdambqgiyde_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "https://s24.mogucdn.com/mlcdn/1689c6/170419_11d5df0lce7fda6f2h6gh4d0g9cfl_640x640.jpg_320x999.jpg",
+                            "left": 137,
+                            "listUrl": "http://qiang.mogujie.com/fastbuy/indexh5?topId=19pvgc&topType=2&eventTime=1492658977",
+                            "price": "80.00",
+                            "rushId": 8161826,
+                            "salePrice": "39.90",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 200,
+                            "title": "电动瘦身甩脂机腰带减肥器",
+                            "tradeItemId": 602791731,
+                            "transparentImg": "https://s10.mogucdn.com/mlcdn/1689c6/170419_1b0k16h0199lfhaj6gb1e1j8g2g91_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "https://s10.mogucdn.com/p2/170315/161164393_84786ehhfkhh7fefhel817f8bfgh3_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "https://s10.mogucdn.com/mlcdn/1689c6/170417_5i3eaj8cghd0h4k0gf453111b47c5_640x640.jpg_320x999.jpg",
+                            "left": 89,
+                            "listUrl": "http://qiang.mogujie.com/fastbuy/indexh5?topId=19plka&topType=2&eventTime=1492658977",
+                            "price": "97.14",
+                            "rushId": 8155417,
+                            "salePrice": "52.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 120,
+                            "title": "套装 字母T恤+条纹喇叭裤",
+                            "tradeItemId": 611862219,
+                            "transparentImg": "https://s24.mogucdn.com/mlcdn/1689c6/170417_8h63jhg30268he4i5cgaf4di4hje2_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "https://s10.mogucdn.com/mlcdn/c45406/170416_1lcdcffkjkl254579kif6ckh1gg0d_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "https://s14.mogucdn.com/mlcdn/1689c6/170419_6dfh10b6i6jf4dd58a5ai5f5l3dle_640x640.jpg_320x999.jpg",
+                            "left": 91,
+                            "listUrl": "http://qiang.mogujie.com/fastbuy/indexh5?topId=19pvg0&topType=2&eventTime=1492658977",
+                            "price": "42.84",
+                            "rushId": 8161820,
+                            "salePrice": "19.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 120,
+                            "title": "可改码 时尚印花运动t恤",
+                            "tradeItemId": 613365136,
+                            "transparentImg": "https://s14.mogucdn.com/mlcdn/1689c6/170419_03eehd2cdg3a99d5lfkeb7406b61h_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "https://s24.mogucdn.com/mlcdn/c45406/170416_7a489gb4fcj4i6il8kfh51ij56dj4_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "https://s10.mogucdn.com/mlcdn/1689c6/170418_0e4k6feld7a5lhah9aiij8g7khk0i_640x640.jpg_320x999.jpg",
+                            "left": 126,
+                            "listUrl": "http://qiang.mogujie.com/fastbuy/indexh5?topId=19ppme&topType=2&eventTime=1492658977",
+                            "price": "70.00",
+                            "rushId": 8158047,
+                            "salePrice": "29.90",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 160,
+                            "title": "6535棉不起球印花t恤",
+                            "tradeItemId": 613384901,
+                            "transparentImg": "https://s10.mogucdn.com/mlcdn/1689c6/170418_8ghe1d4c4jc9bab40kb8ifg0k0c6i_240x240.png_240x240.v1cAC.png"
+                        },
+                        {
+                            "coverImg": "https://s10.mogucdn.com/mlcdn/c45406/170407_0i589c7bkj17g98falc7jhl00jagi_640x960.jpg_320x999.jpg",
+                            "endTime": 0,
+                            "img": "https://s14.mogucdn.com/mlcdn/1689c6/170418_60h0el027d1dai8e93gf1feedd64i_640x640.jpg_320x999.jpg",
+                            "left": 64,
+                            "listUrl": "http://qiang.mogujie.com/fastbuy/indexh5?topId=19ppa0&topType=2&eventTime=1492658977",
+                            "price": "99.86",
+                            "rushId": 8157824,
+                            "salePrice": "59.00",
+                            "startTime": 0,
+                            "status": 3,
+                            "stock": 80,
+                            "title": "新款宽松短款棒球服外套",
+                            "tradeItemId": 612876728,
+                            "transparentImg": "https://s10.mogucdn.com/mlcdn/1689c6/170418_3lbj5hhf99787l5g0i4ldbhgk071b_240x240.png_240x240.v1cAC.png"
+                        }
+                    ],
+                    "moreTitle": "MORE"
+                }
+            ],
+            "nextPage": 1
+        },
+        "41161": {
+            "context": {
+                "currentTime": 1492658977
+            },
+            "isEnd": true,
+            "list": [
+                {
+                    "title": "团购",
+                    "sort": 1,
+                    "acm": "3.mce.1_10_1b2nc.41161.0.zmryYqhiQUUvO.m_258296",
+                    "description": "尖货爆款聚惠",
+                    "link": "http://act.mogujie.com/tuangou/index/new?acm=3.mce.1_10_1b2nc.41161.0.zmryYqhiQUUvO.m_258296",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170419_38d790blfl9ee809cihk7dj9lb46c_200x200.jpg"
+                },
+                {
+                    "title": "每日上新",
+                    "sort": 2,
+                    "acm": "3.mce.1_10_1bemy.41161.0.zmryYqhiQUUvP.m_266065",
+                    "description": "限时底价",
+                    "link": "http://act.mogujie.com/kqhuodong/xinpin/faxinri?acm=3.mce.1_10_1bemy.41161.0.zmryYqhiQUUvP.m_266065",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170419_5blhg77k8kd9i25gga8ici3i6c6j9_200x200.jpg"
+                },
+                {
+                    "title": "新人专享",
+                    "sort": 3,
+                    "acm": "3.mce.1_10_1b2eu.41161.0.zmryYqhiQUUvQ.m_258143",
+                    "description": "秒杀8.8元起",
+                    "link": "http://act.mogujie.com/xrms?acm=3.mce.1_10_1b2eu.41161.0.zmryYqhiQUUvQ.m_258143",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170419_5l4691b77dh2gac8cgf24ecb499c6_200x200.jpg"
+                }
+            ],
+            "nextPage": 1
+        },
+        "40298": {
+            "context": {
+                "currentTime": 1492658977
+            },
+            "isEnd": true,
+            "list": [
+                {
+                    "title": "春夏焕新衣",
+                    "acm": "3.mce.1_10_1ayx0.40298.0.zmryYqhiQUUlI.m_255878",
+                    "link": "http://act.mogujie.com/mjacket?acm=3.mce.1_10_1ayx0.40298.0.zmryYqhiQUUlI.m_255878",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170419_8cfglkl875al17agdjag02i189ecf_220x220.jpg",
+                    "viceTitle": "{每日10点速递  不止7折}",
+                    "titleColor": "#ff5f7e",
+                    "effectETime": ""
+                },
+                {
+                    "title": "初夏美鞋",
+                    "acm": "3.mce.1_10_1az58.40298.0.zmryYqhiQUUlJ.m_256026",
+                    "link": "http://act.mogujie.com/mshoe?acm=3.mce.1_10_1az58.40298.0.zmryYqhiQUUlJ.m_256026",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170420_1805c11i2fc7kcb53ej0929gj3geg_180x180.jpg",
+                    "viceTitle": "{ 品牌立减30}",
+                    "titleColor": "#ff5f7e",
+                    "effectETime": ""
+                },
+                {
+                    "title": "不裤不型",
+                    "acm": "3.mce.1_10_1ayxa.40298.0.zmryYqhiQUUlK.m_255883",
+                    "link": "http://act.mogujie.com/mtrousers?acm=3.mce.1_10_1ayxa.40298.0.zmryYqhiQUUlK.m_255883",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170420_16fi0c25d96l7fekdckabf15l700h_180x180.jpg",
+                    "viceTitle": "{10000+上新 5折尝鲜}",
+                    "titleColor": "#ff5f7e",
+                    "effectETime": ""
+                },
+                {
+                    "title": "人气美裙",
+                    "acm": "3.mce.1_10_1az56.40298.0.zmryYqhiQUUlL.m_256025",
+                    "link": "http://act.mogujie.com/mdress?acm=3.mce.1_10_1az56.40298.0.zmryYqhiQUUlL.m_256025",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170419_768kdiih6d1c4fc22gcglhl682d8f_220x220.jpg",
+                    "viceTitle": "{3折新裙 限量抢}",
+                    "titleColor": "#ff5f7e",
+                    "effectETime": ""
+                },
+                {
+                    "title": "包你喜欢",
+                    "acm": "3.mce.1_10_1az5a.40298.0.zmryYqhiQUUlM.m_256027",
+                    "link": "http://act.mogujie.com/mbags?acm=3.mce.1_10_1az5a.40298.0.zmryYqhiQUUlM.m_256027",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170420_6e66gih9026alaggki7k7gh399411_180x180.jpg",
+                    "viceTitle": "{特卖折扣区3折起}",
+                    "titleColor": "#ff5f7e",
+                    "effectETime": ""
+                },
+                {
+                    "title": "内衣尚新",
+                    "acm": "3.mce.1_10_1az5c.40298.0.zmryYqhiQUUlN.m_256028",
+                    "link": "http://act.mogujie.com/underwear?acm=3.mce.1_10_1az5c.40298.0.zmryYqhiQUUlN.m_256028",
+                    "image": "https://s11.mogucdn.com/mlcdn/c45406/170420_10ggf8l4c2ecbhjl0l624gl4gjb96_180x180.jpg",
+                    "viceTitle": "{宅家也要美美哒}",
+                    "titleColor": "#ff5f7e",
+                    "effectETime": ""
+                }
+            ],
+            "nextPage": 1
+        }
+    },
+    "returnCode": "SUCCESS",
+    "success": true
+}
