@@ -1,9 +1,60 @@
 <!--头部-->
 <div id="header"></div>
+
+<!--描述：外层的盒子-->
 <div id="box">
-	<p>home</p>
-	<p>{{name}}</p>
-	<p>学登进来了</p>
-	<p>余志刚休息休息休息</p>
+	    <!--首页轮播图-->
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide" ng-repeat="item in arrSwiper">
+                <img src="{{item.image}}" alt=""/>
+            </div>
+        </div>
+        <!-- 如果需要分页器 -->
+        <div class="swiper-pagination"></div>
+    </div>
+    
+    <!--团购，每日上新，新人专享-->
+    <div id="threeTitle" class="clearfix">
+    	<ul class="content1">
+        	<li  ng-repeat="item in arr1">
+        		<a href="">
+        			<p>{{item.title}}</p>
+        			<p>{{item.description}}</p>
+        			<div>
+        				<img src="{{item.image}}" alt="">
+        			</div>
+        		</a>
+        	</li>
+    	</ul>
+    </div>
+    
+    
+    <!--秒杀-->
+    <div id="sec">
+    	<div class="home-sec-top clearfix">
+    		<p>{{arrMiaotitle.title}}</p>
+    		<span>000000</span>
+    		<a href="{{arrMiaotitle.moreLink}}"><img src="img/more_84x20.png" alt="" /></a>
+    	</div>
+    	<div class="home-sec-bottom">
+    		
+    	</div>
+    </div>
+    
+    <!--拼团-->
+    <div id="pintuan">
+    	
+    </div>
+    
+    <!--实惠促销-->
+    <div id="chuxiao">
+    	
+    </div>
+    
+    <!--热门精选专题-->
+    <div id="jinxuan">
+    	
+    </div>
 </div>
 
