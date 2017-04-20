@@ -73,3 +73,8 @@ img{
 .b_b{
 	border-bottom: 1px solid #eee;
 }
+
+html,body{
+	width: 100%;
+	height: 100%;
+}
