@@ -218,6 +218,17 @@
 	width: 100%;
 	height: 100%;
 }
+/*修改跳转盒子*/
+#toGroupBuying{
+	position: fixed;
+	top:0 ;
+	width: 100%;
+	height: 100%;
+	z-index: 999;
+}
+.active{display: none;}
+.inactive{display: block;}
+/*学登修改的代码*/
 .active{display: none;}
 .inactive{display: block;}
 /*学登修改的代码*/
