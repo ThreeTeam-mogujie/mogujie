@@ -3,13 +3,29 @@ angular.module('groupBuyingModule',[])
 	$stateProvider
 		.state('home.groupBuying',{
 			url:'/groupBuying',
-			tetemplateUrl:'components/home/groupBuying/groupBuying.html',
+			templateUrl:'components/home/groupBuying/groupBuying.html',
 			controller:'groupBuyingCtrl',
-			css:components/home/groupBuying/groupBuying.css
+			css:['components/home/home.css','components/home/groupBuying/groupBuying.css']
 
 		})
 })
 
-.controller('groupBuyingCtrl',['$scope',function($scope){
+.controller('groupBuyingCtrl',['$scope','$http',function($scope,$http){
+	//u质团
+	$http.get('components/home/groupBuying/json/uGroup.json').success(function(res){
+		$scope.bannerImg = res.data[12908].list[0].image;
+		$scope.ugroup = res.data[12777].list;
+	})
+	//品牌团
+	$http.get('components/home/groupBuying/json/brandTuan.json').success(function(res){
+//      console.log(res.result.handschop);
+        $scope.brand = res.result.handschop.brand;
+        $scope.brandlist = res.result.handschop.list;
+	})
 	
+	//大家都在买
+	$http.get('components/home/groupBuying/json/allBuy.json').success(function(res){
+        console.log(res.data[12853].list);
+        $scope.allbuy = res.data[12853].list;
+	})
 }])

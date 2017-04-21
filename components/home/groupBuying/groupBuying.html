@@ -1,4 +1,5 @@
 <div id="home-groupBuyingWrap">
+<!--导航-->
 	<div id="home-groupBuyingWrapNav">
 		<a href="javascript:void(0)">精选</a>
 		<div id="home-groupBuyingWrapNavList">
@@ -8,8 +9,54 @@
 				<a href="javascript:void(0)"><span>包包</span></a>
 				<a href="javascript:void(0)"><span>美妆</span></a>
 				<a href="javascript:void(0)"><span>男友</span></a>
-			</div>
-			
+				<a href="javascript:void(0)"><span>内衣</span></a>
+				<a href="javascript:void(0)"><span>生活</span></a>
+				<a href="javascript:void(0)"><span>运动</span></a>
+				<a href="javascript:void(0)"><span>配饰</span></a>
+				<a href="javascript:void(0)"><span>母婴</span></a>
+				<a href="javascript:void(0)"><span>食品</span></a>
+			</div>			
 		</div>
 	</div>
+	<div id="GroupBuyingmain">
+		<!--轮播-->
+		<div id="groupBuyingBanner">
+			<img src="{{bannerImg}}"/>
+		</div>
+		<!--u质团-->
+		<div id="Ugroup">
+			<li ng-repeat="item in ugroup" ><a href="javascript:void(0)"><img src="{{item.image}}"/></a><p ng-style="{color:'{{item.titleColor}}'}">{{item.title}}</p><span>{{item.description}}</span></li>
+		
+			<!--品牌团-->
+		<div id="brandTuanWrap">
+			<div id="brandTuan">
+				<li id="tuanW">
+					<div>品牌团</div>
+					<p>甄选尖货大牌满减</p>
+					<span>查看更多</span>
+				</li>
+				<div id="brandTuanRight">
+					<li ng-repeat="item in brand"><img src="{{item.logo}}"/><p>{{item.name}}</p></li>
+					<li class="brandList" ng-repeat="item1 in brandlist"><img src="{{item1.logo}}"/><p>{{item1.name}}</p></li>
+				</div>
+				
+			</div>
+		</div>
+		</div>
+		
+		<!--大家都在买-->
+		<div id="allBuyTitle"><h4>大家都在买·</h4><span>特价尖货限时抢购</span></div>
+		<div id="allBuyWrap">
+			<div id="allBuyList">				
+				<a href="javascript:void(0)" ng-repeat="item in allbuy">
+					<img src="{{item.image}}"/>
+					<p>{{item.title}}</p>
+					<p><span>{{item.discountPrice}}</span><span>{{item.price}}</span></p>
+					<p>已抢{{item.discount}}</p>
+				</a>
+			</div>
+		</div>
+		
+	</div>
+
 </div>
