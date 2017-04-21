@@ -18,7 +18,7 @@ angular.module('homeModule',[])
                 pagination: '.swiper-pagination',
 
             })
-        },10);
+        },50);
     }])
 .controller('homeCtrl',['$scope','$http','swiper',function($scope,$http){
 //        $scope.name='zhangzhang';
