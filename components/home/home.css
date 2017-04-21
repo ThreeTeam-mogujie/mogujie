@@ -371,3 +371,60 @@
 .home-jinxuan-bottom{
 	width: 100%;
 }
+.home-jinxuan-bottom>ul{
+	
+}
+.home-jinxuan-bottom>ul>li{
+	height: 21.42rem;
+	width: 100%;
+}
+.home-jinxuan-bottom>ul>li>a{
+	display: block;
+	width: 100%;
+}
+.home-jinxuan-bottom>ul>li>a>header{
+	background: #fff;
+    width: 94.7%;
+    position: relative;
+    margin: 0 2.65%;
+    padding-bottom: 40.33%;
+    height: 0;
+    overflow: hidden;
+    border-radius: 0.05rem;
+}
+.home-jinxuan-bottom>ul>li>a>header>img{
+	width: 100%;
+    height: auto;
+}
+.home-jinxuan-bottom>ul>li>footer{
+	height: 9.88rem;
+	padding-left: 0.2rem;
+    background: #fff;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 0.4rem;
+}
+.home-jinxuan-bottom>ul>li>footer>ul{
+	white-space: nowrap;
+	height: 100%;
+}
+.home-jinxuan-bottom>ul>li>footer>ul>li{
+	width: 5.94rem;
+	height: 100%;
+    display: inline-block;
+    margin: 0 0.1rem 0 0;
+}
+.home-jinxuan-bottom>ul>li>footer>ul>li>a{
+	display: block;
+}
+.home-jinxuan-bottom>ul>li>footer>ul>li>a>div{
+	width: 100%;
+    height: 5.94rem;
+    margin-top: 0.2rem;
+    border-radius: 0.05rem;
+    overflow: hidden;
+}
+.home-jinxuan-bottom>ul>li>footer>ul>li>a>div>img{
+	width: 100%;
+	height: auto
+}
