@@ -1,13 +1,116 @@
-#header{
-    height: 10%;
-    width: 100%;
-    background: #ffd600;
-    position: fixed;
-    top: 0;
+.category{
+	width:100% ;
+	height: 100%;
+	overflow: hidden;
+	position: relative;
+}
+
+#categoryHeader{
+	width: 100%;
+	height: 9%;
+	background: yellow;
+	position: fixed;
     z-index: 2;
 }
-#box{
-    height: 100%;
-    width: 100%;
-    margin-top: 10%;
+
+.category_leftMenu{
+	position: absolute;
+	top: 10%;
+	width: 25%;
+	height: 90%;
+	float: left;
+	overflow: auto;
 }
+
+.category_leftMenu>ul>li{
+	height: 3.5rem;
+	line-height: 3.5rem;
+	background: #F6F6F6;
+	text-align: center;
+	position: relative;
+}
+.category_leftMenu>ul>li>a{
+	color: #A0A0A0;
+
+}
+.categorySelectItem{
+	display: inline-block;
+	width: 0.3rem;
+	margin-top: 1.25rem;
+	height: 1rem;
+	position: absolute;
+	left: 0;
+}
+
+.categorySelectedBackGround{
+	background: #FF5577;
+	
+}
+
+.category_leftMenu .categorySlectedColor{
+	color: #FF5577;
+	font-weight: bold;
+}
+
+.category_rightMenu{
+	position: absolute;
+	top: 10%;
+	width: 75%;
+	height: 90%;
+	left: 25%;
+	overflow: auto;
+}
+
+
+.rightCategoryProducts{
+	width: 33.33%;
+	float: left;
+	text-align: center;
+}
+.rightCategoryProducts>a{
+	display: inline-block;
+	color: #9A9A95;
+	
+}
+.rightCategoryProducts>a>img{
+	width: 70%;
+	margin: 0 auto;
+	margin-top: 10%;
+	padding-bottom: 0.5rem;
+
+}
+
+.rightCategoryProducts>a>img:first-of-type{
+	margin-top: 20%;
+}
+
+.category_leftMenu>ul .categoryNoneBackGround{
+	background: #FFFFFF;
+}
+.bannerHeadLi{
+	width: 100%;
+	margin-top: 5%;
+}
+
+.bannerHeadLi img{
+	width: 95%;
+	margin: 0 auto;
+	padding-bottom: 1rem;
+}
+.toufuNavigationLi{
+	width: 33.33%;
+	float: left;
+}
+
+.toufuNavigationLi img{
+	width: 95%;
+	margin:  0 auto;
+
+}
+
+.toufuNavigationDiv{
+	
+	width: 95%;
+	margin:  0 auto;
+}
+
