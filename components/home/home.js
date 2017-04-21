@@ -37,8 +37,11 @@ angular.module('homeModule',[])
 //
 //          //秒杀
 			console.log(res.data[41119].list[0].title);
-          $scope.arrMiaotitle = res.data[41119];
-          //$scope.arrMiao-arr = res.data[41119]
+          $scope.arrMiaotitle = res.data[41119].list[0].title;
+          $scope.arrMiaoarr = res.data[41119].list[0].list;
 //            $scope.arrLast2 = res.data.act_info[5].act_rows[0].category_detail.goods;
+
+			//超实惠-促销直达
+			$scope.arrShihui = res.data[40298].list;
         });
     }]);

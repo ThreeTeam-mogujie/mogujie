@@ -33,12 +33,21 @@
     <!--秒杀-->
     <div id="sec">
     	<div class="home-sec-top clearfix">
-    		<p>{{arrMiaotitle.title}}</p>
+    		<p>{{arrMiaotitle}}</p>
     		<span>000000</span>
     		<a href="{{arrMiaotitle.moreLink}}"><img src="img/more_84x20.png" alt="" /></a>
     	</div>
-    	<div class="home-sec-bottom">
-    		
+    	<div class="home-sec-bottom ">
+    		<ul class="clearfix">
+    			<li ng-repeat="item in arrMiaoarr">
+    				<a href="">
+    					<div><img src="{{item.img}}" alt="" /></div>
+    					<p>{{item.title}}</p>
+    					<p>{{item.salePrice}}<span></span></p>
+    				</a>
+    			</li>
+    			
+    		</ul>
     	</div>
     </div>
     
@@ -48,13 +57,31 @@
     </div>
     
     <!--实惠促销-->
-    <div id="chuxiao">
-    	
+    <div id="shihui">
+    	<div class="home-shihui-top">
+    		超实惠-促销直达
+    	</div>
+    	<div class="home-shihui-bottom clearfix">
+    		<ul>
+    			<li ng-repeat="item in arrShihui">
+    				<div>
+    					<p>{{item.title}}</p>
+    					<p>{{item.viceTitle}}</p>
+    				</div>
+    				<div><img src="{{item.image}}" alt="" /></div>
+    			</li>
+    		</ul>
+    	</div>
     </div>
     
     <!--热门精选专题-->
     <div id="jinxuan">
-    	
+    	<div class="home-jinxuan-top">
+    		热门精选专题
+    	</div>
+    	<div class="home-jinxuan-bottom">
+    		
+    	</div>
     </div>
 </div>
 

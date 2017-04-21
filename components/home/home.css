@@ -24,6 +24,7 @@
 /*团购，每日上新，新人专享*/
 #threeTitle{
 	margin: 0.5rem 0;
+	border: 1px solid gray;
 }
 #threeTitle.content1{
     width: 100%;
@@ -59,13 +60,14 @@
 /*秒杀*/
 #sec{
 	margin: 0.5rem 0;
+	border: 1px solid gray;
 }
 .home-sec-top{
 	padding: 0.5rem;
 }
 .home-sec-top p{
 	float: left;
-	width: 3rem;
+	width: 8rem;
 	height: 1.5rem;
 }
 .home-sec-top span{
@@ -77,4 +79,187 @@
 .home-sec-top a{
 	float: right;
 	display: inline-block;
+}
+.home-sec-bottom{
+	height: 10rem;
+	/*width: 100%;*/
+	overflow-x: auto;
+	overflow-y:hidden;
+	/*background: red;*/
+	white-space: nowrap;
+}
+.home-sec-bottom ul{
+	height: 100%;
+	width: 100%;
+		
+}
+.home-sec-bottom ul>li{
+	height: 100%;
+	width: 25%;
+	border: 1px solid red;
+	display: inline-block;
+	/*float: left;*/
+
+	margin-right: 0.2rem;
+}
+.home-sec-bottom ul>li>a{
+	
+}
+.home-sec-bottom ul>li>a>div{
+	width: 100%;
+	height: 4rem;
+	text-align: center;
+	/*background: red;*/
+	display: flex;
+	justify-content: center;
+	white-space: nowrap;
+}
+.home-sec-bottom ul>li>a>p:last-child{
+	color: red;
+}
+.home-sec-bottom ul>li>a>div>img{
+	width: 50%;
+}
+.home-sec-bottom ul>li>a>p{
+	white-space: normal;
+}
+
+
+/*超实惠-促销直达*/
+#shihui{
+	margin: 0.5rem 0;
+	border: 1px solid gray;
+}
+.home-shihui-top{
+	padding: 0.5rem;
+	height: 3rem;
+}
+.home-shihui-bottom{
+	/*height: 10rem;*/
+	width: 100%;
+}
+.home-shihui-bottom>ul{
+	height: 100%;
+	width: 100%;
+}
+.home-shihui-bottom>ul>li{
+	border: 1px solid gray;
+	float: left;
+}
+.home-shihui-bottom>ul>li:nth-child(3n+1){
+	width: 40%;
+	height: 14rem;
+	/*background: green;*/
+	position: relative;
+}
+.home-shihui-bottom>ul>li:nth-child(3n+2){
+	width: 60%;
+	height: 7rem;
+	/*background: red;*/
+	position: relative;
+}
+.home-shihui-bottom>ul>li:nth-child(3n){
+	width: 60%;
+	height: 7rem;
+	/*background: blue;*/
+	position: relative;
+}
+.home-shihui-bottom>ul>li:nth-child(3n+1)>div:first-child{
+	position: absolute;
+	width: 100%;
+    text-align: center;
+    top: .54rem;
+    left: 0;
+    /*z-index: 8;*/
+}
+.home-shihui-bottom>ul>li:nth-child(3n+1)>div:first-child>p:last-child{
+	color: red;
+}
+.home-shihui-bottom>ul>li:nth-child(3n+1)>div:last-child{
+	position: absolute;
+    bottom: 0;
+    left: 30%;
+    width: 8rem;
+    height: 8rem;
+    margin-left: -1.1rem;
+    /*z-index: 7;*/
+    overflow: hidden;
+}
+.home-shihui-bottom>ul>li:nth-child(3n+1)>div:last-child>img{
+	width: 50%;
+}
+
+.home-shihui-bottom>ul>li:nth-child(3n+2)>div:first-child{
+	position: absolute;
+	width: 50%;
+    text-align: left;
+    top: .54rem;
+    left: 0;
+    /*z-index: 8;*/
+    /*float: left;*/
+}
+.home-shihui-bottom>ul>li:nth-child(3n+2)>div:first-child>p:last-child{
+	color: red;
+}
+.home-shihui-bottom>ul>li:nth-child(3n+2)>div:last-child{
+	position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 50%;
+    height: 100%;
+    margin-left: -1.1rem;
+    /*z-index: 7;*/
+    overflow: hidden;
+    display: flex;
+	justify-content: center;
+	padding: 5%;
+	/*float: left;*/
+}
+.home-shihui-bottom>ul>li:nth-child(3n+2)>div:last-child>img{
+	width: 100%;
+	height: 100%;
+}
+
+.home-shihui-bottom>ul>li:nth-child(3n)>div:first-child{
+	position: absolute;
+	width: 50%;
+    text-align: left;
+    top: .54rem;
+    left: 0;
+    /*z-index: 8;*/
+}
+.home-shihui-bottom>ul>li:nth-child(3n)>div:first-child>p:last-child{
+	color: red;
+}
+.home-shihui-bottom>ul>li:nth-child(3n)>div:last-child{
+	position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 50%;
+    height: 100%;
+    margin-left: -1.1rem;
+    /*z-index: 7;*/
+    overflow: hidden;
+    display: flex;
+	justify-content: center;
+	padding: 5%;
+}
+.home-shihui-bottom>ul>li:nth-child(3n)>div:last-child>img{
+	width: 100%;
+	height: 100%;
+	
+}
+
+
+/*热门精选专题*/
+#jinxuan{
+	margin: 0.5rem 0;
+	border: 1px solid gray;
+}
+.home-jinxuan-top{
+	padding: 0.5rem;
+	height: 3rem;
+}
+.home-jinxuan-bottom{
+	width: 100%;
 }
