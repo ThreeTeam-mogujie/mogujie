@@ -45,14 +45,30 @@
 		</div>
 		
 		<!--大家都在买-->
+		<div id="allBuyTitle"><h4>大家都在买·</h4><span>特价尖货限时抢购</span></div>
 		<div id="allBuyWrap">
-			<div id="allBuyList">
-				<div id="allBuyTitle"><h4>大家都在买·</h4><p>特价尖货限时抢购</p></div>
+			<div id="allBuyList">				
 				<a href="javascript:void(0)" ng-repeat="item in allbuy">
 					<img src="{{item.image}}"/>
 					<p>{{item.title}}</p>
-					<p><span>{{item.discountPrice}}</span><span>{{item.price}}</span></p>
-					<p>已抢{{item.discount}}</p>
+					<p><span>¥{{item.discountPrice}}</span><span>{{'¥'+item.price}}</span></p>
+					<p>已抢:{{item.discount}}</p>
+				</a>
+			</div>
+		</div>
+		
+		<!--今日精选-->
+		<div id="todayBuy"><h4>今日精选·</h4><span>特价尖货限时抢购</span></div>
+		<div id="todayBuyWrap">
+			<div id="todayBuyList">	
+				<img src="{{allGoods[0].show.img}}"/><img src="{{allGoods[1].show.img}}"/>
+				<a href="javascript:void(0)" ng-repeat="(i,item) in allGoods" ng-if="i>1" >
+					<img src="{{item.img}}"/>
+					<p>{{item.title}} </p>
+					<p>良品</p>
+					<p>¥{{item.originalPrice}}</p>
+					<p>¥{{item.price}}</p>
+					<p>省¥{{(item.originalPrice-item.price)|number:0}}</p>
 				</a>
 			</div>
 		</div>

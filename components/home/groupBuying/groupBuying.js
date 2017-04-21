@@ -25,7 +25,16 @@ angular.module('groupBuyingModule',[])
 	
 	//大家都在买
 	$http.get('components/home/groupBuying/json/allBuy.json').success(function(res){
-        console.log(res.data[12853].list);
+//      console.log(res.data[12853].list);
         $scope.allbuy = res.data[12853].list;
 	})
+	//今日精选
+	
+	$http.get('components/home/groupBuying/json/choiceTody.json').success(function(res){
+        console.log(res.result.wall);
+        console.log(1);
+        $scope.allGoods = res.result.wall.docs;
+	})
+	
+	
 }])
