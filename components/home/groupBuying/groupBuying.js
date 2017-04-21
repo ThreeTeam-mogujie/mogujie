@@ -18,8 +18,14 @@ angular.module('groupBuyingModule',[])
 	})
 	//品牌团
 	$http.get('components/home/groupBuying/json/brandTuan.json').success(function(res){
-        console.log(res.result.handschop);
+//      console.log(res.result.handschop);
         $scope.brand = res.result.handschop.brand;
         $scope.brandlist = res.result.handschop.list;
+	})
+	
+	//大家都在买
+	$http.get('components/home/groupBuying/json/allBuy.json').success(function(res){
+        console.log(res.data[12853].list);
+        $scope.allbuy = res.data[12853].list;
 	})
 }])

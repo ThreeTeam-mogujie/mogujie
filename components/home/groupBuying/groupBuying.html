@@ -43,7 +43,19 @@
 			</div>
 		</div>
 		</div>
-	
+		
+		<!--大家都在买-->
+		<div id="allBuyWrap">
+			<div id="allBuyList">
+				<div id="allBuyTitle"><h4>大家都在买·</h4><p>特价尖货限时抢购</p></div>
+				<a href="javascript:void(0)" ng-repeat="item in allbuy">
+					<img src="{{item.image}}"/>
+					<p>{{item.title}}</p>
+					<p><span>{{item.discountPrice}}</span><span>{{item.price}}</span></p>
+					<p>已抢{{item.discount}}</p>
+				</a>
+			</div>
+		</div>
 		
 	</div>
 
