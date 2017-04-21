@@ -21,6 +21,12 @@ angular.module('homeModule',[])
         },10);
     }])
 .controller('homeCtrl',['$scope','$http','swiper',function($scope,$http){
+	/*登的修改*/
+	$scope.isActive = true;
+	$scope.viewGroupBuying = function(){
+		$scope.isActive = !$scope.isActive;
+	}
+	/**/
 //        $scope.name='zhangzhang';
         $http.get('components/home/home.json').success(function(res){
             //console.log(res.data.act_info[0].act_rows);

@@ -38,7 +38,7 @@
 }
 .content1>li>a{
 	padding: 0 10%;
-	
+	display: inline-block;
 }
 .content1>li>a>p{
     text-align: center;
@@ -78,3 +78,19 @@
 	float: right;
 	display: inline-block;
 }
+
+
+
+
+/*学登修改的代码*/
+#toGroupBuying{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 999;
+	background: white;
+}
+.active{display: none;}
+.inactive{display: block;}
+/*学登修改的代码*/

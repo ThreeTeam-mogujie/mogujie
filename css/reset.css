@@ -35,7 +35,9 @@ a{
 ol,ul{
 	list-style: none;
 }
-
+li{
+	list-style: none;
+}
 img{
 	border: none;
 	display: block;
