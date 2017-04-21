@@ -124,6 +124,104 @@
 	white-space: normal;
 }
 
+/*超实惠-促销直达*/
+#shihui{
+	margin: 0.5rem 0;
+	border: 1px solid gray;
+}
+.home-shihui-top{
+	padding: 0.5rem;
+	height: 3rem;
+}
+.home-shihui-bottom{
+	/*height: 10rem;*/
+	width: 100%;
+}
+.home-shihui-bottom>ul{
+	height: 100%;
+	width: 100%;
+}
+.home-shihui-bottom>ul>li{
+	border: 1px solid gray;
+	float: left;
+}
+.home-shihui-bottom>ul>li:nth-child(3n+1){
+	width: 40%;
+	height: 14rem;
+	/*background: green;*/
+	position: relative;
+}
+.home-shihui-bottom>ul>li:nth-child(3n+2){
+	width: 60%;
+	height: 7rem;
+	/*background: red;*/
+	position: relative;
+}
+.home-shihui-bottom>ul>li:nth-child(3n){
+	width: 60%;
+	height: 7rem;
+	/*background: blue;*/
+	position: relative;
+}
+.home-shihui-bottom>ul>li:nth-child(3n+1)>div:first-child{
+	position: absolute;
+	width: 100%;
+    text-align: center;
+    top: .54rem;
+    left: 0;
+    /*z-index: 8;*/
+}
+.home-shihui-bottom>ul>li:nth-child(3n+1)>div:first-child>p:last-child{
+	color: red;
+}
+.home-shihui-bottom>ul>li:nth-child(3n+1)>div:last-child{
+	position: absolute;
+    bottom: 0;
+    left: 30%;
+    width: 8rem;
+    height: 8rem;
+    margin-left: -1.1rem;
+    /*z-index: 7;*/
+    overflow: hidden;
+}
+.home-shihui-bottom>ul>li:nth-child(3n+1)>div:last-child>img{
+	width: 50%;
+}
+
+.home-shihui-bottom>ul>li:nth-child(3n+2)>div:first-child{
+	position: absolute;
+	width: 50%;
+    text-align: left;
+    top: .54rem;
+    left: 0;
+    /*z-index: 8;*/
+    /*float: left;*/
+}
+.home-shihui-bottom>ul>li:nth-child(3n+2)>div:first-child>p:last-child{
+	color: red;
+}
+.home-shihui-bottom>ul>li:nth-child(3n+2)>div:last-child{
+	position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 50%;
+    height: 100%;
+    margin-left: -1.1rem;
+    /*z-index: 7;*/
+    overflow: hidden;
+    display: flex;
+	justify-content: center;
+	padding: 5%;
+	/*float: left;*/
+}
+.home-shihui-bottom>ul>li:nth-child(3n+2)>div:last-child>img{
+	width: 100%;
+	height: 100%;
+}
+.active{display: none;}
+.inactive{display: block;}
+/*学登修改的代码*/
+
 
 /*超实惠-促销直达*/
 #shihui{
@@ -219,7 +317,6 @@
 	width: 100%;
 	height: 100%;
 }
-
 .home-shihui-bottom>ul>li:nth-child(3n)>div:first-child{
 	position: absolute;
 	width: 50%;
