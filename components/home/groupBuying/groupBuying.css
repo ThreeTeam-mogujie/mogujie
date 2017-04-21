@@ -35,6 +35,10 @@
 
 
 
+/*大家都在买*/
+#allBuyTitle{width: 100%;height:2.14rem;}
+#allBuyWrap{width: 100%;height:12.67rem ;}
+#allBuyList{width: 100%;height: 100%;overflow-x: auto;}
 
 
 
