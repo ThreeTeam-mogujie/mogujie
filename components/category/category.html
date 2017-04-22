@@ -1,15 +1,25 @@
 <!--头部-->
-<div id="header"></div>
-<div id="box">
-	<ul>
-	<li>1</li>
-	<li>1</li>
-	<li>1</li>
-	<li>1</li>
-	<li>1</li>
-	<li>1</li>
-	<li>1</li>
-	<li>1</li>
-</ul>
+<div class="category">
+	<div id="categoryHeader">
+	
+	</div>
+
+	<div class="category_leftMenu clearfix">
+		<ul>
+			<li ng-repeat='item in leftMenuCategoryArr' ng-click="initCategoryLeftMenu($event,item.maitKey,$index,item.miniWallkey)" ng-class="{'categoryNoneBackGround':$index==isCategoryLeftSelected}">
+				<span class='categorySelectItem' ng-class="{'categorySelectedBackGround':$index==isCategoryLeftSelected}"></span>
+				<a href='javascript:void(0)' ng-class="{'categorySlectedColor':$index==isCategoryLeftSelected}">{{item.title}}</a></li>
+		</ul>
+		
+	
+	</div>
+	
+	<div class="category_rightMenu clearfix">
+		<ul>
+			<li ng-repeat='item in rightMenuCategoryArr.bannerHead.list' class="bannerHeadLi"><img src="{{item.image}}"/></li>
+			<div class="toufuNavigationDiv"><li ng-repeat='item in rightMenuCategoryArr.toufuNavigation.list' class="toufuNavigationLi"><img src="{{item.image}}"/></li></div>
+			<li ng-repeat='item in rightMenuCategoryArr.categoryNavigation.list' class="rightCategoryProducts"><a href="#"><img src="{{item.image}}" /><p>{{item.title}}</p></a></li>
+		</ul>
+	</div>
 </div>
 

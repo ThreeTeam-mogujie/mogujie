@@ -1,0 +1,148 @@
+{
+    "data": {
+        "4604": {
+            "context": {
+                "currentTime": 1492688455
+            },
+            "isEnd": true,
+            "list": [
+                {
+                    "selected": "https://s2.mogucdn.com/p2/170315/40592144_6ii829464gk34ai4hkdf14cdea05d_44x44.png",
+                    "title": "首页",
+                    "acm": "3.mce.1_10_19wsk.4604.0.zmryYqhkQC1st.m_231174",
+                    "link": "http://m.mogujie.com?mt=12.4604.r84325.4583&acm=3.mce.1_10_19wsk.4604.0.zmryYqhkQC1st.m_231174",
+                    "image": "https://s2.mogucdn.com/p2/170315/40592144_5a62k5aecifecf3iaddc0eb2l384b_44x44.png"
+                },
+                {
+                    "selected": "https://s2.mogucdn.com/p2/170315/40592144_6c127ldgd4ccebg2e8i42kedgdd69_44x44.png",
+                    "title": "分类",
+                    "acm": "3.mce.1_10_19wso.4604.0.zmryYqhkQC1su.m_231176",
+                    "link": "http://act.mogujie.com/cateyichi?ismobile=1&mt=12.4604.r84327.4583&acm=3.mce.1_10_19wso.4604.0.zmryYqhkQC1su.m_231176",
+                    "image": "https://s2.mogucdn.com/p2/170315/40592144_0b8i11l822b0adfjaaifl11ig86f1_44x44.png"
+                },
+                {
+                    "selected": "https://s2.mogucdn.com/p2/170315/40592144_4l6kkh68522ha1je77i1gfa4b82j2_44x44.png",
+                    "title": "购物车",
+                    "acm": "3.mce.1_10_1b1l6.4604.0.zmryYqhkQC1sv.m_257609",
+                    "link": "http://m.mogujie.com/x6/cart/list?acm=3.mce.1_10_1b1l6.4604.0.zmryYqhkQC1sv.m_257609",
+                    "image": "https://s2.mogucdn.com/p2/170315/40592144_67ja8jj102089fj6djai0l6khb0h5_44x44.png"
+                },
+                {
+                    "selected": "https://s2.mogucdn.com/p2/170315/40592144_4aba4gee9khhe66df2723085cg75h_44x44.png",
+                    "title": "我的",
+                    "acm": "3.mce.1_10_19wsq.4604.0.zmryYqhkQC1sw.m_231177",
+                    "link": "http://h5.mogujie.com/mgj-personal/personal.html?mt=12.4604.r98160.4583&acm=3.mce.1_10_19wsq.4604.0.zmryYqhkQC1sw.m_231177",
+                    "image": "https://s2.mogucdn.com/p2/170315/40592144_35ikl8db8a4lfa3f29k8k4b9k3ji2_44x44.png"
+                }
+            ],
+            "nextPage": 1
+        },
+        "41789": {
+            "context": {
+                "currentTime": 1492688455
+            },
+            "isEnd": true,
+            "list": [
+                {
+                    "miniWallkey": "10062603",
+                    "title": "正在流行",
+                    "maitKey": "41888",
+                    "acm": "3.mce.1_10_1b5n6.41789.0.zmryYqhkQBwW2.m_260237"
+                },
+                {
+                    "miniWallkey": "50003",
+                    "title": "上衣",
+                    "maitKey": "41846",
+                    "acm": "3.mce.1_10_1b5h6.41789.0.zmryYqhkQBwW3.m_260129"
+                },
+                {
+                    "miniWallkey": "50005",
+                    "title": "裤子",
+                    "maitKey": "41851",
+                    "acm": "3.mce.1_10_1b5ns.41789.0.zmryYqhkQBwW4.m_260248"
+                },
+                {
+                    "miniWallkey": "50004",
+                    "title": "裙子",
+                    "maitKey": "41860",
+                    "acm": "3.mce.1_10_1b5ne.41789.0.zmryYqhkQBwW5.m_260241"
+                },
+                {
+                    "miniWallkey": "50006",
+                    "title": "内衣",
+                    "maitKey": "41855",
+                    "acm": "3.mce.1_10_1b5nk.41789.0.zmryYqhkQBwW6.m_260244"
+                },
+                {
+                    "miniWallkey": "50532",
+                    "title": "女鞋",
+                    "maitKey": "41859",
+                    "acm": "3.mce.1_10_1b5nq.41789.0.zmryYqhkQBwW7.m_260247"
+                },
+                {
+                    "miniWallkey": "51716",
+                    "title": "男友",
+                    "maitKey": "41853",
+                    "acm": "3.mce.1_10_1b5oo.41789.0.zmryYqhkQBwW8.m_260264"
+                },
+                {
+                    "miniWallkey": "50675",
+                    "title": "包包",
+                    "maitKey": "41863",
+                    "acm": "3.mce.1_10_1b5nu.41789.0.zmryYqhkQBwW9.m_260249"
+                },
+                {
+                    "miniWallkey": "10056587",
+                    "title": "运动",
+                    "maitKey": "41892",
+                    "acm": "3.mce.1_10_1b5o8.41789.0.zmryYqhkQBwWa.m_260256"
+                },
+                {
+                    "miniWallkey": "50797",
+                    "title": "配饰",
+                    "maitKey": "41874",
+                    "acm": "3.mce.1_10_1b5oa.41789.0.zmryYqhkQBwWb.m_260257"
+                },
+                {
+                    "miniWallkey": "50010",
+                    "title": "美妆",
+                    "maitKey": "41875",
+                    "acm": "3.mce.1_10_1b5oc.41789.0.zmryYqhkQBwWc.m_260258"
+                },
+                {
+                    "miniWallkey": "52378",
+                    "title": "个护",
+                    "maitKey": "41878",
+                    "acm": "3.mce.1_10_1b5oe.41789.0.zmryYqhkQBwWd.m_260259"
+                },
+                {
+                    "miniWallkey": "10057031",
+                    "title": "家居",
+                    "maitKey": "41879",
+                    "acm": "3.mce.1_10_1b5og.41789.0.zmryYqhkQBwWe.m_260260"
+                },
+                {
+                    "miniWallkey": "10060232",
+                    "title": "百货",
+                    "maitKey": "41880",
+                    "acm": "3.mce.1_10_1b5oi.41789.0.zmryYqhkQBwWf.m_260261"
+                },
+                {
+                    "miniWallkey": "50522",
+                    "title": "母婴",
+                    "maitKey": "41884",
+                    "acm": "3.mce.1_10_1b5ok.41789.0.zmryYqhkQBwWg.m_260262"
+                },
+                {
+                    "miniWallkey": "52014",
+                    "title": "食品",
+                    "maitKey": "41886",
+                    "acm": "3.mce.1_10_1b5om.41789.0.zmryYqhkQBwWh.m_260263"
+                }
+            ],
+            "nextPage": 1
+        }
+    },
+    "returnCode": "SUCCESS",
+    "success": true
+}
