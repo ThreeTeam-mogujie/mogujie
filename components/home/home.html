@@ -7,7 +7,9 @@
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide" ng-repeat="item in arrSwiper">
-                <img src="{{item.image}}" alt=""/>
+            	<a ui-sref='.summerBuying' href="" ng-click=viewGroupBuying()>  
+            		<img src="{{item.image}}" alt=""/>
+            	</a>
             </div>
         </div>
         <!-- 如果需要分页器 -->
@@ -98,6 +100,23 @@
     			</li>
     			
     		</ul>
+    	</div>
+    </div>
+    
+    <!--猜你喜欢-->
+    <div id="footer">
+    	<div class="footer-top">猜你喜欢</div>
+    	<div class="footer-bottom">
+    		<div class="footer-bottom-list">
+    			<a href="javascript:void(0)" ng-repeat="(i,item) in arrList" ng-if="i>1" >
+					<img src="{{item.img}}"/>
+					<p>{{item.title}} </p>
+					<p>良品</p>
+					<p>¥{{item.originalPrice}}</p>
+					<p>¥{{item.price}}</p>
+					<p>省¥{{(item.originalPrice-item.price)|number:0}}</p>
+				</a>
+    		</div>
     	</div>
     </div>
     <div ng-class="{true: 'active', false: 'inactive'}[isActive]" id="toGroupBuying"  ui-view>
