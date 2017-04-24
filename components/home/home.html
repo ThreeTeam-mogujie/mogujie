@@ -1,4 +1,4 @@
-tr<!--头部-->
+<!--头部-->
 <div id="header"></div>
 
 <!--描述：外层的盒子-->
@@ -80,7 +80,24 @@ tr<!--头部-->
     		热门精选专题
     	</div>
     	<div class="home-jinxuan-bottom">
-    		
+    		<ul>
+    			<li ng-repeat="item in arrTitle">
+    				<a href="">
+    					<header><img src="{{item.cover}}" alt="" /></header>
+    				</a>
+    				<footer>
+    						<ul>
+    							<li ng-repeat="itemChildren in item.list">
+    								<a href="">
+    									<div><img src="{{itemChildren.image}}" alt="" /></div>
+    									<h6>{{itemChildren.discountPrice}}</h6>
+    								</a>
+    							</li>
+    						</ul>
+    					</footer>
+    			</li>
+    			
+    		</ul>
     	</div>
     </div>
     <div ng-class="{true: 'active', false: 'inactive'}[isActive]" id="toGroupBuying"  ui-view>
