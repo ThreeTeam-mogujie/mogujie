@@ -1,0 +1,55 @@
+<div id="UZGroupWrap">
+	<div id="UZHeader">
+		<img src="components/home/groupBuying/UZGroup/img/UZheadImg.png"/>
+	</div>
+	<div id="UZFul">
+	<!--2.24-->
+		<p ng-click=packUp() class="today2">2.24上新**</p>
+		<ul class="todayugoods" ng-show = 'isShow'>			
+			<li ng-repeat="item in todayGoods" >
+				<img src="{{item.itemImage}}"/>
+				<p>{{item.title}}</p>
+				<p><span>¥：{{item.discountPrice}}</span><span>领卷减10</span></p>
+				<p><img src="{{item.gradeChecker}}"/><span>{{item.description}}</span></p>
+			</li>
+		</ul>
+	<!--2.23-->
+		<p ng-click=packUp2() class="today2">2.23上新**</p>
+		<ul class="todayugoods" ng-show = 'iszuotianShow'>			
+			<li ng-repeat="item in zuotianGoods" >
+				<img src="{{item.itemImage}}"/>
+				<p>{{item.title}}</p>
+				<p><span>¥：{{item.discountPrice}}</span><span>领卷减10</span></p>
+				<p><img src="{{item.gradeChecker}}"/><span>{{item.description}}</span></p>
+			</li>
+		</ul>
+	<!--2.22-->
+		<p ng-click=packUp3() class="today2">2.22上新**</p>
+		<ul class="todayugoods" ng-show = 'isqiantianShow'>			
+			<li ng-repeat="item in zuotianGoods" >
+				<img src="{{item.itemImage}}"/>
+				<p>{{item.title}}</p>
+				<p><span>¥：{{item.discountPrice}}</span><span>领卷减10</span></p>
+				<p><img src="{{item.gradeChecker}}"/><span>{{item.description}}</span></p>
+			</li>
+		</ul>
+	</div>
+	<div id="UZmain">
+		<ul id="UZnav">
+			<li><a href="javascript:void(0)" ng-clik=>全部</a></li>
+			<li><a href="javascript:void(0)" ng-clik>女装</a></li>
+			<li><a href="javascript:void(0)" ng-clik>男友</a></li>
+			<li><a href="javascript:void(0)" ng-clik>鞋子</a></li>
+		</ul>
+		<ul>
+			<li><p>TOP榜单</p><span>·精选最优质</span></li>
+			<li>
+				<a href="javascript:void(0)"><img src=""/></a>
+				<p></p>
+				<p><span></span><span></span></p>
+				<p><span></span><span></span></p>
+			</li>
+		</ul>
+		
+	</div>
+</div>

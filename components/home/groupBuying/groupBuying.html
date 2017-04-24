@@ -1,20 +1,20 @@
 <div id="home-groupBuyingWrap">
 <!--导航-->
 	<div id="home-groupBuyingWrapNav">
-		<a href="javascript:void(0)">精选</a>
+		<a href="javascript:void(0)" ng-click=allGroupBuyGoods('choiceTody.json',backImg) ng-class="{true: 'backgroundImg', false: 'nobackgroundImg'}[backImg]">精选</a>
 		<div id="home-groupBuyingWrapNavList">
 			<div id="home-groupBuyingWrapNavList-wrap">
-				<a href="javascript:void(0)"><span>女装</span></a>
-				<a href="javascript:void(0)"><span>女鞋</span></a>
-				<a href="javascript:void(0)"><span>包包</span></a>
-				<a href="javascript:void(0)"><span>美妆</span></a>
-				<a href="javascript:void(0)"><span>男友</span></a>
-				<a href="javascript:void(0)"><span>内衣</span></a>
-				<a href="javascript:void(0)"><span>生活</span></a>
-				<a href="javascript:void(0)"><span>运动</span></a>
-				<a href="javascript:void(0)"><span>配饰</span></a>
-				<a href="javascript:void(0)"><span>母婴</span></a>
-				<a href="javascript:void(0)"><span>食品</span></a>
+				<a href="javascript:void(0)" name="todayBuyWrap" ng-click=allGroupBuyGoods('girlsCloths.json')><span>女装</span></a>
+				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('girlsBoots.json')><span>女鞋</span></a>
+				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('bags.json')><span>包包</span></a>
+				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('beautyMakeup.json')><span>美妆</span></a>
+				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('boyFriends.json')><span>男友</span></a>
+				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('underWear.json')><span>内衣</span></a>
+				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('life.json')><span>生活</span></a>
+				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('sport.json')><span>运动</span></a>
+				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('decorations.json')><span>配饰</span></a>
+				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('motheranson.json')><span>母婴</span></a>
+				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('foods.json')><span>食品</span></a>
 			</div>			
 		</div>
 	</div>
@@ -25,7 +25,7 @@
 		</div>
 		<!--u质团-->
 		<div id="Ugroup">
-			<li ng-repeat="item in ugroup" ><a href="javascript:void(0)"><img src="{{item.image}}"/></a><p ng-style="{color:'{{item.titleColor}}'}">{{item.title}}</p><span>{{item.description}}</span></li>
+			<li ng-repeat=" (i,item) in ugroup" ><a ng-click=toThreePage(i) ui-sref='.UZGroup' href=""><img src="{{item.image}}"/></a><p ng-style="{color:'{{item.titleColor}}'}">{{item.title}}</p><span>{{item.description}}</span></li>
 		
 			<!--品牌团-->
 		<div id="brandTuanWrap">
@@ -61,7 +61,7 @@
 		<div id="todayBuy"><h4>今日精选·</h4><span>特价尖货限时抢购</span></div>
 		<div id="todayBuyWrap">
 			<div id="todayBuyList">	
-				<img src="{{allGoods[0].show.img}}"/><img src="{{allGoods[1].show.img}}"/>
+				<img src="{{goos0.img}}"/><img src="{{goos1.img}}"/>
 				<a href="javascript:void(0)" ng-repeat="(i,item) in allGoods" ng-if="i>1" >
 					<img src="{{item.img}}"/>
 					<p>{{item.title}} </p>
@@ -74,5 +74,6 @@
 		</div>
 		
 	</div>
-
+		<div ng-class="{true: 'active1', false: 'inactive1'}[isActive1]" id="toThreePage"  ui-view>
+    	</div>
 </div>

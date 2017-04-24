@@ -1,0 +1,1182 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "param": {
+            "sort": "pop",
+            "_mgjuuid": "be84caba-c140-465e-81bf-704f4fa30bb8",
+            "duplicate": true,
+            "ptpWallCpc": "_wall_cpc",
+            "section": "0",
+            "algoKey": "app_tuan_book_pop",
+            "ptpWallDoc": "_wall_docs",
+            "eventId": "0x00000000",
+            "cKey": "app-tuan-v2",
+            "page": "1",
+            "fcid": "10053171",
+            "cpcEventId": "70005",
+            "ptpPartC": "_b_4509fd77249bffe3"
+        },
+        "wall": {
+            "title": "商品团",
+            "isEnd": false,
+            "docs": [
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k7mvgs.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 611073994,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k7mvgs?from=tuan&acm=3.ms.1_4_1k7mvgs.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170418_5adk7lb102j6a0649j9dee535gefh_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1024,
+                    "discount": 6.9,
+                    "title": "2017新款九分裤开叉薄款黑色小脚裤高腰弹力显瘦外穿打底裤女",
+                    "price": 39.33,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "1k7mvgs",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "14小时49分",
+                    "acm": "3.ms.1_4_1k88uu2.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 611586801,
+                    "status": "going",
+                    "savePrice": 35,
+                    "link": "http://m.mogujie.com/x6/detail/1k88uu2?from=tuan&acm=3.ms.1_4_1k88uu2.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170307/63889599_5agb9j778f166cej8i46f0l2idjbc_640x960.jpg",
+                    "leftTime": "<b>14</b>小时<b>49</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 162,
+                    "discount": 5.8,
+                    "title": "实拍韩国学院风黑色高腰宽松吊带裤女长裤休闲显瘦背带裤子",
+                    "price": 49.3,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1k88uu2",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k72xmu.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 610608839,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k72xmu?from=tuan&acm=3.ms.1_4_1k72xmu.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170225/41189573_811g47dba5db1e14ba03fi9e14892_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2964,
+                    "discount": 6.9,
+                    "title": "外穿打底裤女不抽丝学生百搭简约显瘦小脚裤高腰弹力瘦腿九分裤",
+                    "price": 38.44,
+                    "originalPrice": 55.71,
+                    "tradeItemId": "1k72xmu",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天14小时",
+                    "acm": "3.ms.1_4_1k87e72.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 611552691,
+                    "status": "going",
+                    "savePrice": 35,
+                    "link": "http://m.mogujie.com/x6/detail/1k87e72?from=tuan&acm=3.ms.1_4_1k87e72.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170306/upload_29a2735k9f3fflj43il44ld6lg290_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 418,
+                    "discount": 5.0,
+                    "title": "情侣装字母刺绣拼色T恤",
+                    "price": 35.5,
+                    "originalPrice": 71.0,
+                    "tradeItemId": "1k87e72",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "14小时49分",
+                    "acm": "3.ms.1_4_1k8i142.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 611800821,
+                    "status": "going",
+                    "savePrice": 19,
+                    "link": "http://m.mogujie.com/x6/detail/1k8i142?from=tuan&acm=3.ms.1_4_1k8i142.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170418_57h67b1k430h27bhah65i54ai8c9g_640x960.jpg",
+                    "leftTime": "<b>14</b>小时<b>49</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 804,
+                    "discount": 6.5,
+                    "title": "春季新品弹力打底裤高腰双扣修身显瘦外穿小脚裤黑色百搭九分裤女",
+                    "price": 37.05,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "1k8i142",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天14小时",
+                    "acm": "3.ms.1_4_1k7i1eo.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 610961204,
+                    "status": "going",
+                    "savePrice": 28,
+                    "link": "http://m.mogujie.com/x6/detail/1k7i1eo?from=tuan&acm=3.ms.1_4_1k7i1eo.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170218/91821104_8ggh6d5606k8h3ekb4c595c3bcda4_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1045,
+                    "discount": 6.0,
+                    "title": "2017春夏季唯美气质仙女三层梦幻白纱裙半身裙白裙",
+                    "price": 42.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k7i1eo",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k2foiw.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 606707160,
+                    "status": "going",
+                    "savePrice": 30,
+                    "link": "http://m.mogujie.com/x6/detail/1k2foiw?from=tuan&acm=3.ms.1_4_1k2foiw.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161016/0_26gd3l1i0ejf25g58kiag7jka3955_859x1288.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1032,
+                    "discount": 5.7,
+                    "title": "【皮标.小黑裤】韩版休闲小脚打底裤 高弹修身九分铅笔裤",
+                    "price": 39.9,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k2foiw",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天14小时",
+                    "acm": "3.ms.1_4_1k8zuze.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 612216753,
+                    "status": "going",
+                    "savePrice": 48,
+                    "link": "http://m.mogujie.com/x6/detail/1k8zuze?from=tuan&acm=3.ms.1_4_1k8zuze.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170327_1fdbhhh95ggf1a2fh8di18i1b2e82_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 371,
+                    "discount": 6.2,
+                    "title": "春装新款韩版时尚卫衣长袖运动上衣阔腿裤宽松休闲两件套装潮",
+                    "price": 79.36,
+                    "originalPrice": 128.0,
+                    "tradeItemId": "1k8zuze",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天14小时",
+                    "acm": "3.ms.1_4_1k9ad4y.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 612461797,
+                    "status": "going",
+                    "savePrice": 24,
+                    "link": "http://m.mogujie.com/x6/detail/1k9ad4y?from=tuan&acm=3.ms.1_4_1k9ad4y.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170330_116ak88d9l8dleicabkfk8eee3idb_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 782,
+                    "discount": 6.5,
+                    "title": "拼接网纱连衣裙中长款T恤裙",
+                    "price": 45.5,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k9ad4y",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "14小时49分",
+                    "acm": "3.ms.1_4_1k798tw.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 610756062,
+                    "status": "going",
+                    "savePrice": 25,
+                    "link": "http://m.mogujie.com/x6/detail/1k798tw?from=tuan&acm=3.ms.1_4_1k798tw.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170212/91439769_2i54k4ff0ccfegeeki99bk827a0b9_640x960.jpg",
+                    "leftTime": "<b>14</b>小时<b>49</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 2733,
+                    "discount": 6.4,
+                    "title": "胖MM韩版高腰显瘦休闲宽松哈伦裤女春西装裤长裤九分小脚裤",
+                    "price": 45.44,
+                    "originalPrice": 71.0,
+                    "tradeItemId": "1k798tw",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1juxufq.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 600412431,
+                    "status": "going",
+                    "savePrice": 24,
+                    "link": "http://m.mogujie.com/x6/detail/1juxufq?from=tuan&acm=3.ms.1_4_1juxufq.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160612/102764643_ie4dsmbxgiztsyjrhezdambqgiyde_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 719,
+                    "discount": 6.5,
+                    "title": "【全棉好质量】 韩国学院风字母chips卡通印花短袖T恤女",
+                    "price": 45.5,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1juxufq",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k8u426.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 612082667,
+                    "status": "going",
+                    "savePrice": 32,
+                    "link": "http://m.mogujie.com/x6/detail/1k8u426?from=tuan&acm=3.ms.1_4_1k8u426.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170321/119925897_2e9i3ci90fk07h7chg2788jk90jdh_640x960.png",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 331,
+                    "discount": 5.8,
+                    "title": "黑色高腰流苏喇叭裤休闲裤",
+                    "price": 45.57,
+                    "originalPrice": 78.57,
+                    "tradeItemId": "1k8u426",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k7xjn2.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 611322939,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k7xjn2?from=tuan&acm=3.ms.1_4_1k7xjn2.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170228/106183807_857k58h74lh16141bdke9fb14hg17_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 257,
+                    "discount": 7.0,
+                    "title": "不规则高腰牛仔短裤女宽松韩版显瘦学生磨边阔腿牛仔裤热裤超短裤",
+                    "price": 39.9,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "1k7xjn2",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天14小时",
+                    "acm": "3.ms.1_4_18o067c.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 262024088,
+                    "status": "going",
+                    "savePrice": 33,
+                    "link": "http://m.mogujie.com/x6/detail/18o067c?from=tuan&acm=3.ms.1_4_18o067c.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160322/1x04jp_ifrtsmrsg44tinjxg4zdambqhayde_1000x1500.jpg",
+                    "leftTime": "<b>5</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2217,
+                    "discount": 6.6,
+                    "title": "初夏 经典阔腿裤",
+                    "price": 65.05,
+                    "originalPrice": 98.56,
+                    "tradeItemId": "18o067c",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天14小时",
+                    "acm": "3.ms.1_4_1k8nx90.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 611938286,
+                    "status": "going",
+                    "savePrice": 15,
+                    "link": "http://m.mogujie.com/x6/detail/1k8nx90?from=tuan&acm=3.ms.1_4_1k8nx90.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170316/49111659_4f5dihhdfeai9jb366i3f3lb70e3f_640x957.jpg",
+                    "leftTime": "<b>1</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 751,
+                    "discount": 6.9,
+                    "title": "2017夏季女薄款短款修身条纹针织打底衫高腰上衣长袖t恤韩版",
+                    "price": 35.48,
+                    "originalPrice": 51.42,
+                    "tradeItemId": "1k8nx90",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天14小时",
+                    "acm": "3.ms.1_4_1k3qs2m.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 607805875,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k3qs2m?from=tuan&acm=3.ms.1_4_1k3qs2m.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s11.mogucdn.com/p2/161016/73983428_624ai01ba2244e86j4045j8ldid6f_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1726,
+                    "discount": 6.5,
+                    "title": "软妹抓绒加厚可爱萌萌粉拉链卫衣+百搭显瘦半身百褶裙短裙裤套装",
+                    "price": 55.51,
+                    "originalPrice": 85.4,
+                    "tradeItemId": "1k3qs2m",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天14小时",
+                    "acm": "3.ms.1_4_1k9ol8m.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 612793639,
+                    "status": "going",
+                    "savePrice": 28,
+                    "link": "http://m.mogujie.com/x6/detail/1k9ol8m?from=tuan&acm=3.ms.1_4_1k9ol8m.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170406_7edf314301l9fe4gk2k07h0923gha_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 135,
+                    "discount": 6.0,
+                    "title": "打底裤女弹力破洞小脚裤",
+                    "price": 42.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k9ol8m",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k9ffym.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 612580267,
+                    "status": "going",
+                    "savePrice": 25,
+                    "link": "http://m.mogujie.com/x6/detail/1k9ffym?from=tuan&acm=3.ms.1_4_1k9ffym.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170402_4hch68c359346i7dh580de7fj5j3c_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 481,
+                    "discount": 7.0,
+                    "title": "夏季新款学院风宽松大码休闲短袖T恤港味时尚T恤裙潮上衣",
+                    "price": 59.5,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1k9ffym",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k7d29k.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 610845120,
+                    "status": "going",
+                    "savePrice": 31,
+                    "link": "http://m.mogujie.com/x6/detail/1k7d29k?from=tuan&acm=3.ms.1_4_1k7d29k.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170215/1951_16ha922djk1gj6l9b9b3accf1f197_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 9230,
+                    "discount": 6.3,
+                    "title": "春季韩国新款高腰牛仔九分喇叭裤女不规则毛边磨破微喇裤9分潮裤",
+                    "price": 53.1,
+                    "originalPrice": 84.29,
+                    "tradeItemId": "1k7d29k",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天14小时",
+                    "acm": "3.ms.1_4_1k8hnsi.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 611792189,
+                    "status": "going",
+                    "savePrice": 25,
+                    "link": "http://m.mogujie.com/x6/detail/1k8hnsi?from=tuan&acm=3.ms.1_4_1k8hnsi.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170313/98806921_647970hbhiief0303gi338ji8d26h_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 450,
+                    "discount": 7.0,
+                    "title": "仙气款荷叶边雪纺衫",
+                    "price": 59.5,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1k8hnsi",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k72eqk.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 610596594,
+                    "status": "going",
+                    "savePrice": 37,
+                    "link": "http://m.mogujie.com/x6/detail/1k72eqk?from=tuan&acm=3.ms.1_4_1k72eqk.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170207/115899397_7ic5lh3h3hbe4c421f75ibi950ahe_640x954.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 490,
+                    "discount": 6.7,
+                    "title": "【归晚】韩版休闲纯色哈伦裤 经典牛仔裤小脚铅笔裤",
+                    "price": 75.61,
+                    "originalPrice": 112.85,
+                    "tradeItemId": "1k72eqk",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天14小时",
+                    "acm": "3.ms.1_4_1k80ate.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 611387205,
+                    "status": "going",
+                    "savePrice": 18,
+                    "link": "http://m.mogujie.com/x6/detail/1k80ate?from=tuan&acm=3.ms.1_4_1k80ate.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170302/103975600_5l6k2fi1f1ki818hj685gg7i9ab08_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 359,
+                    "discount": 6.0,
+                    "title": "韩版宽松刺绣短袖T恤",
+                    "price": 27.0,
+                    "originalPrice": 45.0,
+                    "tradeItemId": "1k80ate",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天14小时",
+                    "acm": "3.ms.1_4_1k9ofwo.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 612790184,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k9ofwo?from=tuan&acm=3.ms.1_4_1k9ofwo.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170406_8g0hibbeg1jekbdikb2eeej551hg1_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1171,
+                    "discount": 7.0,
+                    "title": "韩版夏季新品短袖不规则立体拼接喇叭袖小黑裙宽松显瘦连衣裙",
+                    "price": 69.0,
+                    "originalPrice": 98.57,
+                    "tradeItemId": "1k9ofwo",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k8sbao.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 612040700,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k8sbao?from=tuan&acm=3.ms.1_4_1k8sbao.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170320_5929lg9290kjc73251g08i993073l_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1817,
+                    "discount": 6.9,
+                    "title": "春季新品简约百搭双V领拼接网纱假两件针织衫套头T恤",
+                    "price": 38.64,
+                    "originalPrice": 56.0,
+                    "tradeItemId": "1k8sbao",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天14小时",
+                    "acm": "3.ms.1_4_1k73sqc.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 610628990,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k73sqc?from=tuan&acm=3.ms.1_4_1k73sqc.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170208/2654_492de5akfd61l26ia0fdgg30hl0e5_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1015,
+                    "discount": 6.5,
+                    "title": "2017新款韩版弹力小脚裤女铅笔裤修身显瘦外穿钻石纹打底裤",
+                    "price": 55.25,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1k73sqc",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "14小时49分",
+                    "acm": "3.ms.1_4_1k2fbn8.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 606698814,
+                    "status": "going",
+                    "savePrice": 28,
+                    "link": "http://m.mogujie.com/x6/detail/1k2fbn8?from=tuan&acm=3.ms.1_4_1k2fbn8.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/160918/93178934_01hlbf2ac247kj10d3cb96aj4ggai_640x960.jpg",
+                    "leftTime": "<b>14</b>小时<b>49</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 476,
+                    "discount": 6.0,
+                    "title": "【不起球/不变形】半身裙女",
+                    "price": 42.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k2fbn8",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "14小时49分",
+                    "acm": "3.ms.1_4_1k1nnq8.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 606053460,
+                    "status": "going",
+                    "savePrice": 21,
+                    "link": "http://m.mogujie.com/x6/detail/1k1nnq8?from=tuan&acm=3.ms.1_4_1k1nnq8.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170221/126025571_0j5j3i950cck0fdf54k97fll512f1_640x960.jpg",
+                    "leftTime": "<b>14</b>小时<b>49</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 1414,
+                    "discount": 6.9,
+                    "title": "牛仔裤女2016新款宽松韩版哈伦春季学生九分显瘦原宿bf百搭",
+                    "price": 48.3,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k1nnq8",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k8lqpi.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 611887391,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k8lqpi?from=tuan&acm=3.ms.1_4_1k8lqpi.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170315/92134338_1h3cb0da1cl5bcafd3f6dh74gcf7f_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 107,
+                    "discount": 6.5,
+                    "title": "2017春季新品一字领露肩喇叭袖高腰阔腿宽松碎花连体裤休闲裤",
+                    "price": 55.25,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1k8lqpi",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "14小时49分",
+                    "acm": "3.ms.1_4_1k4wq1y.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 608784343,
+                    "status": "going",
+                    "savePrice": 44,
+                    "link": "http://m.mogujie.com/x6/detail/1k4wq1y?from=tuan&acm=3.ms.1_4_1k4wq1y.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170320_18bb3h8d7g8jji111i4g2jj4eea88_640x960.jpg",
+                    "leftTime": "<b>14</b>小时<b>49</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 804,
+                    "discount": 5.5,
+                    "title": "特价清仓 早春新款撞色双袖口设计包芯纱圆领套头毛衣",
+                    "price": 54.94,
+                    "originalPrice": 99.89,
+                    "tradeItemId": "1k4wq1y",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天14小时",
+                    "acm": "3.ms.1_4_1k77ebi.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 610712963,
+                    "status": "going",
+                    "savePrice": 27,
+                    "link": "http://m.mogujie.com/x6/detail/1k77ebi?from=tuan&acm=3.ms.1_4_1k77ebi.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170211/64533285_3g2kh990b7d331ijh3ibeje6kccc6_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 345,
+                    "discount": 6.8,
+                    "title": "韩版显瘦高腰半身裙A字裙前开叉牛仔裙长裙裙子",
+                    "price": 57.8,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1k77ebi",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天14小时",
+                    "acm": "3.ms.1_4_1k9htey.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 612635641,
+                    "status": "going",
+                    "savePrice": 24,
+                    "link": "http://m.mogujie.com/x6/detail/1k9htey?from=tuan&acm=3.ms.1_4_1k9htey.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170403_549ike5kihj2ghfic903ib83egbe4_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 136,
+                    "discount": 6.5,
+                    "title": "夏季新款韩版卡通字母印花上衣学院风宽松打底短袖纯棉T恤女",
+                    "price": 45.5,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k9htey",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "14小时49分",
+                    "acm": "3.ms.1_4_1k8jdnc.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 611832272,
+                    "status": "going",
+                    "savePrice": 30,
+                    "link": "http://m.mogujie.com/x6/detail/1k8jdnc?from=tuan&acm=3.ms.1_4_1k8jdnc.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170314/93304116_6j1886lfh75d750597adch1bed4da_640x960.jpg",
+                    "leftTime": "<b>14</b>小时<b>49</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 327,
+                    "discount": 6.9,
+                    "title": "春季新款系带蝴蝶结镂空短袖方领收腰修身显瘦小黑裙A字连衣裙",
+                    "price": 68.65,
+                    "originalPrice": 99.49,
+                    "tradeItemId": "1k8jdnc",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天14小时",
+                    "acm": "3.ms.1_4_1k909sk.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 612226350,
+                    "status": "going",
+                    "savePrice": 21,
+                    "link": "http://m.mogujie.com/x6/detail/1k909sk?from=tuan&acm=3.ms.1_4_1k909sk.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170325_75j324a31je91lb7gl4eefcdc990h_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 261,
+                    "discount": 7.0,
+                    "title": "时尚V领挂脖印花T恤",
+                    "price": 49.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k909sk",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k85pbo.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 611513246,
+                    "status": "going",
+                    "savePrice": 21,
+                    "link": "http://m.mogujie.com/x6/detail/1k85pbo?from=tuan&acm=3.ms.1_4_1k85pbo.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170305/111381517_79gcl12g4i8d3ea18ck1a7376bhj3_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 458,
+                    "discount": 7.0,
+                    "title": "2017春季新款露肩无袖V领直筒显瘦短款荷叶边碎花吊带连衣裙",
+                    "price": 49.7,
+                    "originalPrice": 71.0,
+                    "tradeItemId": "1k85pbo",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k6re5o.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 610339610,
+                    "status": "going",
+                    "savePrice": 30,
+                    "link": "http://m.mogujie.com/x6/detail/1k6re5o?from=tuan&acm=3.ms.1_4_1k6re5o.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170106/70938742_2122elj3c3f7j63d3dhbi11iabe91_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2553,
+                    "discount": 5.6,
+                    "title": "2017春季新款衬衫女韩范纯棉长袖衬衣女学生小清新百搭上衣",
+                    "price": 38.8,
+                    "originalPrice": 69.29,
+                    "tradeItemId": "1k6re5o",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k8x7v6.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 612155117,
+                    "status": "going",
+                    "savePrice": 45,
+                    "link": "http://m.mogujie.com/x6/detail/1k8x7v6?from=tuan&acm=3.ms.1_4_1k8x7v6.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170323_2b2kilkc1kl4e92lgd8e7c951h270_640x959.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 351,
+                    "discount": 4.6,
+                    "title": "2017新款休闲条纹宽松雪纺连衣裙女韩版七分袖中长款百褶裙",
+                    "price": 38.64,
+                    "originalPrice": 84.0,
+                    "tradeItemId": "1k8x7v6",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天14小时",
+                    "acm": "3.ms.1_4_18p3q1g.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 262946734,
+                    "status": "going",
+                    "savePrice": 39,
+                    "link": "http://m.mogujie.com/x6/detail/18p3q1g?from=tuan&acm=3.ms.1_4_18p3q1g.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170301/115899397_4cff5lj0fc88115e77df836c078ll_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 469,
+                    "discount": 6.0,
+                    "title": "复古高腰喇叭裤",
+                    "price": 59.14,
+                    "originalPrice": 98.57,
+                    "tradeItemId": "18p3q1g",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "14小时49分",
+                    "acm": "3.ms.1_4_1k692k2.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 609912189,
+                    "status": "going",
+                    "savePrice": 30,
+                    "link": "http://m.mogujie.com/x6/detail/1k692k2?from=tuan&acm=3.ms.1_4_1k692k2.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170212/66264341_6k4ikel9d35kgaedlgac3a6hjfdf4_640x960.jpg",
+                    "leftTime": "<b>14</b>小时<b>49</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 3337,
+                    "discount": 5.6,
+                    "title": "【乔氏家】春新款韩版长袖衬衣娃娃领学院风百搭白色印花打底衫女",
+                    "price": 39.2,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k692k2",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天14小时",
+                    "acm": "3.ms.1_4_1k7fye2.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 610912593,
+                    "status": "going",
+                    "savePrice": 28,
+                    "link": "http://m.mogujie.com/x6/detail/1k7fye2?from=tuan&acm=3.ms.1_4_1k7fye2.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170217/75103628_3789802d372d96bl01acl833348ke_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 708,
+                    "discount": 5.9,
+                    "title": "春季套装  字母t恤连衣裙+西装马甲套装",
+                    "price": 41.3,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k7fye2",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "14小时49分",
+                    "acm": "3.ms.1_4_1k8ab5c.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "tradeId": 611620700,
+                    "status": "going",
+                    "savePrice": 24,
+                    "link": "http://m.mogujie.com/x6/detail/1k8ab5c?from=tuan&acm=3.ms.1_4_1k8ab5c.0.1661-22922.1JwB6qhFG2CtF.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170308/61545471_38b5c8ed447ae6d7544l67hl2k1ie_640x960.jpg",
+                    "leftTime": "<b>14</b>小时<b>49</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 807,
+                    "discount": 6.5,
+                    "title": "2017韩国春季新品宽松休闲字母印花五分袖T恤女学生大码上衣",
+                    "price": 45.5,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k8ab5c",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "success": true
+}

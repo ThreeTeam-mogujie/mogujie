@@ -1,0 +1,995 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "param": {
+            "sort": "pop",
+            "_mgjuuid": "be84caba-c140-465e-81bf-704f4fa30bb8",
+            "duplicate": true,
+            "ptpWallCpc": "_wall_cpc",
+            "section": "0",
+            "algoKey": "app_tuan_book_pop",
+            "ptpWallDoc": "_wall_docs",
+            "eventId": "0x00000000",
+            "cKey": "app-tuan-v2",
+            "page": "1",
+            "fcid": "10053181",
+            "cpcEventId": "70005",
+            "ptpPartC": "_b_1e7cb40ac6a850a6"
+        },
+        "wall": {
+            "title": "商品团",
+            "isEnd": false,
+            "docs": [
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_1k1aqtm.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 605752201,
+                    "status": "going",
+                    "savePrice": 28,
+                    "link": "http://m.mogujie.com/x6/detail/1k1aqtm?from=tuan&acm=3.ms.1_4_1k1aqtm.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_63495g5h3kbc48c3gifcef2ib1cg4_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 3605,
+                    "discount": 6.6,
+                    "title": "【买3送1】金萃农园 木瓜葛根粉套餐36D 150g*2罐",
+                    "price": 55.63,
+                    "originalPrice": 84.29,
+                    "tradeItemId": "1k1aqtm",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_18xxyas.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 270370390,
+                    "status": "going",
+                    "savePrice": 15,
+                    "link": "http://m.mogujie.com/x6/detail/18xxyas?from=tuan&acm=3.ms.1_4_18xxyas.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_57k4khil3a4l584kb3538eeg42a77_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 4900,
+                    "discount": 5.3,
+                    "title": "足足一斤【口水娃-子弹肠混合口味500g】烤肠小香肠",
+                    "price": 17.26,
+                    "originalPrice": 32.57,
+                    "tradeItemId": "18xxyas",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_18y1kvw.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 270455010,
+                    "status": "going",
+                    "savePrice": 10,
+                    "link": "http://m.mogujie.com/x6/detail/18y1kvw?from=tuan&acm=3.ms.1_4_18y1kvw.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_37dbj6b5el8dgdba7l234je8kh7h7_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 791,
+                    "discount": 6.2,
+                    "title": "足足一斤【口水娃-鱼豆腐500g】多口味混合装零食小吃",
+                    "price": 17.62,
+                    "originalPrice": 28.42,
+                    "tradeItemId": "18y1kvw",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_18jx8ga.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 258596329,
+                    "status": "going",
+                    "savePrice": 12,
+                    "link": "http://m.mogujie.com/x6/detail/18jx8ga?from=tuan&acm=3.ms.1_4_18jx8ga.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_2ckk3d0g53i77ic9813kh4eh2ffd1_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1595,
+                    "discount": 6.4,
+                    "title": "福事多澳洲纯燕麦片1360g无加蔗糖原味即食冲饮麦片早餐",
+                    "price": 21.76,
+                    "originalPrice": 34.0,
+                    "tradeItemId": "18jx8ga",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天22小时",
+                    "acm": "3.ms.1_4_1k6l2t2.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 610192287,
+                    "status": "going",
+                    "savePrice": 10,
+                    "link": "http://m.mogujie.com/x6/detail/1k6l2t2?from=tuan&acm=3.ms.1_4_1k6l2t2.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170407_3af9c677jeaeijhdd4gjief7g3ig3_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 7346,
+                    "discount": 6.7,
+                    "title": "欧贝拉三明治蒸蛋糕+肉松饼 夹心早餐面包零食品糕点心甜品组合",
+                    "price": 20.96,
+                    "originalPrice": 31.28,
+                    "tradeItemId": "1k6l2t2",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_1k072x4.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 604826920,
+                    "status": "going",
+                    "savePrice": 16,
+                    "link": "http://m.mogujie.com/x6/detail/1k072x4?from=tuan&acm=3.ms.1_4_1k072x4.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_66ag3hckkdbfh2777cj2cfe2hcd3c_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1176,
+                    "discount": 6.0,
+                    "title": "【买2送1】 润通茶 肠清茶 养生茶  100g/盒",
+                    "price": 24.0,
+                    "originalPrice": 40.0,
+                    "tradeItemId": "1k072x4",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_1k6jt6i.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 610162721,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k6jt6i?from=tuan&acm=3.ms.1_4_1k6jt6i.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_8921592kdlci9jb4cce0j6gige3g7_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 7104,
+                    "discount": 6.2,
+                    "title": "【口水娃肉类礼包】内含约43包 子弹肠+鸭翅+辣脖零食多口味",
+                    "price": 29.14,
+                    "originalPrice": 47.0,
+                    "tradeItemId": "1k6jt6i",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_18q1niy.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 263738257,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/18q1niy?from=tuan&acm=3.ms.1_4_18q1niy.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_8f080aa4kf8644ebe8d2227jb60gl_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 710,
+                    "discount": 4.6,
+                    "title": "【周黑鸭旗舰店_锁鲜】卤鸭翅250g 武汉特产食品零食小吃",
+                    "price": 24.74,
+                    "originalPrice": 53.78,
+                    "tradeItemId": "18q1niy",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_1k5y3ke.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 609656235,
+                    "status": "going",
+                    "savePrice": 8,
+                    "link": "http://m.mogujie.com/x6/detail/1k5y3ke?from=tuan&acm=3.ms.1_4_1k5y3ke.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170416_4la0jag6hcld11ldgjfbj887e1bh7_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 178,
+                    "discount": 5.8,
+                    "title": "年货零食蟹黄瓜子仁口水娃葵花籽仁香辣蟹香牛肉小吃称重500g",
+                    "price": 11.51,
+                    "originalPrice": 19.84,
+                    "tradeItemId": "1k5y3ke",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_18k7mny.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 258838819,
+                    "status": "going",
+                    "savePrice": 14,
+                    "link": "http://m.mogujie.com/x6/detail/18k7mny?from=tuan&acm=3.ms.1_4_18k7mny.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_528a4284a78iefj4ck5e5a3ihl914_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 7292,
+                    "discount": 5.3,
+                    "title": "买1送1 冰冻柠檬干/补充VC无糖/让肌肤喝饱水 喜善花房",
+                    "price": 15.79,
+                    "originalPrice": 29.79,
+                    "tradeItemId": "18k7mny",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_1k7xc5m.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 611318089,
+                    "status": "going",
+                    "savePrice": 20,
+                    "link": "http://m.mogujie.com/x6/detail/1k7xc5m?from=tuan&acm=3.ms.1_4_1k7xc5m.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_0if63k4i980bjf3ii4db7c32a4ghe_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1753,
+                    "discount": 6.0,
+                    "title": "福事多蜂蜜柚子茶柠檬茶芦荟茶240g*3瓶 水果茶蜜炼冲饮品",
+                    "price": 30.0,
+                    "originalPrice": 50.0,
+                    "tradeItemId": "1k7xc5m",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_182aow8.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 243793704,
+                    "status": "going",
+                    "savePrice": 20,
+                    "link": "http://m.mogujie.com/x6/detail/182aow8?from=tuan&acm=3.ms.1_4_182aow8.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_06h4g57c96cj1ld9d39l28f32h958_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 7452,
+                    "discount": 5.2,
+                    "title": "荷叶玫瑰大肚子茶【口碑茶】 送塑身礼包小腰精の选-喜善花房",
+                    "price": 21.84,
+                    "originalPrice": 42.0,
+                    "tradeItemId": "182aow8",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_1k8n710.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 611921294,
+                    "status": "going",
+                    "savePrice": 16,
+                    "link": "http://m.mogujie.com/x6/detail/1k8n710?from=tuan&acm=3.ms.1_4_1k8n710.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_46f069a2i8d2k136g0e7b79b964k4_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 103,
+                    "discount": 6.0,
+                    "title": "中粮玉叶金花 红豆薏米枸杞粉 180g/盒",
+                    "price": 24.85,
+                    "originalPrice": 41.42,
+                    "tradeItemId": "1k8n710",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_18jzj4o.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 258649904,
+                    "status": "going",
+                    "savePrice": 25,
+                    "link": "http://m.mogujie.com/x6/detail/18jzj4o?from=tuan&acm=3.ms.1_4_18jzj4o.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_0kc1i9kgh9fgfi7ee9403d360ggbk_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 6314,
+                    "discount": 5.4,
+                    "title": "【送杯勺】福事多蜂蜜柚子茶柠檬茶2瓶共1kg水果茶蜜炼冲饮品",
+                    "price": 29.7,
+                    "originalPrice": 55.0,
+                    "tradeItemId": "18jzj4o",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_1k88pf0.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 611583290,
+                    "status": "going",
+                    "savePrice": 11,
+                    "link": "http://m.mogujie.com/x6/detail/1k88pf0?from=tuan&acm=3.ms.1_4_1k88pf0.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_4h66b67al5f896dck4i4lfa04ccf5_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 289,
+                    "discount": 5.8,
+                    "title": "【口水娃_新口味小鱼20袋】湖南特产小鱼仔毛毛鱼干",
+                    "price": 15.57,
+                    "originalPrice": 26.84,
+                    "tradeItemId": "1k88pf0",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_1k1qtio.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 606127196,
+                    "status": "going",
+                    "savePrice": 28,
+                    "link": "http://m.mogujie.com/x6/detail/1k1qtio?from=tuan&acm=3.ms.1_4_1k1qtio.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170414_15i1cgf68ba7de55agechhk2a8158_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 5054,
+                    "discount": 5.0,
+                    "title": "100ml*20瓶小样小乳酸牛奶饮料儿童奶乳酸菌休闲零食",
+                    "price": 28.5,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "1k1qtio",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_18l3k14.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 259583608,
+                    "status": "going",
+                    "savePrice": 31,
+                    "link": "http://m.mogujie.com/x6/detail/18l3k14?from=tuan&acm=3.ms.1_4_18l3k14.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_5l3ajb5ac35a2ibfk19j1cg80480l_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 4615,
+                    "discount": 5.1,
+                    "title": "【买1送1盒】果蔬代餐粉 天然魔芋代餐强饱腹 10条*2盒",
+                    "price": 32.78,
+                    "originalPrice": 64.27,
+                    "tradeItemId": "18l3k14",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天22小时",
+                    "acm": "3.ms.1_4_1k0pj3a.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 605257303,
+                    "status": "going",
+                    "savePrice": 9,
+                    "link": "http://m.mogujie.com/x6/detail/1k0pj3a?from=tuan&acm=3.ms.1_4_1k0pj3a.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_5l081dgl6g3da53k6lje3326ha594_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1323,
+                    "discount": 6.8,
+                    "title": "铺盖面酸辣粉10袋 速食方便面干拌面非油炸泡面夜宵食品",
+                    "price": 19.33,
+                    "originalPrice": 28.43,
+                    "tradeItemId": "1k0pj3a",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "已结束",
+                    "acm": "3.ms.1_4_1k8dwjk.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 611704548,
+                    "status": "end",
+                    "savePrice": 18,
+                    "link": "http://m.mogujie.com/x6/detail/1k8dwjk?from=tuan&acm=3.ms.1_4_1k8dwjk.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170411_5bg132i8l8j84d4fckcdkba2d7hig_640x960.jpg",
+                    "leftTime": null,
+                    "type": 2,
+                    "salesVolume": 764,
+                    "discount": 6.7,
+                    "title": "【百草味-坚果组合480g】夏威夷果+纸皮核桃+碧根果",
+                    "price": 37.23,
+                    "originalPrice": 55.57,
+                    "tradeItemId": "1k8dwjk",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_18lvl2w.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 260237472,
+                    "status": "going",
+                    "savePrice": 19,
+                    "link": "http://m.mogujie.com/x6/detail/18lvl2w?from=tuan&acm=3.ms.1_4_18lvl2w.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170414_012324ee58g41gfh48bhefigb1lee_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 4223,
+                    "discount": 4.5,
+                    "title": "小样酸Q糖540g罐装果软糖休闲零食糖橡皮糖喜糖果办公小吃",
+                    "price": 15.75,
+                    "originalPrice": 35.0,
+                    "tradeItemId": "18lvl2w",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_18g5asw.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 255425244,
+                    "status": "going",
+                    "savePrice": 19,
+                    "link": "http://m.mogujie.com/x6/detail/18g5asw?from=tuan&acm=3.ms.1_4_18g5asw.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170415_52830d3d4kfji1hh812j8321ke3ih_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1289,
+                    "discount": 4.5,
+                    "title": "20包口水鱼辣味办公室小吃休闲零食口水娃麻辣小鱼仔毛毛鱼干",
+                    "price": 16.2,
+                    "originalPrice": 36.0,
+                    "tradeItemId": "18g5asw",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_18iuqik.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 257698242,
+                    "status": "going",
+                    "savePrice": 23,
+                    "link": "http://m.mogujie.com/x6/detail/18iuqik?from=tuan&acm=3.ms.1_4_18iuqik.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_539h5jlja028a1388a2718iebdjk7_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 11993,
+                    "discount": 4.4,
+                    "title": "【口水娃-零食礼包500g】香肠鱼豆腐素肉豆干混合礼包",
+                    "price": 18.79,
+                    "originalPrice": 42.7,
+                    "tradeItemId": "18iuqik",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_18ficcu.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 254889707,
+                    "status": "going",
+                    "savePrice": 19,
+                    "link": "http://m.mogujie.com/x6/detail/18ficcu?from=tuan&acm=3.ms.1_4_18ficcu.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170415_449l612fc7ie46gf3k0c6711ce3lj_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 799,
+                    "discount": 3.6,
+                    "title": "乐潮酸妞60包 水果味软糖经典休闲零食喜糖糖果小吃零食",
+                    "price": 10.8,
+                    "originalPrice": 30.0,
+                    "tradeItemId": "18ficcu",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_18q1mxm.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 263737873,
+                    "status": "going",
+                    "savePrice": 31,
+                    "link": "http://m.mogujie.com/x6/detail/18q1mxm?from=tuan&acm=3.ms.1_4_18q1mxm.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_096a4g7l7289c7icaglkcdh041ba8_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 899,
+                    "discount": 4.0,
+                    "title": "【周黑鸭旗舰店_锁鲜】卤鸭锁骨240g 武汉特产官方零食品",
+                    "price": 20.72,
+                    "originalPrice": 51.8,
+                    "tradeItemId": "18q1mxm",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_18lsmx0.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 260168678,
+                    "status": "going",
+                    "savePrice": 9,
+                    "link": "http://m.mogujie.com/x6/detail/18lsmx0?from=tuan&acm=3.ms.1_4_18lsmx0.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_0klhflje6b44k4426jk76g2hlfh37_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 3402,
+                    "discount": 6.3,
+                    "title": "【口水娃-小鱼仔一盒20袋】口水鱼湖南四种口味300g",
+                    "price": 16.92,
+                    "originalPrice": 26.86,
+                    "tradeItemId": "18lsmx0",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天22小时",
+                    "acm": "3.ms.1_4_1k86z9m.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 611543017,
+                    "status": "going",
+                    "savePrice": 13,
+                    "link": "http://m.mogujie.com/x6/detail/1k86z9m?from=tuan&acm=3.ms.1_4_1k86z9m.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170403_0fd9751ice2k5dhl12a0d14g9ia51_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1018,
+                    "discount": 6.6,
+                    "title": "【2斤大罐装】老金磨方 无糖纯燕麦片 早餐麦片买送勺子",
+                    "price": 27.06,
+                    "originalPrice": 41.0,
+                    "tradeItemId": "1k86z9m",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_18mb7b6.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 260601797,
+                    "status": "going",
+                    "savePrice": 10,
+                    "link": "http://m.mogujie.com/x6/detail/18mb7b6?from=tuan&acm=3.ms.1_4_18mb7b6.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_88ijfd3galf8lj23jfbl5a518ef7h_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1327,
+                    "discount": 6.2,
+                    "title": "【口水娃-素肉500g】 香辣多口味素牛排休闲零食小吃",
+                    "price": 17.62,
+                    "originalPrice": 28.42,
+                    "tradeItemId": "18mb7b6",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_1k3uqks.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 607898218,
+                    "status": "going",
+                    "savePrice": 13,
+                    "link": "http://m.mogujie.com/x6/detail/1k3uqks?from=tuan&acm=3.ms.1_4_1k3uqks.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_08li1f0e8d8ic849e61dd2aaj2kk2_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1021,
+                    "discount": 6.5,
+                    "title": "【买3送1】澳门燕麦片巧克力棒500g牛奶味（50个左右）",
+                    "price": 24.14,
+                    "originalPrice": 37.14,
+                    "tradeItemId": "1k3uqks",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_1k1k78i.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 605972789,
+                    "status": "going",
+                    "savePrice": 31,
+                    "link": "http://m.mogujie.com/x6/detail/1k1k78i?from=tuan&acm=3.ms.1_4_1k1k78i.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_0iegk5ba1jfdbjh8814lf09hfj923_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 3807,
+                    "discount": 5.1,
+                    "title": "【买1送1盒】木瓜粉葛根粉2合一强效组合装 150g*2盒",
+                    "price": 32.78,
+                    "originalPrice": 64.27,
+                    "tradeItemId": "1k1k78i",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天22小时",
+                    "acm": "3.ms.1_4_1k7ba2m.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 610803523,
+                    "status": "going",
+                    "savePrice": 21,
+                    "link": "http://m.mogujie.com/x6/detail/1k7ba2m?from=tuan&acm=3.ms.1_4_1k7ba2m.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_2lec8ic2ck6ik4b5a01fdeicheb73_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1162,
+                    "discount": 6.6,
+                    "title": "20种口味 80份零食大礼包 休闲组合零食小吃饼干糕点礼盒",
+                    "price": 41.38,
+                    "originalPrice": 62.7,
+                    "tradeItemId": "1k7ba2m",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_1jyctts.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 603281380,
+                    "status": "going",
+                    "savePrice": 21,
+                    "link": "http://m.mogujie.com/x6/detail/1jyctts?from=tuan&acm=3.ms.1_4_1jyctts.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_82j1kieh2bfjd3lj79ljeceb972d6_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 3525,
+                    "discount": 5.3,
+                    "title": "【买3送1】金萃农园木瓜粉 代餐粉150g（搭配葛根粉更好）",
+                    "price": 24.23,
+                    "originalPrice": 45.72,
+                    "tradeItemId": "1jyctts",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_18q1u6o.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 263742572,
+                    "status": "going",
+                    "savePrice": 32,
+                    "link": "http://m.mogujie.com/x6/detail/18q1u6o?from=tuan&acm=3.ms.1_4_18q1u6o.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_7hk7k2le288f23eck9d6e88igf9fc_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 419,
+                    "discount": 4.4,
+                    "title": "【周黑鸭旗舰店_锁鲜】鸡翅尖280g 武汉特产官方食品零食",
+                    "price": 25.34,
+                    "originalPrice": 57.59,
+                    "tradeItemId": "18q1u6o",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_1jzi5j6.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 604245413,
+                    "status": "going",
+                    "savePrice": 18,
+                    "link": "http://m.mogujie.com/x6/detail/1jzi5j6?from=tuan&acm=3.ms.1_4_1jzi5j6.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_2d674aelhle87e55ee2ifiajjd2lc_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 5735,
+                    "discount": 5.4,
+                    "title": "【买2送1】金萃农园 冬瓜荷叶茶 袋泡花茶100g/盒",
+                    "price": 21.6,
+                    "originalPrice": 40.0,
+                    "tradeItemId": "1jzi5j6",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天22小时",
+                    "acm": "3.ms.1_4_1k8ybgg.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 612180772,
+                    "status": "going",
+                    "savePrice": 10,
+                    "link": "http://m.mogujie.com/x6/detail/1k8ybgg?from=tuan&acm=3.ms.1_4_1k8ybgg.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170411_59kdf9h077e7d79lk87ijdf7kle8h_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 746,
+                    "discount": 6.7,
+                    "title": "欧贝拉三明治蒸蛋糕+手撕面包 夹心早餐食品糕点心甜品组合",
+                    "price": 20.96,
+                    "originalPrice": 31.28,
+                    "tradeItemId": "1k8ybgg",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天22小时",
+                    "acm": "3.ms.1_4_1k072ki.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 604826693,
+                    "status": "going",
+                    "savePrice": 16,
+                    "link": "http://m.mogujie.com/x6/detail/1k072ki?from=tuan&acm=3.ms.1_4_1k072ki.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_7dl7f44d408heaejd06g5ia6gfe9f_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1301,
+                    "discount": 6.0,
+                    "title": "【买3送1】金萃农园玫瑰荷叶茶 菊花等组合花草茶100g/盒",
+                    "price": 24.0,
+                    "originalPrice": 40.0,
+                    "tradeItemId": "1k072ki",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天22小时",
+                    "acm": "3.ms.1_4_18kad84.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "tradeId": 258902686,
+                    "status": "going",
+                    "savePrice": 14,
+                    "link": "http://m.mogujie.com/x6/detail/18kad84?from=tuan&acm=3.ms.1_4_18kad84.0.1661-22922.1JwB7qhGabpNe.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_2lcj9gbb12dhjhdh2e977i21jc81d_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>22</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1602,
+                    "discount": 6.6,
+                    "title": "[必败款]福事多紫薯燕麦片+牛奶高钙燕麦片 早餐冲饮即食",
+                    "price": 29.04,
+                    "originalPrice": 44.0,
+                    "tradeItemId": "18kad84",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "success": true
+}

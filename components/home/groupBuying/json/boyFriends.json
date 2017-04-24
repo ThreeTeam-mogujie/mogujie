@@ -1,0 +1,1238 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "param": {
+            "sort": "pop",
+            "_mgjuuid": "be84caba-c140-465e-81bf-704f4fa30bb8",
+            "duplicate": true,
+            "ptpWallCpc": "_wall_cpc",
+            "section": "0",
+            "algoKey": "app_tuan_book_pop",
+            "ptpWallDoc": "_wall_docs",
+            "eventId": "0x00000000",
+            "cKey": "app-tuan-v2",
+            "page": "1",
+            "fcid": "10053173",
+            "cpcEventId": "70005",
+            "ptpPartC": "_b_890bab030494857c"
+        },
+        "wall": {
+            "title": "商品团",
+            "isEnd": false,
+            "docs": [
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k9a40s.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 612455890,
+                    "status": "going",
+                    "savePrice": 42,
+                    "link": "http://m.mogujie.com/x6/detail/1k9a40s?from=tuan&acm=3.ms.1_4_1k9a40s.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170330_05gfahj0d2k869b32kel2ah3e2i54_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 271,
+                    "discount": 6.2,
+                    "title": "2017春夏原创男士系带板鞋港风小白鞋低帮潮流休闲鞋",
+                    "price": 69.13,
+                    "originalPrice": 111.5,
+                    "tradeItemId": "1k9a40s",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k7ia5y.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 610966879,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k7ia5y?from=tuan&acm=3.ms.1_4_1k7ia5y.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170218/127727100_2b3ci51a19ci442dk6i8deh75bfg8_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 643,
+                    "discount": 6.5,
+                    "title": "2017夏装新品原宿风青年七分袖条纹t恤潮男百搭中袖海魂衫",
+                    "price": 54.6,
+                    "originalPrice": 84.0,
+                    "tradeItemId": "1k7ia5y",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k7l50o.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611033528,
+                    "status": "going",
+                    "savePrice": 69,
+                    "link": "http://m.mogujie.com/x6/detail/1k7l50o?from=tuan&acm=3.ms.1_4_1k7l50o.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170220/92290891_4cd91ej22dkl6kkb7d2f8he902jii_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1067,
+                    "discount": 6.5,
+                    "title": "飞织透气休闲潮鞋",
+                    "price": 129.07,
+                    "originalPrice": 198.57,
+                    "tradeItemId": "1k7l50o",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天13小时",
+                    "acm": "3.ms.1_4_1k89my4.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611605018,
+                    "status": "going",
+                    "savePrice": 51,
+                    "link": "http://m.mogujie.com/x6/detail/1k89my4?from=tuan&acm=3.ms.1_4_1k89my4.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170308/275442_0jk8gee2fc2cec6dcbkk00ej74cka_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 47,
+                    "discount": 6.0,
+                    "title": "原创亮色条纹背后印花T恤",
+                    "price": 76.8,
+                    "originalPrice": 128.0,
+                    "tradeItemId": "1k89my4",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k81hhu.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611414861,
+                    "status": "going",
+                    "savePrice": 52,
+                    "link": "http://m.mogujie.com/x6/detail/1k81hhu?from=tuan&acm=3.ms.1_4_1k81hhu.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170303/104516972_5af1e20i3laj85c91ckdl52j24jfh_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2072,
+                    "discount": 6.3,
+                    "title": "2017新款春季男鞋子韩版运动休闲潮鞋男士板鞋英伦百搭小白鞋",
+                    "price": 89.46,
+                    "originalPrice": 142.0,
+                    "tradeItemId": "1k81hhu",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "13小时13分",
+                    "acm": "3.ms.1_4_1k812gq.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611405121,
+                    "status": "going",
+                    "savePrice": 22,
+                    "link": "http://m.mogujie.com/x6/detail/1k812gq?from=tuan&acm=3.ms.1_4_1k812gq.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170302/96563067_07lg4a8e1i4k0gfe326g6kb02leih_640x960.jpg",
+                    "leftTime": "<b>13</b>小时<b>13</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 2164,
+                    "discount": 6.0,
+                    "title": "限时特价夏装必备简约纯色男士短袖潮男装短袖T恤",
+                    "price": 34.28,
+                    "originalPrice": 57.13,
+                    "tradeItemId": "1k812gq",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k6thjq.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 610388463,
+                    "status": "going",
+                    "savePrice": 64,
+                    "link": "http://m.mogujie.com/x6/detail/1k6thjq?from=tuan&acm=3.ms.1_4_1k6thjq.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170109/92290891_69e757a3a6deac5a9k6a77f6bk25a_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2172,
+                    "discount": 6.5,
+                    "title": "168真皮时尚运动休闲鞋",
+                    "price": 119.78,
+                    "originalPrice": 184.28,
+                    "tradeItemId": "1k6thjq",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k8i4p4.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611803144,
+                    "status": "going",
+                    "savePrice": 52,
+                    "link": "http://m.mogujie.com/x6/detail/1k8i4p4?from=tuan&acm=3.ms.1_4_1k8i4p4.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170313/106480935_0f9fl2jj8337b2i5l5h5kbcadjc6a_800x1200.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 232,
+                    "discount": 5.3,
+                    "title": "港仔潮牌夏季薄款个性绣花九分裤潮男小脚牛仔裤",
+                    "price": 59.05,
+                    "originalPrice": 111.42,
+                    "tradeItemId": "1k8i4p4",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天13小时",
+                    "acm": "3.ms.1_4_1k5ehqc.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 609198854,
+                    "status": "going",
+                    "savePrice": 71,
+                    "link": "http://m.mogujie.com/x6/detail/1k5ehqc?from=tuan&acm=3.ms.1_4_1k5ehqc.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161204/180273246_1f3di8gd4i4c01909j3lc7le5b0l9_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 121,
+                    "discount": 6.6,
+                    "title": "春季运动跑步鞋男",
+                    "price": 139.26,
+                    "originalPrice": 211.0,
+                    "tradeItemId": "1k5ehqc",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1jyr2mo.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 603613676,
+                    "status": "going",
+                    "savePrice": 80,
+                    "link": "http://m.mogujie.com/x6/detail/1jyr2mo?from=tuan&acm=3.ms.1_4_1jyr2mo.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170306/153526840_5cdia48e4dia883h5ghk4jk0igk23_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 730,
+                    "discount": 4.3,
+                    "title": "凡兔纯棉印花衬衫",
+                    "price": 60.84,
+                    "originalPrice": 141.49,
+                    "tradeItemId": "1jyr2mo",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k8wdx0.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 612135710,
+                    "status": "going",
+                    "savePrice": 47,
+                    "link": "http://m.mogujie.com/x6/detail/1k8wdx0?from=tuan&acm=3.ms.1_4_1k8wdx0.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170405_1kcbj43k4b5ke31a37c171b86ai1d_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 68,
+                    "discount": 5.0,
+                    "title": "潮男短袖T恤",
+                    "price": 47.5,
+                    "originalPrice": 95.0,
+                    "tradeItemId": "1k8wdx0",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k0r0i8.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 605291916,
+                    "status": "going",
+                    "savePrice": 76,
+                    "link": "http://m.mogujie.com/x6/detail/1k0r0i8?from=tuan&acm=3.ms.1_4_1k0r0i8.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/160921/130659015_53ba85h12ccl3eeg26cdi061h59c1_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 577,
+                    "discount": 5.1,
+                    "title": "凡兔薄款棒球夹克",
+                    "price": 79.45,
+                    "originalPrice": 155.78,
+                    "tradeItemId": "1k0r0i8",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k7xsia.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611328685,
+                    "status": "going",
+                    "savePrice": 79,
+                    "link": "http://m.mogujie.com/x6/detail/1k7xsia?from=tuan&acm=3.ms.1_4_1k7xsia.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170315/118963834_7lei72j7lef30548156aj9f9gcgl5_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 183,
+                    "discount": 6.0,
+                    "title": "春季布洛克男鞋子",
+                    "price": 118.8,
+                    "originalPrice": 198.0,
+                    "tradeItemId": "1k7xsia",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k8aa32.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611620011,
+                    "status": "going",
+                    "savePrice": 52,
+                    "link": "http://m.mogujie.com/x6/detail/1k8aa32?from=tuan&acm=3.ms.1_4_1k8aa32.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170308/153526840_314k1ceh3h62jg7af545l7f7jellb_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 278,
+                    "discount": 6.3,
+                    "title": "拼接百搭薄款夹克",
+                    "price": 89.2,
+                    "originalPrice": 141.59,
+                    "tradeItemId": "1k8aa32",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k0kpek.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 605144754,
+                    "status": "going",
+                    "savePrice": 89,
+                    "link": "http://m.mogujie.com/x6/detail/1k0kpek?from=tuan&acm=3.ms.1_4_1k0kpek.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170228/118963834_1jk3h2l082a1jec474hf581e8738l_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 326,
+                    "discount": 5.5,
+                    "title": "摩蓓增高绅士男鞋",
+                    "price": 109.21,
+                    "originalPrice": 198.56,
+                    "tradeItemId": "1k0kpek",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k6tos6.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 610393151,
+                    "status": "going",
+                    "savePrice": 110,
+                    "link": "http://m.mogujie.com/x6/detail/1k6tos6?from=tuan&acm=3.ms.1_4_1k6tos6.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170110/197426334_3f353f4314g2hei4j3ebfed81da7a_800x1200.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 77,
+                    "discount": 5.9,
+                    "title": "凡兔薄款棒球夹克",
+                    "price": 159.3,
+                    "originalPrice": 270.0,
+                    "tradeItemId": "1k6tos6",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k8i32q.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611802093,
+                    "status": "going",
+                    "savePrice": 42,
+                    "link": "http://m.mogujie.com/x6/detail/1k8i32q?from=tuan&acm=3.ms.1_4_1k8i32q.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170313/106480935_731ai9j8a92ik0fbhbl312e7c160g_800x1200.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 99,
+                    "discount": 6.2,
+                    "title": "港仔潮男夏季青少年个性字母绣花小脚裤九分牛仔裤",
+                    "price": 69.08,
+                    "originalPrice": 111.42,
+                    "tradeItemId": "1k8i32q",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k7h4yi.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 610940177,
+                    "status": "going",
+                    "savePrice": 58,
+                    "link": "http://m.mogujie.com/x6/detail/1k7h4yi?from=tuan&acm=3.ms.1_4_1k7h4yi.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170218/96902595_025cj84ddcia4abc42ea1jl482if6_800x1200.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 22,
+                    "discount": 5.7,
+                    "title": "春韩版假两件T恤",
+                    "price": 77.52,
+                    "originalPrice": 136.0,
+                    "tradeItemId": "1k7h4yi",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k023o0.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 604710764,
+                    "status": "going",
+                    "savePrice": 99,
+                    "link": "http://m.mogujie.com/x6/detail/1k023o0?from=tuan&acm=3.ms.1_4_1k023o0.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170227/130659015_07k456fejk59882j0f0chefa82g4k_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 207,
+                    "discount": 5.0,
+                    "title": "清仓凡兔牛仔风衣",
+                    "price": 99.3,
+                    "originalPrice": 198.6,
+                    "tradeItemId": "1k023o0",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k8kbmc.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611854286,
+                    "status": "going",
+                    "savePrice": 58,
+                    "link": "http://m.mogujie.com/x6/detail/1k8kbmc?from=tuan&acm=3.ms.1_4_1k8kbmc.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_3ji1llb6giie473kh658bf9302dj9_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 391,
+                    "discount": 6.3,
+                    "title": "宾兽2017新款情侣贝壳头厚底松糕鞋男士潮流板鞋休闲鞋男鞋子",
+                    "price": 98.91,
+                    "originalPrice": 157.0,
+                    "tradeItemId": "1k8kbmc",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k8str0.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 612052658,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k8str0?from=tuan&acm=3.ms.1_4_1k8str0.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_0f58a6832gdda6b917d2e1ag6l3lc_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1465,
+                    "discount": 5.8,
+                    "title": "凡兔男装2017休闲印花青年韩版学生纯色修身圆领T恤男短袖潮",
+                    "price": 40.6,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k8str0",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k1x956.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 606277289,
+                    "status": "going",
+                    "savePrice": 61,
+                    "link": "http://m.mogujie.com/x6/detail/1k1x956?from=tuan&acm=3.ms.1_4_1k1x956.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_7ldh65h6478cc99g0jlh8ifcjd25a_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2265,
+                    "discount": 6.4,
+                    "title": "宾兽男士简约经典英伦复古低帮都市商务系带绅士休闲皮鞋男鞋子",
+                    "price": 109.44,
+                    "originalPrice": 171.0,
+                    "tradeItemId": "1k1x956",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1jx5hd2.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 602270199,
+                    "status": "going",
+                    "savePrice": 75,
+                    "link": "http://m.mogujie.com/x6/detail/1jx5hd2?from=tuan&acm=3.ms.1_4_1jx5hd2.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_0agb03al27di47j55bb2j1i652idf_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1033,
+                    "discount": 3.6,
+                    "title": "凡兔男装韩版2017夏季新款时尚印花纯棉圆领青年短袖T恤男",
+                    "price": 42.48,
+                    "originalPrice": 118.0,
+                    "tradeItemId": "1jx5hd2",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k7xafi.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611316971,
+                    "status": "going",
+                    "savePrice": 52,
+                    "link": "http://m.mogujie.com/x6/detail/1k7xafi?from=tuan&acm=3.ms.1_4_1k7xafi.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_27jbae14gd71g4k9k3kl00ccca38l_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 95,
+                    "discount": 6.3,
+                    "title": "宾兽 2017新款男士系带低帮跑步鞋透气耐磨运动休闲鞋男",
+                    "price": 89.96,
+                    "originalPrice": 142.79,
+                    "tradeItemId": "1k7xafi",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "已结束",
+                    "acm": "3.ms.1_4_1k8fzyg.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611753416,
+                    "status": "end",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k8fzyg?from=tuan&acm=3.ms.1_4_1k8fzyg.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170311/127727100_7157g6j45936ij0j46d69hcgcj1fb_640x960.jpg",
+                    "leftTime": null,
+                    "type": 2,
+                    "salesVolume": 254,
+                    "discount": 6.5,
+                    "title": "2017夏装新款圆领撞色短袖青年男士休闲体恤衫韩版打底T恤潮",
+                    "price": 54.6,
+                    "originalPrice": 84.0,
+                    "tradeItemId": "1k8fzyg",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_18q0wri.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 263720915,
+                    "status": "going",
+                    "savePrice": 52,
+                    "link": "http://m.mogujie.com/x6/detail/18q0wri?from=tuan&acm=3.ms.1_4_18q0wri.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_6923ic450cj99deic32c965517hie_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 104,
+                    "discount": 6.3,
+                    "title": "宾兽2017新款欧美情侣款增高时尚百搭休闲小白鞋男鞋子",
+                    "price": 89.96,
+                    "originalPrice": 142.79,
+                    "tradeItemId": "18q0wri",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k88fai.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611576729,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k88fai?from=tuan&acm=3.ms.1_4_1k88fai.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_0afg0886lh23cb87ikfj5l759175g_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 660,
+                    "discount": 6.5,
+                    "title": "凡兔男装2017韩版春夏新款青年条纹修身圆领棉T恤男士短袖潮",
+                    "price": 54.79,
+                    "originalPrice": 84.29,
+                    "tradeItemId": "1k88fai",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k87nko.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611558768,
+                    "status": "going",
+                    "savePrice": 58,
+                    "link": "http://m.mogujie.com/x6/detail/1k87nko?from=tuan&acm=3.ms.1_4_1k87nko.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_1f02b461h3jhcbjkchclf4gci7c44_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 916,
+                    "discount": 6.3,
+                    "title": "宾兽2017新款韩版男士印字时尚运动鞋男生潮流休闲鞋男鞋子",
+                    "price": 98.91,
+                    "originalPrice": 157.0,
+                    "tradeItemId": "1k87nko",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "已结束",
+                    "acm": "3.ms.1_4_1k7969c.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 610754396,
+                    "status": "end",
+                    "savePrice": 37,
+                    "link": "http://m.mogujie.com/x6/detail/1k7969c?from=tuan&acm=3.ms.1_4_1k7969c.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170212/127727100_0f2a76e45051d8916ghigal7bd27h_640x960.jpg",
+                    "leftTime": null,
+                    "type": 2,
+                    "salesVolume": 795,
+                    "discount": 5.5,
+                    "title": "2017新品春夏短袖T恤男韩版宽松圆领纯色男装打底衫潮体恤衫",
+                    "price": 46.56,
+                    "originalPrice": 84.04,
+                    "tradeItemId": "1k7969c",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k9eggu.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 612557267,
+                    "status": "going",
+                    "savePrice": 48,
+                    "link": "http://m.mogujie.com/x6/detail/1k9eggu?from=tuan&acm=3.ms.1_4_1k9eggu.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_33fl54ki59cg8db5d2lb8acb4cg8l_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 132,
+                    "discount": 6.2,
+                    "title": "宾兽新款韩版一脚蹬懒人鞋男士帆布鞋男百搭运动鞋休闲鞋男鞋子",
+                    "price": 78.74,
+                    "originalPrice": 127.0,
+                    "tradeItemId": "1k9eggu",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "已结束",
+                    "acm": "3.ms.1_4_1k7zlxm.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611371081,
+                    "status": "end",
+                    "savePrice": 35,
+                    "link": "http://m.mogujie.com/x6/detail/1k7zlxm?from=tuan&acm=3.ms.1_4_1k7zlxm.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170301/118963834_44h3ll8je17d3iheffc5gkjef085e_640x960.jpg",
+                    "leftTime": null,
+                    "type": 2,
+                    "salesVolume": 261,
+                    "discount": 5.9,
+                    "title": "2017春季新款帆布豆豆鞋休闲英伦男士皮鞋韩版潮流男鞋乐福鞋",
+                    "price": 49.9,
+                    "originalPrice": 85.01,
+                    "tradeItemId": "1k7zlxm",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k8m0oq.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611893857,
+                    "status": "going",
+                    "savePrice": 68,
+                    "link": "http://m.mogujie.com/x6/detail/1k8m0oq?from=tuan&acm=3.ms.1_4_1k8m0oq.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_6hcdegf8fkg51cb49lf6k2ka42cd5_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 912,
+                    "discount": 6.3,
+                    "title": "宾兽2017新款男士弹力莱卡休闲跑步鞋潮流运动男鞋子学生潮鞋",
+                    "price": 116.55,
+                    "originalPrice": 185.0,
+                    "tradeItemId": "1k8m0oq",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "已结束",
+                    "acm": "3.ms.1_4_1k782pg.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 610728766,
+                    "status": "end",
+                    "savePrice": 48,
+                    "link": "http://m.mogujie.com/x6/detail/1k782pg?from=tuan&acm=3.ms.1_4_1k782pg.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170212/127727100_80h3dbi3l56ckb0i6fkj9kii5ad30_640x960.jpg",
+                    "leftTime": null,
+                    "type": 2,
+                    "salesVolume": 104,
+                    "discount": 6.2,
+                    "title": "2017春季新品韩国东大门复古简约韩版宽松条纹衬衣男士衬衫潮",
+                    "price": 78.74,
+                    "originalPrice": 127.0,
+                    "tradeItemId": "1k782pg",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k93bzq.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 612297759,
+                    "status": "going",
+                    "savePrice": 48,
+                    "link": "http://m.mogujie.com/x6/detail/1k93bzq?from=tuan&acm=3.ms.1_4_1k93bzq.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_017hgh361fj2hfb0bk01ffckhge8f_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 138,
+                    "discount": 6.2,
+                    "title": "宾兽2017新款系带百搭阿甘鞋耐磨轻便运动鞋休闲鞋男鞋子",
+                    "price": 79.36,
+                    "originalPrice": 128.0,
+                    "tradeItemId": "1k93bzq",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1jxkefs.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 602618224,
+                    "status": "going",
+                    "savePrice": 68,
+                    "link": "http://m.mogujie.com/x6/detail/1jxkefs?from=tuan&acm=3.ms.1_4_1jxkefs.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_19cjl742if3ld7i3gh8i2e91f6hbj_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1036,
+                    "discount": 4.2,
+                    "title": "凡兔男装2017韩版夏季新款字母印花休闲时尚百搭男士短袖T恤",
+                    "price": 49.56,
+                    "originalPrice": 118.0,
+                    "tradeItemId": "1jxkefs",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "已结束",
+                    "acm": "3.ms.1_4_1k8dn58.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 611698458,
+                    "status": "end",
+                    "savePrice": 44,
+                    "link": "http://m.mogujie.com/x6/detail/1k8dn58?from=tuan&acm=3.ms.1_4_1k8dn58.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170310/127727100_03e201408486ba5jb23l30le99dji_640x960.jpg",
+                    "leftTime": null,
+                    "type": 2,
+                    "salesVolume": 1114,
+                    "discount": 6.5,
+                    "title": "2017春夏新款男装潮流百搭立体褶皱设计哈伦裤小脚九分裤子男",
+                    "price": 82.55,
+                    "originalPrice": 127.0,
+                    "tradeItemId": "1k8dn58",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k1jz7q.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 605967591,
+                    "status": "going",
+                    "savePrice": 55,
+                    "link": "http://m.mogujie.com/x6/detail/1k1jz7q?from=tuan&acm=3.ms.1_4_1k1jz7q.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_073135a021l4kh13hga17ic8dg74b_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2525,
+                    "discount": 7.0,
+                    "title": "凡兔男装韩版2017春秋新款机车潮搭夹克男士修身时尚薄外套男",
+                    "price": 129.01,
+                    "originalPrice": 184.3,
+                    "tradeItemId": "1k1jz7q",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "已结束",
+                    "acm": "3.ms.1_4_1k9y2ao.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 613014644,
+                    "status": "end",
+                    "savePrice": 34,
+                    "link": "http://m.mogujie.com/x6/detail/1k9y2ao?from=tuan&acm=3.ms.1_4_1k9y2ao.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170410_5eki2a7bkj07a1i0jg3lbj6bb0bee_640x960.jpg",
+                    "leftTime": null,
+                    "type": 2,
+                    "salesVolume": 180,
+                    "discount": 6.5,
+                    "title": "2017夏装新品日系抽绳棉麻休闲裤宽松哈伦裤男潮小脚裤九分裤",
+                    "price": 64.35,
+                    "originalPrice": 99.0,
+                    "tradeItemId": "1k9y2ao",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k93o3u.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "tradeId": 612305609,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k93o3u?from=tuan&acm=3.ms.1_4_1k93o3u.0.1661-22922.yHKclqhG46GBr.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_606kidlaeld448300017i23d3b788_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 164,
+                    "discount": 6.5,
+                    "title": "凡兔男装2017夏季新款韩版印花半袖T恤男休闲圆领棉短袖潮",
+                    "price": 54.79,
+                    "originalPrice": 84.29,
+                    "tradeItemId": "1k93o3u",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "success": true
+}

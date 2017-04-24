@@ -1,0 +1,1050 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "param": {
+            "sort": "pop",
+            "_mgjuuid": "be84caba-c140-465e-81bf-704f4fa30bb8",
+            "duplicate": true,
+            "ptpWallCpc": "_wall_cpc",
+            "section": "0",
+            "algoKey": "app_tuan_book_pop",
+            "ptpWallDoc": "_wall_docs",
+            "eventId": "0x00000000",
+            "cKey": "app-tuan-v2",
+            "page": "1",
+            "fcid": "10053178",
+            "cpcEventId": "70005",
+            "ptpPartC": "_b_91b4bb0eff8fbd95"
+        },
+        "wall": {
+            "title": "商品团",
+            "isEnd": false,
+            "docs": [
+                {
+                    "leftTimeOrg": "13小时6分",
+                    "acm": "3.ms.1_4_17pizoy.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 233069821,
+                    "status": "going",
+                    "savePrice": 14,
+                    "link": "http://m.mogujie.com/x6/detail/17pizoy?from=tuan&acm=3.ms.1_4_17pizoy.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170412_132ilejb8ecl4859d3i5271l6c5hb_640x960.jpg",
+                    "leftTime": "<b>13</b>小时<b>6</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 17196,
+                    "discount": 6.2,
+                    "title": "【买一送10】时代超力家用大功率家用冷热风负离子电吹风机",
+                    "price": 24.18,
+                    "originalPrice": 39.0,
+                    "tradeItemId": "17pizoy",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时6分",
+                    "acm": "3.ms.1_4_1k8dzn4.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 611706556,
+                    "status": "going",
+                    "savePrice": 7,
+                    "link": "http://m.mogujie.com/x6/detail/1k8dzn4?from=tuan&acm=3.ms.1_4_1k8dzn4.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_7h85ci699j4bc47hcdceb7cjcka49_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>6</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 392,
+                    "discount": 6.7,
+                    "title": "小清新晴雨两用伞女防紫外线遮阳伞黑胶防晒太阳伞韩国三折叠雨伞",
+                    "price": 15.79,
+                    "originalPrice": 23.57,
+                    "tradeItemId": "1k8dzn4",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k67evq.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 609873519,
+                    "status": "going",
+                    "savePrice": 6,
+                    "link": "http://m.mogujie.com/x6/detail/1k67evq?from=tuan&acm=3.ms.1_4_1k67evq.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_4hkbj39j6562egj3hbi9d81hl8f6e_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 6023,
+                    "discount": 6.5,
+                    "title": "【买一送一】12夹 内衣多功能塑料小夹子挂钩家用防风晾衣架",
+                    "price": 12.9,
+                    "originalPrice": 19.85,
+                    "tradeItemId": "1k67evq",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_1k9uj92.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 612932319,
+                    "status": "going",
+                    "savePrice": 8,
+                    "link": "http://m.mogujie.com/x6/detail/1k9uj92?from=tuan&acm=3.ms.1_4_1k9uj92.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170417_6jg82gk407cb58i21b3512l0iecbe_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 423,
+                    "discount": 6.5,
+                    "title": "卡通透明创可贴可爱  迷你透气防水创口贴防磨 100片包邮",
+                    "price": 15.69,
+                    "originalPrice": 24.14,
+                    "tradeItemId": "1k9uj92",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天23小时",
+                    "acm": "3.ms.1_4_18njgo0.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 261634292,
+                    "status": "going",
+                    "savePrice": 22,
+                    "link": "http://m.mogujie.com/x6/detail/18njgo0?from=tuan&acm=3.ms.1_4_18njgo0.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_0jc7e328fi7d702jhkfghe35c9126_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 3420,
+                    "discount": 6.0,
+                    "title": "【买一送七】顺丹家用吹风机大功率负离子电吹风学生宿舍大风力",
+                    "price": 33.0,
+                    "originalPrice": 55.0,
+                    "tradeItemId": "18njgo0",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_1k8pbbo.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 611970734,
+                    "status": "going",
+                    "savePrice": 11,
+                    "link": "http://m.mogujie.com/x6/detail/1k8pbbo?from=tuan&acm=3.ms.1_4_1k8pbbo.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170413_57bdl89kh26li6lc1h188d41ebgae_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 286,
+                    "discount": 6.6,
+                    "title": "拖鞋女浴室夏天凉拖鞋居家居拖夏季洗澡情侣男室内可爱女士凉拖鞋",
+                    "price": 22.16,
+                    "originalPrice": 33.58,
+                    "tradeItemId": "1k8pbbo",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天23小时",
+                    "acm": "3.ms.1_4_1k32y8k.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 607249998,
+                    "status": "going",
+                    "savePrice": 13,
+                    "link": "http://m.mogujie.com/x6/detail/1k32y8k?from=tuan&acm=3.ms.1_4_1k32y8k.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_07gg8dc43ab69644i8i69dklg73cg_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 869,
+                    "discount": 6.9,
+                    "title": "【买一送11】学生家用电吹风机大功率发廊飘香型冷热风负离子",
+                    "price": 28.98,
+                    "originalPrice": 42.0,
+                    "tradeItemId": "1k32y8k",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_1k8z1wy.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 612197917,
+                    "status": "going",
+                    "savePrice": 15,
+                    "link": "http://m.mogujie.com/x6/detail/1k8z1wy?from=tuan&acm=3.ms.1_4_1k8z1wy.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170418_6457gd4j5j0b13876b46aj7h61af5_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 188,
+                    "discount": 6.8,
+                    "title": "保温饭盒日式 不锈钢3层2层学生便当盒",
+                    "price": 32.54,
+                    "originalPrice": 47.85,
+                    "tradeItemId": "1k8z1wy",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "13小时6分",
+                    "acm": "3.ms.1_4_1k1qm20.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 606122360,
+                    "status": "going",
+                    "savePrice": 22,
+                    "link": "http://m.mogujie.com/x6/detail/1k1qm20?from=tuan&acm=3.ms.1_4_1k1qm20.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170412_3j7fh5jakakb5fg425hkebf57bc3d_640x960.jpg",
+                    "leftTime": "<b>13</b>小时<b>6</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 8323,
+                    "discount": 5.4,
+                    "title": "【买一送11】学生家用大功率发廊飘香型冷热风负离子电吹风机",
+                    "price": 25.92,
+                    "originalPrice": 48.0,
+                    "tradeItemId": "1k1qm20",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1jwuuzo.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 602022422,
+                    "status": "going",
+                    "savePrice": 10,
+                    "link": "http://m.mogujie.com/x6/detail/1jwuuzo?from=tuan&acm=3.ms.1_4_1jwuuzo.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170414_3jclh72g64ib2ke33hlh30j01g898_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2115,
+                    "discount": 6.4,
+                    "title": "遇水开花拱形黑胶超强防晒遮阳晴雨两用折叠雨伞太阳伞遮阳伞",
+                    "price": 18.19,
+                    "originalPrice": 28.42,
+                    "tradeItemId": "1jwuuzo",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天23小时",
+                    "acm": "3.ms.1_4_182kh6s.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 244021990,
+                    "status": "going",
+                    "savePrice": 30,
+                    "link": "http://m.mogujie.com/x6/detail/182kh6s?from=tuan&acm=3.ms.1_4_182kh6s.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_4i15ghj3bgga6i9je6cleda4a8b03_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2,
+                    "discount": 6.0,
+                    "title": "顺丹发廊大功率冷热风电吹风机",
+                    "price": 46.44,
+                    "originalPrice": 77.4,
+                    "tradeItemId": "182kh6s",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时6分",
+                    "acm": "3.ms.1_4_1k8yji4.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 612185986,
+                    "status": "going",
+                    "savePrice": 22,
+                    "link": "http://m.mogujie.com/x6/detail/1k8yji4?from=tuan&acm=3.ms.1_4_1k8yji4.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170407_5hi048cba5ajb66d0ab587gjl4ae3_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>6</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 870,
+                    "discount": 6.1,
+                    "title": "手持挂烫机迷你蒸汽电熨斗家用烫衣服小烫斗熨斗便携式熨烫机",
+                    "price": 34.77,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "1k8yji4",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天23小时",
+                    "acm": "3.ms.1_4_18pekgc.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 263199722,
+                    "status": "going",
+                    "savePrice": 14,
+                    "link": "http://m.mogujie.com/x6/detail/18pekgc?from=tuan&acm=3.ms.1_4_18pekgc.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_693lg29dk7c4891d48ic25a9g8bi4_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 4428,
+                    "discount": 6.3,
+                    "title": "【买一送9】顺丹时尚炫彩家用冷热风负离子电吹风机",
+                    "price": 24.88,
+                    "originalPrice": 39.49,
+                    "tradeItemId": "18pekgc",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_1k94ynm.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 612335773,
+                    "status": "going",
+                    "savePrice": 8,
+                    "link": "http://m.mogujie.com/x6/detail/1k94ynm?from=tuan&acm=3.ms.1_4_1k94ynm.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170412_282lfg5ki30a5200kei0de54a47gi_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 318,
+                    "discount": 6.9,
+                    "title": "黑胶超强防紫外线太阳伞遮阳伞折叠防晒伞女三折两用晴雨伞超轻小",
+                    "price": 19.61,
+                    "originalPrice": 28.42,
+                    "tradeItemId": "1k94ynm",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_18my2ks.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 261135274,
+                    "status": "going",
+                    "savePrice": 7,
+                    "link": "http://m.mogujie.com/x6/detail/18my2ks?from=tuan&acm=3.ms.1_4_18my2ks.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170415_490721c63769hlej0kfbfd2e6c2g8_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 461,
+                    "discount": 6.5,
+                    "title": "夏季情侣款大黄鸭人字拖鞋",
+                    "price": 13.83,
+                    "originalPrice": 21.28,
+                    "tradeItemId": "18my2ks",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时6分",
+                    "acm": "3.ms.1_4_1k69m5y.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 609924895,
+                    "status": "going",
+                    "savePrice": 9,
+                    "link": "http://m.mogujie.com/x6/detail/1k69m5y?from=tuan&acm=3.ms.1_4_1k69m5y.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s17.mogucdn.com/mlcdn/1689c6/170414_12fagad9c0h0dkll1l429l7d26cdi_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>6</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 4631,
+                    "discount": 6.5,
+                    "title": "DIY抱枕定制生日礼物送闺蜜圣诞节礼物男女朋友情人节创意礼品",
+                    "price": 18.47,
+                    "originalPrice": 28.42,
+                    "tradeItemId": "1k69m5y",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天23小时",
+                    "acm": "3.ms.1_4_17x5fie.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 239471943,
+                    "status": "going",
+                    "savePrice": 24,
+                    "link": "http://m.mogujie.com/x6/detail/17x5fie?from=tuan&acm=3.ms.1_4_17x5fie.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s11.mogucdn.com/mlcdn/1689c6/170420_3j8e89628b42h4l1kgk4bld3ga38j_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 3739,
+                    "discount": 5.5,
+                    "title": "【买一送七】顺丹电吹风机家用大功率冷热风电吹风负离子恒温",
+                    "price": 29.7,
+                    "originalPrice": 54.0,
+                    "tradeItemId": "17x5fie",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_1k8pzva.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 611986639,
+                    "status": "going",
+                    "savePrice": 13,
+                    "link": "http://m.mogujie.com/x6/detail/1k8pzva?from=tuan&acm=3.ms.1_4_1k8pzva.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170416_8781cbkk6145k5131d65h66ljfaj0_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 288,
+                    "discount": 6.6,
+                    "title": "草泥马雨伞防紫外线小清新折叠伞防晒伞晴雨男女学生伞两用太阳伞",
+                    "price": 26.4,
+                    "originalPrice": 40.0,
+                    "tradeItemId": "1k8pzva",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k3ao36.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 607430045,
+                    "status": "going",
+                    "savePrice": 8,
+                    "link": "http://m.mogujie.com/x6/detail/1k3ao36?from=tuan&acm=3.ms.1_4_1k3ao36.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170412_4kaf8kgb382c7a0h778jbei1l80gi_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1802,
+                    "discount": 5.8,
+                    "title": "50片装一次性黑色活性炭口罩多色无纺布口罩防尘防霾保暖",
+                    "price": 12.34,
+                    "originalPrice": 21.28,
+                    "tradeItemId": "1k3ao36",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时6分",
+                    "acm": "3.ms.1_4_18f1khc.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 254498396,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/18f1khc?from=tuan&acm=3.ms.1_4_18f1khc.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170415_40jg3dkah5afeddci23jl42b2h454_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>6</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 1176,
+                    "discount": 4.3,
+                    "title": "48页装中文版秘密花园填色本（不含画笔）",
+                    "price": 12.9,
+                    "originalPrice": 30.0,
+                    "tradeItemId": "18f1khc",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_1k7nsa8.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 611095260,
+                    "status": "going",
+                    "savePrice": 9,
+                    "link": "http://m.mogujie.com/x6/detail/1k7nsa8?from=tuan&acm=3.ms.1_4_1k7nsa8.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170412_5ha367d0e32ai5f0c0fbkhbfj11lc_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 591,
+                    "discount": 6.7,
+                    "title": "剃毛机剃毛球修剪器卷吸毛器刮毛球机除打毛球器直插充电式去球器",
+                    "price": 19.09,
+                    "originalPrice": 28.49,
+                    "tradeItemId": "1k7nsa8",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_1k1q33a.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 606110071,
+                    "status": "going",
+                    "savePrice": 8,
+                    "link": "http://m.mogujie.com/x6/detail/1k1q33a?from=tuan&acm=3.ms.1_4_1k1q33a.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170412_007h7j72f1hk6kgajjbj465hd8chk_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1783,
+                    "discount": 5.8,
+                    "title": "个性立体植物仙人掌苹果6s情侣手机壳6plus硅胶保护套软壳",
+                    "price": 12.18,
+                    "originalPrice": 21.0,
+                    "tradeItemId": "1k1q33a",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k07qf8.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 604842150,
+                    "status": "going",
+                    "savePrice": 7,
+                    "link": "http://m.mogujie.com/x6/detail/1k07qf8?from=tuan&acm=3.ms.1_4_1k07qf8.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170419_6ghg18a9lfbfh72bb701i5jef3fjf_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2227,
+                    "discount": 6.7,
+                    "title": "(送杯刷杯袋)韩潮时尚印花随手杯大容量便携水杯杯子茶杯玻璃杯",
+                    "price": 14.36,
+                    "originalPrice": 21.43,
+                    "tradeItemId": "1k07qf8",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天23小时",
+                    "acm": "3.ms.1_4_1k92n16.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 612281585,
+                    "status": "going",
+                    "savePrice": 25,
+                    "link": "http://m.mogujie.com/x6/detail/1k92n16?from=tuan&acm=3.ms.1_4_1k92n16.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_828c9jjc9f740eil3f380c4b13i4a_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 340,
+                    "discount": 5.4,
+                    "title": "卷发棒两用内扣卷发器防烫不伤发空气刘海电卷棒直发梳",
+                    "price": 29.7,
+                    "originalPrice": 55.0,
+                    "tradeItemId": "1k92n16",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_1k9nr4y.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 612774133,
+                    "status": "going",
+                    "savePrice": 18,
+                    "link": "http://m.mogujie.com/x6/detail/1k9nr4y?from=tuan&acm=3.ms.1_4_1k9nr4y.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170416_45a2e1gli11611fi4hc2jfgh8i8f8_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 112,
+                    "discount": 6.0,
+                    "title": "迷你空调制冷小型电风扇台式学生宿舍便携无叶可充电池usb两用",
+                    "price": 27.6,
+                    "originalPrice": 46.0,
+                    "tradeItemId": "1k9nr4y",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时6分",
+                    "acm": "3.ms.1_4_1k2cmyq.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 606636165,
+                    "status": "going",
+                    "savePrice": 13,
+                    "link": "http://m.mogujie.com/x6/detail/1k2cmyq?from=tuan&acm=3.ms.1_4_1k2cmyq.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170416_11jf4233le5f7g832i9h5h25ja4al_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>6</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 622,
+                    "discount": 6.8,
+                    "title": "【买一送五】多功能直卷烫三合一陶瓷离子烫发器便携卷发器卷发棒",
+                    "price": 29.04,
+                    "originalPrice": 42.71,
+                    "tradeItemId": "1k2cmyq",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天23小时",
+                    "acm": "3.ms.1_4_1k9g1ws.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 612594490,
+                    "status": "going",
+                    "savePrice": 12,
+                    "link": "http://m.mogujie.com/x6/detail/1k9g1ws?from=tuan&acm=3.ms.1_4_1k9g1ws.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_2h0051hllhaahcehgd732c73a8dl7_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 9,
+                    "discount": 6.7,
+                    "title": "洗脸神器 离子导入仪紧致去皱仪家用洁面 脸部按摩美容仪器",
+                    "price": 24.79,
+                    "originalPrice": 37.0,
+                    "tradeItemId": "1k9g1ws",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_17mh876.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 230509253,
+                    "status": "going",
+                    "savePrice": 6,
+                    "link": "http://m.mogujie.com/x6/detail/17mh876?from=tuan&acm=3.ms.1_4_17mh876.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170417_71402ak5hi58bka0kace8bfe2hldb_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1926,
+                    "discount": 6.6,
+                    "title": "【带勺盖】创意可爱陶瓷马克杯",
+                    "price": 12.16,
+                    "originalPrice": 18.42,
+                    "tradeItemId": "17mh876",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时6分",
+                    "acm": "3.ms.1_4_1k9a3rc.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 612455720,
+                    "status": "going",
+                    "savePrice": 13,
+                    "link": "http://m.mogujie.com/x6/detail/1k9a3rc?from=tuan&acm=3.ms.1_4_1k9a3rc.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170413_83ll0ggkjc08h0keh59i7gcc2b4ji_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>6</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 451,
+                    "discount": 6.8,
+                    "title": "【浴巾毛巾套装】超细纤维柔软亲肤不掉毛吸水成人男女春夏款",
+                    "price": 29.04,
+                    "originalPrice": 42.71,
+                    "tradeItemId": "1k9a3rc",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天23小时",
+                    "acm": "3.ms.1_4_1k9y36u.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 613015223,
+                    "status": "going",
+                    "savePrice": 13,
+                    "link": "http://m.mogujie.com/x6/detail/1k9y36u?from=tuan&acm=3.ms.1_4_1k9y36u.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_5408043fid41b5dchg46hk2c9l4k0_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 33,
+                    "discount": 6.9,
+                    "title": "小吊扇迷你电风扇床上蚊帐吊扇家用小型静音学生宿舍五叶",
+                    "price": 28.98,
+                    "originalPrice": 42.0,
+                    "tradeItemId": "1k9y36u",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k9q3ww.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 612829068,
+                    "status": "going",
+                    "savePrice": 15,
+                    "link": "http://m.mogujie.com/x6/detail/1k9q3ww?from=tuan&acm=3.ms.1_4_1k9q3ww.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s11.mogucdn.com/mlcdn/1689c6/170411_0g3lic1fbg57k135a370f25k1h1h7_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 344,
+                    "discount": 6.9,
+                    "title": "（送毛毯）冰丝凉席三件套可折叠席子学生单双人宿舍床单枕套席子",
+                    "price": 34.5,
+                    "originalPrice": 50.0,
+                    "tradeItemId": "1k9q3ww",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k53k22.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 608943753,
+                    "status": "going",
+                    "savePrice": 43,
+                    "link": "http://m.mogujie.com/x6/detail/1k53k22?from=tuan&acm=3.ms.1_4_1k53k22.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170412_5f26ffg91hi7k4ce8c0ebj86ldf55_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 641,
+                    "discount": 6.6,
+                    "title": "红双喜煎饼锅家用双面加热悬浮式煎烤饼机烙饼锅电饼铛",
+                    "price": 83.82,
+                    "originalPrice": 127.0,
+                    "tradeItemId": "1k53k22",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时6分",
+                    "acm": "3.ms.1_4_1k8gqwm.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 611770879,
+                    "status": "going",
+                    "savePrice": 20,
+                    "link": "http://m.mogujie.com/x6/detail/1k8gqwm?from=tuan&acm=3.ms.1_4_1k8gqwm.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170413_7ac6fd298j3f04jajcfkbl6j0fk13_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>6</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 618,
+                    "discount": 6.4,
+                    "title": "面部蒸脸器迷你便携补水仪保湿冷喷美容仪充电纳米喷雾机保湿神器",
+                    "price": 36.48,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "1k8gqwm",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_1k7zq7a.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 611373847,
+                    "status": "going",
+                    "savePrice": 34,
+                    "link": "http://m.mogujie.com/x6/detail/1k7zq7a?from=tuan&acm=3.ms.1_4_1k7zq7a.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s11.mogucdn.com/mlcdn/1689c6/170417_07jh4egg802i8ee919dfca77jie82_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 466,
+                    "discount": 6.0,
+                    "title": "太阳能充电宝20000毫安大容量移动电源苹果三星便携通用型",
+                    "price": 51.0,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1k7zq7a",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时6分",
+                    "acm": "3.ms.1_4_1k7s4xu.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 611196773,
+                    "status": "going",
+                    "savePrice": 26,
+                    "link": "http://m.mogujie.com/x6/detail/1k7s4xu?from=tuan&acm=3.ms.1_4_1k7s4xu.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170414_7cl1dlkj2adi68e16ag5j2alk82be_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>6</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 823,
+                    "discount": 6.8,
+                    "title": "2017高档冰丝凉席三件套学生单双床提花夏凉席可水洗",
+                    "price": 57.31,
+                    "originalPrice": 84.28,
+                    "tradeItemId": "1k7s4xu",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时6分",
+                    "acm": "3.ms.1_4_1k6apkw.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 609950436,
+                    "status": "going",
+                    "savePrice": 7,
+                    "link": "http://m.mogujie.com/x6/detail/1k6apkw?from=tuan&acm=3.ms.1_4_1k6apkw.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170412_0hld5d790686141395c46cdlf86g8_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>6</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 1935,
+                    "discount": 6.5,
+                    "title": "韩国汽水瓶玻璃杯便携水杯学生创意带盖随手杯子耐热男女茶杯水瓶",
+                    "price": 14.67,
+                    "originalPrice": 22.57,
+                    "tradeItemId": "1k6apkw",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天23小时",
+                    "acm": "3.ms.1_4_181m6rq.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 243222087,
+                    "status": "going",
+                    "savePrice": 13,
+                    "link": "http://m.mogujie.com/x6/detail/181m6rq?from=tuan&acm=3.ms.1_4_181m6rq.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_6eec1e686554dle5b86a10kkha0k9_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 391,
+                    "discount": 6.9,
+                    "title": "顺丹学生家用冷热风负离子正品电吹风机",
+                    "price": 29.32,
+                    "originalPrice": 42.49,
+                    "tradeItemId": "181m6rq",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时6分",
+                    "acm": "3.ms.1_4_1k7zz3i.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 611379611,
+                    "status": "going",
+                    "savePrice": 30,
+                    "link": "http://m.mogujie.com/x6/detail/1k7zz3i?from=tuan&acm=3.ms.1_4_1k7zz3i.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170412_217kbg1l4a5lh9342i5jf66ill5hi_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>6</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 452,
+                    "discount": 5.7,
+                    "title": "玻璃纤维免安装蒙古包有底简易蚊帐1.2/1.5/1.8米床",
+                    "price": 39.9,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k7zz3i",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k99tsc.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 612449258,
+                    "status": "going",
+                    "savePrice": 12,
+                    "link": "http://m.mogujie.com/x6/detail/1k99tsc?from=tuan&acm=3.ms.1_4_1k99tsc.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170412_08b0kij0e4226k8k08ggk36h826hh_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 461,
+                    "discount": 6.7,
+                    "title": "加厚黑胶超强防晒防紫外线遮阳伞太阳伞三折叠伞晴雨伞两用雨伞",
+                    "price": 24.69,
+                    "originalPrice": 36.85,
+                    "tradeItemId": "1k99tsc",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天23小时",
+                    "acm": "3.ms.1_4_1k9ye04.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "tradeId": 613022230,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k9ye04?from=tuan&acm=3.ms.1_4_1k9ye04.0.1661-22922.mFrsrqhG5QMjU.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_3eel8e277b7be2g5g7b8193aef319_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 7,
+                    "discount": 6.9,
+                    "title": "节能迷你家用电风扇 摇头扇台扇 壁扇 学生用小电扇",
+                    "price": 38.64,
+                    "originalPrice": 56.0,
+                    "tradeItemId": "1k9ye04",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "success": true
+}
