@@ -1,0 +1,1246 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "param": {
+            "sort": "pop",
+            "_mgjuuid": "be84caba-c140-465e-81bf-704f4fa30bb8",
+            "duplicate": true,
+            "ptpWallCpc": "_wall_cpc",
+            "section": "0",
+            "algoKey": "app_tuan_book_pop",
+            "ptpWallDoc": "_wall_docs",
+            "eventId": "0x00000000",
+            "cKey": "app-tuan-v2",
+            "page": "1",
+            "fcid": "10053175",
+            "cpcEventId": "70005",
+            "ptpPartC": "_b_da76be2f29174c76"
+        },
+        "wall": {
+            "title": "商品团",
+            "isEnd": false,
+            "docs": [
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1k7nce4.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 611084962,
+                    "status": "going",
+                    "savePrice": 42,
+                    "link": "http://m.mogujie.com/x6/detail/1k7nce4?from=tuan&acm=3.ms.1_4_1k7nce4.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_1cih9e4g493afa04432h016g77k2g_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 839,
+                    "discount": 6.7,
+                    "title": "一脚蹬时尚舒适懒人鞋韩版绒面方头皮带扣浅口单鞋平底百搭女鞋",
+                    "price": 85.76,
+                    "originalPrice": 128.0,
+                    "tradeItemId": "1k7nce4",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1jvhc5e.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 600867141,
+                    "status": "going",
+                    "savePrice": 34,
+                    "link": "http://m.mogujie.com/x6/detail/1jvhc5e?from=tuan&acm=3.ms.1_4_1jvhc5e.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_6kgk20glilh0kc3jg29dje74h20ld_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 344,
+                    "discount": 6.8,
+                    "title": "真的很美！夏季上新百搭韩版高跟凉鞋",
+                    "price": 74.12,
+                    "originalPrice": 109.0,
+                    "tradeItemId": "1jvhc5e",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1k7f1q6.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610891427,
+                    "status": "going",
+                    "savePrice": 32,
+                    "link": "http://m.mogujie.com/x6/detail/1k7f1q6?from=tuan&acm=3.ms.1_4_1k7f1q6.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_17dij8bkelek58lfb156bl7f53kab_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 279,
+                    "discount": 6.7,
+                    "title": "上脚很美百搭蝴蝶结圆头舒适平底平跟浅口单鞋一脚蹬懒人鞋豆豆鞋",
+                    "price": 65.66,
+                    "originalPrice": 98.0,
+                    "tradeItemId": "1k7f1q6",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_18y8n6o.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 270619796,
+                    "status": "going",
+                    "savePrice": 40,
+                    "link": "http://m.mogujie.com/x6/detail/18y8n6o?from=tuan&acm=3.ms.1_4_18y8n6o.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_4101jbjg9geb5li30hfgbl5hbfi9g_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 36,
+                    "discount": 6.8,
+                    "title": "经典~皮带搭扣设计露趾时尚高跟凉鞋 夏季气质嘛绳坡跟女鞋",
+                    "price": 85.0,
+                    "originalPrice": 125.0,
+                    "tradeItemId": "18y8n6o",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1ka5cz4.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 613184860,
+                    "status": "going",
+                    "savePrice": 40,
+                    "link": "http://m.mogujie.com/x6/detail/1ka5cz4?from=tuan&acm=3.ms.1_4_1ka5cz4.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_14b22fei8hliifbk03abchjb714f6_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 25,
+                    "discount": 6.8,
+                    "title": "简约一字横带设计露趾罗马凉鞋 夏季休闲软底扣带平底女鞋",
+                    "price": 87.04,
+                    "originalPrice": 128.0,
+                    "tradeItemId": "1ka5cz4",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1k6v7ku.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610428659,
+                    "status": "going",
+                    "savePrice": 40,
+                    "link": "http://m.mogujie.com/x6/detail/1k6v7ku?from=tuan&acm=3.ms.1_4_1k6v7ku.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_7ggi8ga0ad1af3lbc82gdebcgg513_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1635,
+                    "discount": 6.8,
+                    "title": "上脚超美~韩版学院风复古浅口女鞋百搭皮带扣粗跟鞋糖果高跟单鞋",
+                    "price": 87.04,
+                    "originalPrice": 128.0,
+                    "tradeItemId": "1k6v7ku",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1k6uoky.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610416349,
+                    "status": "going",
+                    "savePrice": 43,
+                    "link": "http://m.mogujie.com/x6/detail/1k6uoky?from=tuan&acm=3.ms.1_4_1k6uoky.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_7gb7i29igea50bead0hdibalb7e22_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1073,
+                    "discount": 6.6,
+                    "title": "韩版OL小清新高跟粗跟浅口单鞋女学院风绒面一脚蹬小方头休闲鞋",
+                    "price": 84.48,
+                    "originalPrice": 128.0,
+                    "tradeItemId": "1k6uoky",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1k73ygc.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610632698,
+                    "status": "going",
+                    "savePrice": 40,
+                    "link": "http://m.mogujie.com/x6/detail/1k73ygc?from=tuan&acm=3.ms.1_4_1k73ygc.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170413_238gk02afl0ka95h2ggfdeb46e81g_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1116,
+                    "discount": 6.8,
+                    "title": "森系复古英伦风方头女鞋百搭波浪形设计浅口鞋韩版粗跟鞋高跟单鞋",
+                    "price": 86.36,
+                    "originalPrice": 127.0,
+                    "tradeItemId": "1k73ygc",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1k9hm70.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 612630962,
+                    "status": "going",
+                    "savePrice": 36,
+                    "link": "http://m.mogujie.com/x6/detail/1k9hm70?from=tuan&acm=3.ms.1_4_1k9hm70.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_6lb8j8e7f87a20fb92g935fkdca9c_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 80,
+                    "discount": 6.8,
+                    "title": "韩版~简约一字带皮带搭扣设计外出露趾拖鞋 夏季舒适软底凉鞋",
+                    "price": 77.52,
+                    "originalPrice": 114.0,
+                    "tradeItemId": "1k9hm70",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1k8drv4.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 611701516,
+                    "status": "going",
+                    "savePrice": 40,
+                    "link": "http://m.mogujie.com/x6/detail/1k8drv4?from=tuan&acm=3.ms.1_4_1k8drv4.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170413_5dlh3k2184kh6kfkl5eg3a21k4kg4_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 33,
+                    "discount": 6.8,
+                    "title": "欧美风~简约方头皮带搭扣设计粗跟包头外出复古高跟拖鞋穆勒鞋",
+                    "price": 87.04,
+                    "originalPrice": 128.0,
+                    "tradeItemId": "1k8drv4",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1k7v242.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 611264925,
+                    "status": "going",
+                    "savePrice": 40,
+                    "link": "http://m.mogujie.com/x6/detail/1k7v242?from=tuan&acm=3.ms.1_4_1k7v242.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_2iff3c7178ddc3bliigg27dagc4e4_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 28,
+                    "discount": 6.8,
+                    "title": "早春新品小清新浅口女鞋百搭学院风侧空小粗跟单鞋英伦风一脚蹬鞋",
+                    "price": 86.36,
+                    "originalPrice": 127.0,
+                    "tradeItemId": "1k7v242",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天0小时",
+                    "acm": "3.ms.1_4_1k6z60q.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610520961,
+                    "status": "going",
+                    "savePrice": 24,
+                    "link": "http://m.mogujie.com/x6/detail/1k6z60q?from=tuan&acm=3.ms.1_4_1k6z60q.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170420_3bj0g3fgag2jl360gdgk8l5k3dk1c_640x853.jpg",
+                    "leftTime": "<b>4</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 49,
+                    "discount": 6.5,
+                    "title": "韩国新款ulzzang复古帆布鞋小白鞋女原宿学生潮平底布鞋子",
+                    "price": 46.15,
+                    "originalPrice": 71.0,
+                    "tradeItemId": "1k6z60q",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1k7zrg4.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 611374654,
+                    "status": "going",
+                    "savePrice": 43,
+                    "link": "http://m.mogujie.com/x6/detail/1k7zrg4?from=tuan&acm=3.ms.1_4_1k7zrg4.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_8a73i63bgai5e997ed55e5jhg993j_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 442,
+                    "discount": 6.7,
+                    "title": "春夏季韩版浅口尖头高跟鞋学院风蝴蝶结粗跟凉鞋侧空伴娘单鞋",
+                    "price": 89.11,
+                    "originalPrice": 133.0,
+                    "tradeItemId": "1k7zrg4",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天0小时",
+                    "acm": "3.ms.1_4_1k6vigo.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610435712,
+                    "status": "going",
+                    "savePrice": 22,
+                    "link": "http://m.mogujie.com/x6/detail/1k6vigo?from=tuan&acm=3.ms.1_4_1k6vigo.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170113/3149402_8fj721c68c985ihe6di5d2fledc34_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 812,
+                    "discount": 6.5,
+                    "title": "春季新品原宿韩版女小白鞋平底鞋休闲鞋百搭运动鞋帆布鞋板鞋单鞋",
+                    "price": 42.25,
+                    "originalPrice": 65.0,
+                    "tradeItemId": "1k6vigo",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1k3q0ns.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 607788112,
+                    "status": "going",
+                    "savePrice": 39,
+                    "link": "http://m.mogujie.com/x6/detail/1k3q0ns?from=tuan&acm=3.ms.1_4_1k3q0ns.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170413_1989bahjcahff050g40el2b6k57lh_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1304,
+                    "discount": 6.8,
+                    "title": "绒面方头经典皮带搭扣设计高跟单鞋 欧美风实木粗跟一脚蹬女鞋",
+                    "price": 84.32,
+                    "originalPrice": 124.0,
+                    "tradeItemId": "1k3q0ns",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "0小时20分",
+                    "acm": "3.ms.1_4_1k8h9pm.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 611783065,
+                    "status": "going",
+                    "savePrice": 21,
+                    "link": "http://m.mogujie.com/x6/detail/1k8h9pm?from=tuan&acm=3.ms.1_4_1k8h9pm.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170312/88607645_3a25d07cjhh9e983f8jgk50bdeg8d_640x960.jpg",
+                    "leftTime": "<b>0</b>小时<b>20</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 177,
+                    "discount": 6.9,
+                    "title": "明星同款系带帆布鞋",
+                    "price": 48.3,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k8h9pm",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1k7wn24.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 611301826,
+                    "status": "going",
+                    "savePrice": 44,
+                    "link": "http://m.mogujie.com/x6/detail/1k7wn24?from=tuan&acm=3.ms.1_4_1k7wn24.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170413_7khfh3e8jj0l3fal7906eekh7c726_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 263,
+                    "discount": 6.8,
+                    "title": "欧美街拍设计~复古方头绑带实木粗跟单鞋森系英伦风系带浅口鞋",
+                    "price": 95.2,
+                    "originalPrice": 140.0,
+                    "tradeItemId": "1k7wn24",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天0小时",
+                    "acm": "3.ms.1_4_1k6o0sk.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610260966,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k6o0sk?from=tuan&acm=3.ms.1_4_1k6o0sk.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170102/55389863_808ek3kigj1kj0bgk5e2k57ci4b98_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 4780,
+                    "discount": 6.5,
+                    "title": "明星同款春季小白鞋女韩版学生百搭运动鞋女鞋厚底板鞋系带休闲鞋",
+                    "price": 55.25,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1k6o0sk",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1k7dl3e.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610857321,
+                    "status": "going",
+                    "savePrice": 40,
+                    "link": "http://m.mogujie.com/x6/detail/1k7dl3e?from=tuan&acm=3.ms.1_4_1k7dl3e.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170413_48jfgefbg3f42ajbg5f3jb593j2b5_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 166,
+                    "discount": 6.8,
+                    "title": "复古英伦风双皮带扣浅口女鞋百搭粗跟方头鞋早春新品高跟鞋单鞋",
+                    "price": 86.36,
+                    "originalPrice": 127.0,
+                    "tradeItemId": "1k7dl3e",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "0小时20分",
+                    "acm": "3.ms.1_4_1k82rjg.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 611444698,
+                    "status": "going",
+                    "savePrice": 32,
+                    "link": "http://m.mogujie.com/x6/detail/1k82rjg?from=tuan&acm=3.ms.1_4_1k82rjg.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170303/144817794_3a0j1a8b3jlkk5205jc4gk4j8ci69_640x960.jpg",
+                    "leftTime": "<b>0</b>小时<b>20</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 442,
+                    "discount": 6.7,
+                    "title": "2017韩版时尚春季新款休闲厚底内增高小白鞋圆头厚底系带女鞋",
+                    "price": 66.33,
+                    "originalPrice": 99.0,
+                    "tradeItemId": "1k82rjg",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天8小时",
+                    "acm": "3.ms.1_4_1jw72l2.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 601467471,
+                    "status": "going",
+                    "savePrice": 40,
+                    "link": "http://m.mogujie.com/x6/detail/1jw72l2?from=tuan&acm=3.ms.1_4_1jw72l2.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170420_7e12lcdcd3aij1gf0j7kka61afjaj_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>8</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 104,
+                    "discount": 6.8,
+                    "title": "【只卖品质货】明星红人必备小香风同款百搭韩版内增高平底单鞋",
+                    "price": 86.36,
+                    "originalPrice": 127.0,
+                    "tradeItemId": "1jw72l2",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天14小时",
+                    "acm": "3.ms.1_4_1k9oi8s.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 612791698,
+                    "status": "going",
+                    "savePrice": 59,
+                    "link": "http://m.mogujie.com/x6/detail/1k9oi8s?from=tuan&acm=3.ms.1_4_1k9oi8s.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170406_70dj75hb8a895h5aa6f6ih878627d_1000x1500.jpg",
+                    "leftTime": "<b>6</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 78,
+                    "discount": 6.5,
+                    "title": "魔术贴厚底凉鞋",
+                    "price": 109.57,
+                    "originalPrice": 168.57,
+                    "tradeItemId": "1k9oi8s",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天0小时",
+                    "acm": "3.ms.1_4_1k32q6k.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 607244778,
+                    "status": "going",
+                    "savePrice": 33,
+                    "link": "http://m.mogujie.com/x6/detail/1k32q6k?from=tuan&acm=3.ms.1_4_1k32q6k.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161003/43708978_2ge0haa500lc0kei0fd0g5j00jhlg_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 502,
+                    "discount": 6.4,
+                    "title": "新款韩版时尚金属扣尖头浅口绒面平底单鞋百搭时尚气质女鞋瓢鞋",
+                    "price": 59.52,
+                    "originalPrice": 93.0,
+                    "tradeItemId": "1k32q6k",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天14小时",
+                    "acm": "3.ms.1_4_1k8hjja.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 611789431,
+                    "status": "going",
+                    "savePrice": 51,
+                    "link": "http://m.mogujie.com/x6/detail/1k8hjja?from=tuan&acm=3.ms.1_4_1k8hjja.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170313/45806003_24ffe48928gd54abag3h9h9gbdf8c_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 198,
+                    "discount": 6.0,
+                    "title": "铆钉一字扣凉鞋",
+                    "price": 76.8,
+                    "originalPrice": 128.0,
+                    "tradeItemId": "1k8hjja",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天0小时",
+                    "acm": "3.ms.1_4_1k97f5g.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 612393118,
+                    "status": "going",
+                    "savePrice": 30,
+                    "link": "http://m.mogujie.com/x6/detail/1k97f5g?from=tuan&acm=3.ms.1_4_1k97f5g.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170329_4lg45g6ghbj81a0579l4ai1k9he9i_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 673,
+                    "discount": 6.8,
+                    "title": "脏脏鞋女原宿百搭蕾丝透气板鞋女亮片星星系带平底鞋韩版小白鞋潮",
+                    "price": 65.28,
+                    "originalPrice": 96.0,
+                    "tradeItemId": "1k97f5g",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天14小时",
+                    "acm": "3.ms.1_4_1k9o7ha.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 612784723,
+                    "status": "going",
+                    "savePrice": 69,
+                    "link": "http://m.mogujie.com/x6/detail/1k9o7ha?from=tuan&acm=3.ms.1_4_1k9o7ha.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170406_86b16f454ldkbijb2b62laaa997d0_1000x1500.jpg",
+                    "leftTime": "<b>6</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 32,
+                    "discount": 6.5,
+                    "title": "一字带防水台凉鞋",
+                    "price": 128.14,
+                    "originalPrice": 197.14,
+                    "tradeItemId": "1k9o7ha",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天14小时",
+                    "acm": "3.ms.1_4_1k33rvu.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 607269209,
+                    "status": "going",
+                    "savePrice": 53,
+                    "link": "http://m.mogujie.com/x6/detail/1k33rvu?from=tuan&acm=3.ms.1_4_1k33rvu.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170211/157429526_1d8eblb1ij8af4b7h2g9kf99l58hc_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 147,
+                    "discount": 4.6,
+                    "title": "明星同款一脚蹬帆布鞋",
+                    "price": 45.34,
+                    "originalPrice": 98.57,
+                    "tradeItemId": "1k33rvu",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天14小时",
+                    "acm": "3.ms.1_4_1k9ok7a.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 612792967,
+                    "status": "going",
+                    "savePrice": 69,
+                    "link": "http://m.mogujie.com/x6/detail/1k9ok7a?from=tuan&acm=3.ms.1_4_1k9ok7a.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170419_731c6lhfe3f0h39bcc39j9bkfccag_1000x1500.jpg",
+                    "leftTime": "<b>6</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 19,
+                    "discount": 6.5,
+                    "title": "一字带粗跟凉鞋",
+                    "price": 128.14,
+                    "originalPrice": 197.14,
+                    "tradeItemId": "1k9ok7a",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天0小时",
+                    "acm": "3.ms.1_4_1k8iurk.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 611820036,
+                    "status": "going",
+                    "savePrice": 22,
+                    "link": "http://m.mogujie.com/x6/detail/1k8iurk?from=tuan&acm=3.ms.1_4_1k8iurk.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170318/68534377_0id95ed9lkicbk4ca6jkjf0hc43c7_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 603,
+                    "discount": 6.9,
+                    "title": "2017春夏新款韩版原宿学院风平跟百搭一脚蹬懒人单鞋女拖鞋",
+                    "price": 49.19,
+                    "originalPrice": 71.29,
+                    "tradeItemId": "1k8iurk",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天14小时",
+                    "acm": "3.ms.1_4_1k09k4g.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 604884724,
+                    "status": "going",
+                    "savePrice": 74,
+                    "link": "http://m.mogujie.com/x6/detail/1k09k4g?from=tuan&acm=3.ms.1_4_1k09k4g.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/160917/87481384_0i2h23k72dc2l6h2b6efa99jif5h8_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 9078,
+                    "discount": 4.6,
+                    "title": "环球春秋女鞋休闲鞋女小白鞋女韩版森系单鞋运动鞋皮面帆布鞋子",
+                    "price": 63.48,
+                    "originalPrice": 138.0,
+                    "tradeItemId": "1k09k4g",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "0小时20分",
+                    "acm": "3.ms.1_4_1k72sfo.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610605470,
+                    "status": "going",
+                    "savePrice": 49,
+                    "link": "http://m.mogujie.com/x6/detail/1k72sfo?from=tuan&acm=3.ms.1_4_1k72sfo.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170213/73644999_152837a09jc54j722g98egc0hgkif_640x960.jpg",
+                    "leftTime": "<b>0</b>小时<b>20</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 259,
+                    "discount": 5.0,
+                    "title": "春学院风中跟流苏女鞋子英伦风小皮鞋漆皮金属装饰一脚蹬复古单鞋",
+                    "price": 49.5,
+                    "originalPrice": 99.0,
+                    "tradeItemId": "1k72sfo",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天14小时",
+                    "acm": "3.ms.1_4_1k6mato.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610220810,
+                    "status": "going",
+                    "savePrice": 78,
+                    "link": "http://m.mogujie.com/x6/detail/1k6mato?from=tuan&acm=3.ms.1_4_1k6mato.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170208/133914971_1h5h0lk32bh8i1kad89575g6db9jj_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 756,
+                    "discount": 6.0,
+                    "title": "新品厚底运动鞋",
+                    "price": 118.29,
+                    "originalPrice": 197.15,
+                    "tradeItemId": "1k6mato",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天0小时",
+                    "acm": "3.ms.1_4_1k6v5u8.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610427532,
+                    "status": "going",
+                    "savePrice": 34,
+                    "link": "http://m.mogujie.com/x6/detail/1k6v5u8?from=tuan&acm=3.ms.1_4_1k6v5u8.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s17.mogucdn.com/p2/170112/64336687_4llhc80ck2hd1gd8158h85cj7gk5e_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 89,
+                    "discount": 5.9,
+                    "title": "大码尖头平底鞋单鞋女鞋",
+                    "price": 50.15,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1k6v5u8",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "0小时20分",
+                    "acm": "3.ms.1_4_1jx3rmq.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 602230197,
+                    "status": "going",
+                    "savePrice": 21,
+                    "link": "http://m.mogujie.com/x6/detail/1jx3rmq?from=tuan&acm=3.ms.1_4_1jx3rmq.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160722/88607645_ifqtozddgyygen3fhezdambqgyyde_640x960.jpg",
+                    "leftTime": "<b>0</b>小时<b>20</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 715,
+                    "discount": 6.9,
+                    "title": "权志龙同款系带小白鞋",
+                    "price": 48.3,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1jx3rmq",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "0小时20分",
+                    "acm": "3.ms.1_4_1k6e1sw.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610028340,
+                    "status": "going",
+                    "savePrice": 33,
+                    "link": "http://m.mogujie.com/x6/detail/1k6e1sw?from=tuan&acm=3.ms.1_4_1k6e1sw.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161221/116844604_6172g570cgk7fafdd774941ad7c1g_640x960.jpg",
+                    "leftTime": "<b>0</b>小时<b>20</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 1572,
+                    "discount": 6.6,
+                    "title": "韩版方头粗跟单鞋漆皮",
+                    "price": 65.06,
+                    "originalPrice": 98.58,
+                    "tradeItemId": "1k6e1sw",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天0小时",
+                    "acm": "3.ms.1_4_1k8f2rw.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 611731914,
+                    "status": "going",
+                    "savePrice": 39,
+                    "link": "http://m.mogujie.com/x6/detail/1k8f2rw?from=tuan&acm=3.ms.1_4_1k8f2rw.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170311/92291343_245f07610dhg8637cbd5ilg65555l_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 41,
+                    "discount": 6.0,
+                    "title": "简约纯色一字拖平底凉拖鞋",
+                    "price": 59.4,
+                    "originalPrice": 99.0,
+                    "tradeItemId": "1k8f2rw",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天0小时",
+                    "acm": "3.ms.1_4_1k7xla8.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 611324004,
+                    "status": "going",
+                    "savePrice": 49,
+                    "link": "http://m.mogujie.com/x6/detail/1k7xla8?from=tuan&acm=3.ms.1_4_1k7xla8.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170228/76094623_1h4ak1g0bibb4a6gl96cgcjh58k1a_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 134,
+                    "discount": 6.1,
+                    "title": "广州鞋方头粗跟小皮鞋",
+                    "price": 77.59,
+                    "originalPrice": 127.2,
+                    "tradeItemId": "1k7xla8",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "已结束",
+                    "acm": "3.ms.1_4_1k6sr3i.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 610371323,
+                    "status": "end",
+                    "savePrice": 55,
+                    "link": "http://m.mogujie.com/x6/detail/1k6sr3i?from=tuan&acm=3.ms.1_4_1k6sr3i.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170108/471659_8346fdb738cdebig44kj7j8g66ha2_640x960.jpg",
+                    "leftTime": null,
+                    "type": 2,
+                    "salesVolume": 267,
+                    "discount": 6.0,
+                    "title": "明星同款小白鞋女系带厚底休闲运动鞋韩版新款百搭学生党板鞋春潮",
+                    "price": 83.2,
+                    "originalPrice": 139.13,
+                    "tradeItemId": "1k6sr3i",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天14小时",
+                    "acm": "3.ms.1_4_1k6bkss.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 609970666,
+                    "status": "going",
+                    "savePrice": 78,
+                    "link": "http://m.mogujie.com/x6/detail/1k6bkss?from=tuan&acm=3.ms.1_4_1k6bkss.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161218/76094623_653535abge2d802c53h1feheflad7_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 703,
+                    "discount": 6.0,
+                    "title": "真皮内增高小白鞋",
+                    "price": 118.28,
+                    "originalPrice": 197.13,
+                    "tradeItemId": "1k6bkss",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天14小时",
+                    "acm": "3.ms.1_4_1jxod3e.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "tradeId": 602710665,
+                    "status": "going",
+                    "savePrice": 139,
+                    "link": "http://m.mogujie.com/x6/detail/1jxod3e?from=tuan&acm=3.ms.1_4_1jxod3e.0.1661-22922.yHKckqhFNo7Bq.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160627/83175741_ie4gcnrtgm4teobwhezdambqgiyde_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 77,
+                    "discount": 4.6,
+                    "title": "凉鞋中跟绑带罗马",
+                    "price": 119.14,
+                    "originalPrice": 259.0,
+                    "tradeItemId": "1jxod3e",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "success": true
+}

@@ -10,7 +10,7 @@ angular.module('groupBuyingModule',[])
 		})
 })
 
-.controller('groupBuyingCtrl',['$scope','$http',function($scope,$http){
+.controller('groupBuyingCtrl',['$scope','$http','$anchorScroll','$location',function($scope,$http,$anchorScroll,$location){
 	//u质团
 	$http.get('components/home/groupBuying/json/uGroup.json').success(function(res){
 		$scope.bannerImg = res.data[12908].list[0].image;
@@ -31,10 +31,32 @@ angular.module('groupBuyingModule',[])
 	//今日精选
 	
 	$http.get('components/home/groupBuying/json/choiceTody.json').success(function(res){
-        console.log(res.result.wall);
-        console.log(1);
+//      console.log(res.result.wall);
+//      console.log(1);
         $scope.allGoods = res.result.wall.docs;
+        $scope.goos0 = $scope.allGoods[0].show;
+        $scope.goos1 = $scope.allGoods[1].show;
 	})
-	
+//女装	
+		$scope.backImg = false;
+//  $scope.backImg = $scope.isimg;
+	$scope.allGroupBuyGoods = function(jsongoods,backImg){
+		$scope.backImg = false;
+		$http.get('components/home/groupBuying/json/'+jsongoods).success(function(res){
+			$scope.allGoods = res.result.wall.docs;
+			if (jsongoods == 'choiceTody.json') {
+				 $scope.goos0 = $scope.allGoods[0].show;
+       			 $scope.goos1 = $scope.allGoods[1].show;
+			}else{
+				$scope.goos0 = $scope.allGoods[0];
+       			 $scope.goos1 = $scope.allGoods[1];
+			}       
+        
+		    $scope.backImg = ! $scope.backImg;
+		$location.hash('todayBuyWrap');
+        $anchorScroll();
+
+	})
+	}
 	
 }])

@@ -1,0 +1,1189 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "param": {
+            "sort": "pop",
+            "_mgjuuid": "be84caba-c140-465e-81bf-704f4fa30bb8",
+            "duplicate": true,
+            "ptpWallCpc": "_wall_cpc",
+            "section": "0",
+            "algoKey": "app_tuan_book_pop",
+            "ptpWallDoc": "_wall_docs",
+            "eventId": "0x00000000",
+            "cKey": "app-tuan-v2",
+            "page": "1",
+            "fcid": "10053174",
+            "cpcEventId": "70005",
+            "ptpPartC": "_b_a57f815646cfa94e"
+        },
+        "wall": {
+            "title": "商品团",
+            "isEnd": false,
+            "docs": [
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k8vf7u.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 612113225,
+                    "status": "going",
+                    "savePrice": 24,
+                    "link": "http://m.mogujie.com/x6/detail/1k8vf7u?from=tuan&acm=3.ms.1_4_1k8vf7u.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170322_0f1a8607k01fk9d8lk4i3h4a897cb_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 328,
+                    "discount": 6.5,
+                    "title": "买一送三 多穿法时尚百搭无肩带隐形无钢圈美背加厚绑带胸贴露背女内衣文胸",
+                    "price": 46.15,
+                    "originalPrice": 71.0,
+                    "tradeItemId": "1k8vf7u",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_16r6fm2.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 204223401,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/16r6fm2?from=tuan&acm=3.ms.1_4_16r6fm2.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170113/63752890_0hiei2ha5gce55bcbaj0bj6cjkba1_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 460,
+                    "discount": 6.7,
+                    "title": "2条装海军风蓝白条纹纯棉情侣内裤",
+                    "price": 36.18,
+                    "originalPrice": 54.0,
+                    "tradeItemId": "16r6fm2",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时10分",
+                    "acm": "3.ms.1_4_1k49de4.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 608239594,
+                    "status": "going",
+                    "savePrice": 12,
+                    "link": "http://m.mogujie.com/x6/detail/1k49de4?from=tuan&acm=3.ms.1_4_1k49de4.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161026/167182016_4g67b9icgaa5aaj4f9a8ggab2j5je_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>10</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 474,
+                    "discount": 6.6,
+                    "title": "健身跑步有氧运动透气吸汗前开式拉链无钢圈瑜伽背心女生文胸内衣",
+                    "price": 25.08,
+                    "originalPrice": 38.0,
+                    "tradeItemId": "1k49de4",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天13小时",
+                    "acm": "3.ms.1_4_1k4ye4g.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 608823268,
+                    "status": "going",
+                    "savePrice": 30,
+                    "link": "http://m.mogujie.com/x6/detail/1k4ye4g?from=tuan&acm=3.ms.1_4_1k4ye4g.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170416_4f5igcihj9jd71a9cle81dgb294k9_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 389,
+                    "discount": 6.9,
+                    "title": "欧美蕾丝聚拢文胸",
+                    "price": 68.9,
+                    "originalPrice": 99.86,
+                    "tradeItemId": "1k4ye4g",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天23小时",
+                    "acm": "3.ms.1_4_1k70dx2.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 610549407,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k70dx2?from=tuan&acm=3.ms.1_4_1k70dx2.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170320/103885359_6835f75i8di0af2lk13bic20h30l3_1000x1500.jpg",
+                    "leftTime": "<b>4</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 955,
+                    "discount": 6.0,
+                    "title": "四双装女士船袜夏季薄款隐形袜子",
+                    "price": 25.54,
+                    "originalPrice": 42.57,
+                    "tradeItemId": "1k70dx2",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k272ki.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 606506309,
+                    "status": "going",
+                    "savePrice": 34,
+                    "link": "http://m.mogujie.com/x6/detail/1k272ki?from=tuan&acm=3.ms.1_4_1k272ki.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/160912/147713292_7828271bi6el3aech66b2l4fa376g_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 228,
+                    "discount": 6.5,
+                    "title": "欧美性感蕾丝美背前扣文胸套装Y型细肩带深V聚拢小胸无痕内衣女",
+                    "price": 64.9,
+                    "originalPrice": 99.85,
+                    "tradeItemId": "1k272ki",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天23小时",
+                    "acm": "3.ms.1_4_1k73vsy.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 610630981,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k73vsy?from=tuan&acm=3.ms.1_4_1k73vsy.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170328_5l97702d42jeec99g12hd8edfgfb2_1000x1500.jpg",
+                    "leftTime": "<b>4</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1317,
+                    "discount": 6.0,
+                    "title": "五双盒装薄款女士船袜夏季隐形袜子",
+                    "price": 25.54,
+                    "originalPrice": 42.57,
+                    "tradeItemId": "1k73vsy",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_18p7w76.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 263044037,
+                    "status": "going",
+                    "savePrice": 20,
+                    "link": "http://m.mogujie.com/x6/detail/18p7w76?from=tuan&acm=3.ms.1_4_18p7w76.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160406/74225910_ie4giyjrgfqtgmldg4zdambqgiyde_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 5089,
+                    "discount": 6.2,
+                    "title": "5条礼盒装冰丝纯色甜美女士包臀一片式无痕中腰内裤三角裤短裤",
+                    "price": 34.1,
+                    "originalPrice": 55.0,
+                    "tradeItemId": "18p7w76",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天13小时",
+                    "acm": "3.ms.1_4_1k8x8ca.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 612155425,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k8x8ca?from=tuan&acm=3.ms.1_4_1k8x8ca.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170323_4k1513bdek2i80h4b93e3ll323bbc_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 319,
+                    "discount": 6.5,
+                    "title": "无钢圈聚拢文胸",
+                    "price": 54.6,
+                    "originalPrice": 84.0,
+                    "tradeItemId": "1k8x8ca",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k6o8ja.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 610265983,
+                    "status": "going",
+                    "savePrice": 16,
+                    "link": "http://m.mogujie.com/x6/detail/1k6o8ja?from=tuan&acm=3.ms.1_4_1k6o8ja.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170113/147713292_33f17ja8g059aej42d108g8g8jk3h_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2852,
+                    "discount": 6.5,
+                    "title": "3条装日本中腰舒适内裤",
+                    "price": 29.9,
+                    "originalPrice": 46.0,
+                    "tradeItemId": "1k6o8ja",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_17s3a0w.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 235222692,
+                    "status": "going",
+                    "savePrice": 19,
+                    "link": "http://m.mogujie.com/x6/detail/17s3a0w?from=tuan&acm=3.ms.1_4_17s3a0w.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160506/60470801_ifrgezbwgbqtczjvhazdambqmeyde_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2064,
+                    "discount": 6.5,
+                    "title": "唯美星空无痕套装文胸聚拢侧收调整型性感深V乳沟少女内衣套装",
+                    "price": 37.05,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "17s3a0w",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1jzubfg.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 604529170,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1jzubfg?from=tuan&acm=3.ms.1_4_1jzubfg.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160719/63752890_ifrgembrgeydqolehezdambqmeyde_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 143,
+                    "discount": 6.3,
+                    "title": "（6条装）休闲风大小码女士内裤",
+                    "price": 29.61,
+                    "originalPrice": 47.0,
+                    "tradeItemId": "1jzubfg",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_1k6qk6c.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 610320182,
+                    "status": "going",
+                    "savePrice": 21,
+                    "link": "http://m.mogujie.com/x6/detail/1k6qk6c?from=tuan&acm=3.ms.1_4_1k6qk6c.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170105/116601380_32ch57jlkalcd4i74j1lifi127767_800x1200.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 328,
+                    "discount": 6.9,
+                    "title": "美人鱼同款纯棉睡裙女夏天睡衣春秋季公主甜美可爱V领全棉家居服",
+                    "price": 48.3,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k6qk6c",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天13小时",
+                    "acm": "3.ms.1_4_1k921uu.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 612267863,
+                    "status": "going",
+                    "savePrice": 21,
+                    "link": "http://m.mogujie.com/x6/detail/1k921uu?from=tuan&acm=3.ms.1_4_1k921uu.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170402_223c16lf8j5l2049jf51b6g25bblh_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 212,
+                    "discount": 6.8,
+                    "title": "性感无痕蕾丝内裤",
+                    "price": 46.63,
+                    "originalPrice": 68.57,
+                    "tradeItemId": "1k921uu",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k6c6xs.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 609985012,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k6c6xs?from=tuan&acm=3.ms.1_4_1k6c6xs.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161220/14245019_361kf4j66j9j1d6g80e725ic18glj_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 193,
+                    "discount": 6.5,
+                    "title": "蕾丝小飞肩小胸加厚聚拢调整型文胸罩 性感甜美纯色镂空内衣套装",
+                    "price": 54.6,
+                    "originalPrice": 84.0,
+                    "tradeItemId": "1k6c6xs",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时10分",
+                    "acm": "3.ms.1_4_1k8mvg2.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 611913789,
+                    "status": "going",
+                    "savePrice": 24,
+                    "link": "http://m.mogujie.com/x6/detail/1k8mvg2?from=tuan&acm=3.ms.1_4_1k8mvg2.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170317/166340837_2c4f2ba5lg9i6ajglcg5j8f8e34h4_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>10</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 221,
+                    "discount": 6.5,
+                    "title": "南极人纯棉无痕内裤女印花 学生性感盒装无痕三角裤 甜美小清新",
+                    "price": 45.5,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k8mvg2",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时10分",
+                    "acm": "3.ms.1_4_1k3boow.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 607453764,
+                    "status": "going",
+                    "savePrice": 32,
+                    "link": "http://m.mogujie.com/x6/detail/1k3boow?from=tuan&acm=3.ms.1_4_1k3boow.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161011/73266301_30gfdl931c12ca3eeg9d8l6220g3j_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>10</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 2247,
+                    "discount": 6.7,
+                    "title": "针织棉性感吊带雏菊长袖女春秋宽松阔腿裤三件套睡衣家居服套装",
+                    "price": 65.66,
+                    "originalPrice": 98.0,
+                    "tradeItemId": "1k3boow",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天23小时",
+                    "acm": "3.ms.1_4_1k6vc1e.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 610431549,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k6vc1e?from=tuan&acm=3.ms.1_4_1k6vc1e.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170304/103885359_137i2k303bcb49d6d0ih66hglheke_1000x1500.jpg",
+                    "leftTime": "<b>4</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1463,
+                    "discount": 6.0,
+                    "title": "五双盒装纯棉女士短袜薄款船袜女情侣袜",
+                    "price": 25.54,
+                    "originalPrice": 42.57,
+                    "tradeItemId": "1k6vc1e",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k69yy6.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 609933179,
+                    "status": "going",
+                    "savePrice": 54,
+                    "link": "http://m.mogujie.com/x6/detail/1k69yy6?from=tuan&acm=3.ms.1_4_1k69yy6.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170305/147713292_79li67hbc4f141661878hg39j08aj_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 73,
+                    "discount": 6.2,
+                    "title": "欧美聚拢调整型5排扣文胸套装深V性感婚纱蕾丝胸罩小胸少女内衣",
+                    "price": 88.48,
+                    "originalPrice": 142.71,
+                    "tradeItemId": "1k69yy6",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天13小时",
+                    "acm": "3.ms.1_4_1k75ue6.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 610676723,
+                    "status": "going",
+                    "savePrice": 21,
+                    "link": "http://m.mogujie.com/x6/detail/1k75ue6?from=tuan&acm=3.ms.1_4_1k75ue6.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170209/92353388_3h09kc6lga8k0lhdigcd2lh6llhk1_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 272,
+                    "discount": 6.8,
+                    "title": "红豆卡通纯棉内裤",
+                    "price": 46.64,
+                    "originalPrice": 68.59,
+                    "tradeItemId": "1k75ue6",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_1k0h8p8.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 605063946,
+                    "status": "going",
+                    "savePrice": 23,
+                    "link": "http://m.mogujie.com/x6/detail/1k0h8p8?from=tuan&acm=3.ms.1_4_1k0h8p8.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170227/116601380_4h838higkb1023fjc9gf30kb10i7b_800x1200.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 172,
+                    "discount": 6.7,
+                    "title": "【现在不买，旺季被宰！】春秋季情侣睡衣女装纯棉长袖家居服套装",
+                    "price": 46.9,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k0h8p8",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时10分",
+                    "acm": "3.ms.1_4_1k6f2qm.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 610052275,
+                    "status": "going",
+                    "savePrice": 34,
+                    "link": "http://m.mogujie.com/x6/detail/1k6f2qm?from=tuan&acm=3.ms.1_4_1k6f2qm.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161230/14245019_5090362e5g5g9a5be37i40gbk2d4g_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>10</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 284,
+                    "discount": 6.0,
+                    "title": "性感蕾丝1/2半杯舒适内衣文胸 小胸薄杯聚胸罩文胸套装",
+                    "price": 51.0,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1k6f2qm",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天23小时",
+                    "acm": "3.ms.1_4_1k0rs2i.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 605309777,
+                    "status": "going",
+                    "savePrice": 39,
+                    "link": "http://m.mogujie.com/x6/detail/1k0rs2i?from=tuan&acm=3.ms.1_4_1k0rs2i.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/160803/141027645_0lh6a43i0kc34ekl1a99d7ic5h94a_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 44,
+                    "discount": 6.0,
+                    "title": "都市丽人小胸性感薄杯棉布B杯女士内衣文胸2B6209",
+                    "price": 59.14,
+                    "originalPrice": 98.57,
+                    "tradeItemId": "1k0rs2i",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时10分",
+                    "acm": "3.ms.1_4_1k4wro2.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 608785389,
+                    "status": "going",
+                    "savePrice": 74,
+                    "link": "http://m.mogujie.com/x6/detail/1k4wro2?from=tuan&acm=3.ms.1_4_1k4wro2.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170416_7dj44b77hc4alf43lc611bj14ie57_800x1200.jpg",
+                    "leftTime": "<b>23</b>小时<b>10</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 271,
+                    "discount": 4.8,
+                    "title": "洛丽塔素雅小清新蕾丝性感无钢圈文胸套装 纯色简约薄款棉质胸罩",
+                    "price": 68.5,
+                    "originalPrice": 142.71,
+                    "tradeItemId": "1k4wro2",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天23小时",
+                    "acm": "3.ms.1_4_1k87x8m.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 611565031,
+                    "status": "going",
+                    "savePrice": 16,
+                    "link": "http://m.mogujie.com/x6/detail/1k87x8m?from=tuan&acm=3.ms.1_4_1k87x8m.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170307/129224182_17c2ah2b27e5352ifjijbfbg6ccae_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2620,
+                    "discount": 6.9,
+                    "title": "韩版睡裙女夏休闲宽松大码纯棉睡衣女短袖T恤裙连衣裙少女家居服",
+                    "price": 37.46,
+                    "originalPrice": 54.29,
+                    "tradeItemId": "1k87x8m",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时10分",
+                    "acm": "3.ms.1_4_1k6cc0c.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 609988298,
+                    "status": "going",
+                    "savePrice": 39,
+                    "link": "http://m.mogujie.com/x6/detail/1k6cc0c?from=tuan&acm=3.ms.1_4_1k6cc0c.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161220/14245019_52dfij8fdc7h88g2a6gb6kki1dc11_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>10</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 263,
+                    "discount": 6.0,
+                    "title": "性感蕾丝小胸加厚模杯黑色聚拢收副乳调整型女士内衣胸罩文胸套装",
+                    "price": 58.8,
+                    "originalPrice": 98.0,
+                    "tradeItemId": "1k6cc0c",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天23小时",
+                    "acm": "3.ms.1_4_1k199qo.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 605717804,
+                    "status": "going",
+                    "savePrice": 20,
+                    "link": "http://m.mogujie.com/x6/detail/1k199qo?from=tuan&acm=3.ms.1_4_1k199qo.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/160817/93174118_88d91d974hb2ll53ab1jicdj3k125_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 757,
+                    "discount": 5.9,
+                    "title": "{任意2件59元}丝滑无痕产后收腹提臀修复减肥塑身美体裤",
+                    "price": 29.5,
+                    "originalPrice": 50.0,
+                    "tradeItemId": "1k199qo",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "23小时10分",
+                    "acm": "3.ms.1_4_1k5zy6m.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 609699403,
+                    "status": "going",
+                    "savePrice": 44,
+                    "link": "http://m.mogujie.com/x6/detail/1k5zy6m?from=tuan&acm=3.ms.1_4_1k5zy6m.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161207/14245019_64fk2gg6h793c6bdlcd9fed5dbij2_640x960.jpg",
+                    "leftTime": "<b>23</b>小时<b>10</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 50,
+                    "discount": 6.0,
+                    "title": "半杯超聚拢舒适无钢圈中厚蕾丝刺绣少女士内衣胸罩文胸套装",
+                    "price": 67.2,
+                    "originalPrice": 112.0,
+                    "tradeItemId": "1k5zy6m",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天13小时",
+                    "acm": "3.ms.1_4_1k7fu14.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 610909768,
+                    "status": "going",
+                    "savePrice": 50,
+                    "link": "http://m.mogujie.com/x6/detail/1k7fu14?from=tuan&acm=3.ms.1_4_1k7fu14.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170217/195772980_5cia4ea0g8k1h3k9d56j34kl33810_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>13</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 33,
+                    "discount": 5.6,
+                    "title": "睡衣纯棉长袖套装",
+                    "price": 63.92,
+                    "originalPrice": 114.14,
+                    "tradeItemId": "1k7fu14",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天23小时",
+                    "acm": "3.ms.1_4_1k3jv8y.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 607644637,
+                    "status": "going",
+                    "savePrice": 31,
+                    "link": "http://m.mogujie.com/x6/detail/1k3jv8y?from=tuan&acm=3.ms.1_4_1k3jv8y.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161013/91793345_89lbeicjjbgj8525b74hha3c6j5ac_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 737,
+                    "discount": 6.0,
+                    "title": "正品甜心聚拢中厚小胸文胸罩套装少女内衣无钢圈一片式无痕调整型",
+                    "price": 47.14,
+                    "originalPrice": 78.57,
+                    "tradeItemId": "1k3jv8y",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天23小时",
+                    "acm": "3.ms.1_4_1k7hnl0.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 610952246,
+                    "status": "going",
+                    "savePrice": 62,
+                    "link": "http://m.mogujie.com/x6/detail/1k7hnl0?from=tuan&acm=3.ms.1_4_1k7hnl0.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170218/83712860_79eg58ijie9447hhj982jhe4i415i_800x1200.jpg",
+                    "leftTime": "<b>3</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 43,
+                    "discount": 5.6,
+                    "title": "PJM春夏新款条纹波点印花短袖人棉长裤女睡衣可外穿家居服套装",
+                    "price": 79.2,
+                    "originalPrice": 141.43,
+                    "tradeItemId": "1k7hnl0",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k7tmko.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 611231528,
+                    "status": "going",
+                    "savePrice": 54,
+                    "link": "http://m.mogujie.com/x6/detail/1k7tmko?from=tuan&acm=3.ms.1_4_1k7tmko.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170227/147713292_80l00f7h466f0f31a2kel15h6hlhi_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 34,
+                    "discount": 6.2,
+                    "title": "新品法式性感睫毛蕾丝美背文胸套装薄款不聚拢舒适无钢圈运动胸罩",
+                    "price": 88.48,
+                    "originalPrice": 142.71,
+                    "tradeItemId": "1k7tmko",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k5qd06.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 609475727,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k5qd06?from=tuan&acm=3.ms.1_4_1k5qd06.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_1iieb7lg93bkd88j6f93gjc5lga9i_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 197,
+                    "discount": 6.5,
+                    "title": "【3条装】都市丽人女士组合内裤多色多款可爱舒适棉质内裤",
+                    "price": 54.78,
+                    "originalPrice": 84.28,
+                    "tradeItemId": "1k5qd06",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_17oco3i.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 232082531,
+                    "status": "going",
+                    "savePrice": 20,
+                    "link": "http://m.mogujie.com/x6/detail/17oco3i?from=tuan&acm=3.ms.1_4_17oco3i.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/b7/pic/150507/1nnec_ie2dqyjsga3wcnjqgezdambqgiyde_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 159,
+                    "discount": 6.4,
+                    "title": "薄款玫瑰花无痕文胸套装",
+                    "price": 36.48,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "17oco3i",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1k7l05c.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 611030372,
+                    "status": "going",
+                    "savePrice": 28,
+                    "link": "http://m.mogujie.com/x6/detail/1k7l05c?from=tuan&acm=3.ms.1_4_1k7l05c.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_2h52j468fa1j9k9a47665gfk1kdjk_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 178,
+                    "discount": 6.0,
+                    "title": "都市丽人17新品女士运动内衣防震跑步瑜伽健身海绵垫背心式文胸",
+                    "price": 42.0,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k7l05c",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天23小时",
+                    "acm": "3.ms.1_4_16nn12o.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 201251324,
+                    "status": "going",
+                    "savePrice": 20,
+                    "link": "http://m.mogujie.com/x6/detail/16nn12o?from=tuan&acm=3.ms.1_4_16nn12o.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161219/2783028_3i44f48gd2j7dflc6d76c5e4h55a4_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 91,
+                    "discount": 6.4,
+                    "title": "深蓝小碎花无痕薄款内衣套装",
+                    "price": 36.48,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "16nn12o",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_1jxmyz2.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 602678187,
+                    "status": "going",
+                    "savePrice": 50,
+                    "link": "http://m.mogujie.com/x6/detail/1jxmyz2?from=tuan&acm=3.ms.1_4_1jxmyz2.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_7kcjafcf8kk48eli7hb5hecbk8lac_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 114,
+                    "discount": 6.0,
+                    "title": "都市俪人17新志玲同款上薄下厚杯性感蕾丝无钢圈聚拢文胸2B6",
+                    "price": 76.29,
+                    "originalPrice": 127.15,
+                    "tradeItemId": "1jxmyz2",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天23小时",
+                    "acm": "3.ms.1_4_1k0w94w.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 605414148,
+                    "status": "going",
+                    "savePrice": 15,
+                    "link": "http://m.mogujie.com/x6/detail/1k0w94w?from=tuan&acm=3.ms.1_4_1k0w94w.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/160806/63752890_583b8l7gd7lkcjcafg0b0bjghhbkd_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 785,
+                    "discount": 6.3,
+                    "title": "（6条装）韩系清新性感纯色蕾丝内裤 女士超薄性感全透明三角裤",
+                    "price": 26.46,
+                    "originalPrice": 42.0,
+                    "tradeItemId": "1k0w94w",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天23小时",
+                    "acm": "3.ms.1_4_18xqjgs.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 270197482,
+                    "status": "going",
+                    "savePrice": 34,
+                    "link": "http://m.mogujie.com/x6/detail/18xqjgs?from=tuan&acm=3.ms.1_4_18xqjgs.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170421_1ijj7hg00gh49acdjlbeceaeea0hl_640x960.jpg",
+                    "leftTime": "<b>6</b>天<b>23</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 189,
+                    "discount": 6.5,
+                    "title": "都市丽人性感女士内衣聚拢调整型中模杯V型文胸A杯胸罩",
+                    "price": 64.07,
+                    "originalPrice": 98.57,
+                    "tradeItemId": "18xqjgs",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "已结束",
+                    "acm": "3.ms.1_4_1k8u7s4.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "tradeId": 612085078,
+                    "status": "end",
+                    "savePrice": 39,
+                    "link": "http://m.mogujie.com/x6/detail/1k8u7s4?from=tuan&acm=3.ms.1_4_1k8u7s4.0.1661-22922.nnZjaqhG4UCF9.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170321_23lb7cbf6e0912cj64592j38i520b_640x960.jpg",
+                    "leftTime": null,
+                    "type": 2,
+                    "salesVolume": 111,
+                    "discount": 6.0,
+                    "title": "玫瑰柏拉图前扣无钢圈蕾丝无痕交叉美背文胸舒适聚拢调整型女内衣",
+                    "price": 59.4,
+                    "originalPrice": 99.0,
+                    "tradeItemId": "1k8u7s4",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "success": true
+}
