@@ -109,7 +109,7 @@
     	<div class="footer-bottom">
     		<div class="footer-bottom-list">
     			<a href="javascript:void(0)" ng-repeat="(i,item) in arrList" ng-if="i>1" >
-					<img src="{{item.img}}"/>
+					<img lazy-src="{{item.img}}"/>
 					<p>{{item.title}} </p>
 					<p>良品</p>
 					<p>¥{{item.originalPrice}}</p>
