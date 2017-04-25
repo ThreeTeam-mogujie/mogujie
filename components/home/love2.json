@@ -1,0 +1,1178 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": "success"
+    },
+    "result": {
+        "param": {
+            "sort": "pop",
+            "_mgjuuid": "be84caba-c140-465e-81bf-704f4fa30bb8",
+            "duplicate": true,
+            "ptpWallCpc": "_wall_cpc",
+            "section": "0",
+            "algoKey": "app_tuan_book_pop",
+            "ptpWallDoc": "_wall_docs",
+            "eventId": "0x00000000",
+            "cKey": "app-tuan-v2",
+            "page": "1",
+            "fcid": "10053176",
+            "cpcEventId": "70005",
+            "ptpPartC": "_b_3c108f73dbe94e9b"
+        },
+        "wall": {
+            "title": "商品团",
+            "isEnd": false,
+            "docs": [
+                {
+                    "leftTimeOrg": "2天14小时",
+                    "acm": "3.ms.1_4_1jxen9y.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 602483983,
+                    "status": "going",
+                    "savePrice": 33,
+                    "link": "http://m.mogujie.com/x6/detail/1jxen9y?from=tuan&acm=3.ms.1_4_1jxen9y.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170417_6k70j1e8l6kb380g7ai832egd5a6c_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 351,
+                    "discount": 6.0,
+                    "title": "2016欧美撞色新款印花斜挎枕头包单肩手提包",
+                    "price": 49.71,
+                    "originalPrice": 82.85,
+                    "tradeItemId": "1jxen9y",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天14小时",
+                    "acm": "3.ms.1_4_16p0lk6.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 202407671,
+                    "status": "going",
+                    "savePrice": 239,
+                    "link": "http://m.mogujie.com/x6/detail/16p0lk6?from=tuan&acm=3.ms.1_4_16p0lk6.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170405_3l246gg51e298g9d9628k2ie45e4l_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 91,
+                    "discount": 2.0,
+                    "title": "学院风潮牌创新多功能实用大容量背包出行旅行必备背包潮人精选",
+                    "price": 59.8,
+                    "originalPrice": 299.0,
+                    "tradeItemId": "16p0lk6",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天14小时",
+                    "acm": "3.ms.1_4_1k874my.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 611546497,
+                    "status": "going",
+                    "savePrice": 33,
+                    "link": "http://m.mogujie.com/x6/detail/1k874my?from=tuan&acm=3.ms.1_4_1k874my.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170417_2cah7dh2h1649bij37g7clhi107cg_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 278,
+                    "discount": 6.0,
+                    "title": "百搭斜挎包女包小包包新款潮迷你单肩包韩版2017个性简约大气",
+                    "price": 49.71,
+                    "originalPrice": 82.85,
+                    "tradeItemId": "1k874my",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天14小时",
+                    "acm": "3.ms.1_4_1k7t3vo.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 611219414,
+                    "status": "going",
+                    "savePrice": 34,
+                    "link": "http://m.mogujie.com/x6/detail/1k7t3vo?from=tuan&acm=3.ms.1_4_1k7t3vo.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170417_2bckjibcick59f456fg49b37k49l6_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 273,
+                    "discount": 5.9,
+                    "title": "包包2017新款百搭枕头包单肩包斜挎包手提包女包条纹包包小包",
+                    "price": 49.73,
+                    "originalPrice": 84.29,
+                    "tradeItemId": "1k7t3vo",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天14小时",
+                    "acm": "3.ms.1_4_1k3stma.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 607853533,
+                    "status": "going",
+                    "savePrice": 39,
+                    "link": "http://m.mogujie.com/x6/detail/1k3stma?from=tuan&acm=3.ms.1_4_1k3stma.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170417_8gg2jg97cca97884ei64cf87k8ce3_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 391,
+                    "discount": 6.0,
+                    "title": "2016新款女韩版pu软皮背包时尚百搭休闲学院风双肩包",
+                    "price": 59.14,
+                    "originalPrice": 98.57,
+                    "tradeItemId": "1k3stma",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天0小时",
+                    "acm": "3.ms.1_4_1k31ra2.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 607222161,
+                    "status": "going",
+                    "savePrice": 22,
+                    "link": "http://m.mogujie.com/x6/detail/1k31ra2?from=tuan&acm=3.ms.1_4_1k31ra2.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161025/11601279_4k24fc17je2aflgf0012f265c464j_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 867,
+                    "discount": 6.0,
+                    "title": "2017新款时尚钱包女短款韩版圆环链条装饰多功能短款零钱包",
+                    "price": 33.0,
+                    "originalPrice": 55.0,
+                    "tradeItemId": "1k31ra2",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天14小时",
+                    "acm": "3.ms.1_4_1k8rvdi.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 612030383,
+                    "status": "going",
+                    "savePrice": 24,
+                    "link": "http://m.mogujie.com/x6/detail/1k8rvdi?from=tuan&acm=3.ms.1_4_1k8rvdi.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/1689c6/170417_5cjf0akceh8k9f21a20deieca8gah_640x960.jpg",
+                    "leftTime": "<b>2</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 202,
+                    "discount": 6.5,
+                    "title": "2017新款迷你小包链条锁扣手提包复古单肩斜挎包潮流印花包包",
+                    "price": 45.5,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k8rvdi",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "0小时17分",
+                    "acm": "3.ms.1_4_1k7c2rq.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 610822119,
+                    "status": "going",
+                    "savePrice": 38,
+                    "link": "http://m.mogujie.com/x6/detail/1k7c2rq?from=tuan&acm=3.ms.1_4_1k7c2rq.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170214/74235252_055ckg50if61daj45k2357089kkle_640x960.jpg",
+                    "leftTime": "<b>0</b>小时<b>17</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 120,
+                    "discount": 5.1,
+                    "title": "新款鳄鱼纹拼接复古斜挎包韩版潮流链条贝壳小包手提包",
+                    "price": 39.57,
+                    "originalPrice": 77.59,
+                    "tradeItemId": "1k7c2rq",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "0小时17分",
+                    "acm": "3.ms.1_4_1k1qf7q.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 606117927,
+                    "status": "going",
+                    "savePrice": 20,
+                    "link": "http://m.mogujie.com/x6/detail/1k1qf7q?from=tuan&acm=3.ms.1_4_1k1qf7q.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/160831/63673628_0i4hfb5chd042bc876gblhkgak96f_640x960.jpg",
+                    "leftTime": "<b>0</b>小时<b>17</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 800,
+                    "discount": 6.3,
+                    "title": "2017新款欧美范钱包 送卡套",
+                    "price": 35.1,
+                    "originalPrice": 55.71,
+                    "tradeItemId": "1k1qf7q",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天0小时",
+                    "acm": "3.ms.1_4_1k7gpe6.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 610930091,
+                    "status": "going",
+                    "savePrice": 34,
+                    "link": "http://m.mogujie.com/x6/detail/1k7gpe6?from=tuan&acm=3.ms.1_4_1k7gpe6.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170217/103508857_692ikb1jlj5bec4e47cake9keeicb_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 57,
+                    "discount": 6.5,
+                    "title": "2017春夏新款韩版铆钉包方形手提包单肩斜挎小包复古时尚女包",
+                    "price": 64.9,
+                    "originalPrice": 99.85,
+                    "tradeItemId": "1k7gpe6",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天0小时",
+                    "acm": "3.ms.1_4_1k1qydo.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 606130346,
+                    "status": "going",
+                    "savePrice": 19,
+                    "link": "http://m.mogujie.com/x6/detail/1k1qydo?from=tuan&acm=3.ms.1_4_1k1qydo.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/160913/89063977_3g8fc5e5f25jlicfk54kcidb26j38_1000x1500.jpg",
+                    "leftTime": "<b>4</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 473,
+                    "discount": 6.4,
+                    "title": "2017新款时尚OL金边三折钱包女长款韩版休闲多功能钱包钱夹",
+                    "price": 35.2,
+                    "originalPrice": 55.0,
+                    "tradeItemId": "1k1qydo",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天0小时",
+                    "acm": "3.ms.1_4_1k0eufw.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 605008050,
+                    "status": "going",
+                    "savePrice": 24,
+                    "link": "http://m.mogujie.com/x6/detail/1k0eufw?from=tuan&acm=3.ms.1_4_1k0eufw.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170418_7e2b1bb4eeeil6g5f5kh1dli9e00d_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 3827,
+                    "discount": 6.6,
+                    "title": "范冰冰同款多功能学院风背包",
+                    "price": 46.86,
+                    "originalPrice": 71.0,
+                    "tradeItemId": "1k0eufw",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天0小时",
+                    "acm": "3.ms.1_4_1k8yg9q.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 612183891,
+                    "status": "going",
+                    "savePrice": 22,
+                    "link": "http://m.mogujie.com/x6/detail/1k8yg9q?from=tuan&acm=3.ms.1_4_1k8yg9q.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170324_2k8kea3l9ek56k92fjcgc236j22ee_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 190,
+                    "discount": 6.8,
+                    "title": "2017新款韩版复古锁扣链条小包软皮女包百搭单肩小方包斜挎包",
+                    "price": 47.6,
+                    "originalPrice": 70.0,
+                    "tradeItemId": "1k8yg9q",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天14小时",
+                    "acm": "3.ms.1_4_1k4f3jq.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 608373183,
+                    "status": "going",
+                    "savePrice": 39,
+                    "link": "http://m.mogujie.com/x6/detail/1k4f3jq?from=tuan&acm=3.ms.1_4_1k4f3jq.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161030/117244029_615hib295cfij3e33ak7dcc1l5a89_1000x1500.jpg",
+                    "leftTime": "<b>1</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 950,
+                    "discount": 6.0,
+                    "title": "皮带装饰牛津布手提包秋季新款撞色单肩包韩版女士休闲购物大包包",
+                    "price": 59.4,
+                    "originalPrice": 99.0,
+                    "tradeItemId": "1k4f3jq",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天0小时",
+                    "acm": "3.ms.1_4_1k33512.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 607254399,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k33512?from=tuan&acm=3.ms.1_4_1k33512.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161208/63673628_300ejbkbj524a27c49bee887k5425_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1398,
+                    "discount": 6.6,
+                    "title": "2017新款森女风钱包 送卡套",
+                    "price": 33.0,
+                    "originalPrice": 50.0,
+                    "tradeItemId": "1k33512",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天0小时",
+                    "acm": "3.ms.1_4_18xsg8e.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 270242043,
+                    "status": "going",
+                    "savePrice": 32,
+                    "link": "http://m.mogujie.com/x6/detail/18xsg8e?from=tuan&acm=3.ms.1_4_18xsg8e.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160426/61446285_ifrdanzxgjrwmnjshazdambqmeyde_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 392,
+                    "discount": 6.0,
+                    "title": "包包2017韩版新款简约学院风双肩包朴信惠同款百搭休闲背包潮",
+                    "price": 48.0,
+                    "originalPrice": 80.0,
+                    "tradeItemId": "18xsg8e",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "0小时17分",
+                    "acm": "3.ms.1_4_1k4jkrm.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 608477653,
+                    "status": "going",
+                    "savePrice": 19,
+                    "link": "http://m.mogujie.com/x6/detail/1k4jkrm?from=tuan&acm=3.ms.1_4_1k4jkrm.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161101/63673628_4b9al5j2ef30g7228f20lc6k32b5i_640x960.jpg",
+                    "leftTime": "<b>0</b>小时<b>17</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 972,
+                    "discount": 6.5,
+                    "title": "2017新款纯色长款钱包 送卡套",
+                    "price": 37.05,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "1k4jkrm",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天0小时",
+                    "acm": "3.ms.1_4_1jxvt6g.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 602884384,
+                    "status": "going",
+                    "savePrice": 27,
+                    "link": "http://m.mogujie.com/x6/detail/1jxvt6g?from=tuan&acm=3.ms.1_4_1jxvt6g.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160622/101675015_ifrdazddmm2dazjuhezdambqmeyde_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 747,
+                    "discount": 6.8,
+                    "title": "明星同款韩版学院风双肩包百搭女包时尚牛津布背包",
+                    "price": 57.8,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1jxvt6g",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天0小时",
+                    "acm": "3.ms.1_4_1k96pge.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 612376467,
+                    "status": "going",
+                    "savePrice": 24,
+                    "link": "http://m.mogujie.com/x6/detail/1k96pge?from=tuan&acm=3.ms.1_4_1k96pge.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170329_36k9ack6ell45da8gib8l6ga277bi_900x1350.jpg",
+                    "leftTime": "<b>4</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 253,
+                    "discount": 6.9,
+                    "title": "袁珊珊杨幂同款宽肩带时尚2017欧美刺绣斜挎包小方包单肩包潮",
+                    "price": 54.21,
+                    "originalPrice": 78.57,
+                    "tradeItemId": "1k96pge",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "0小时17分",
+                    "acm": "3.ms.1_4_16oq0s2.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 202160925,
+                    "status": "going",
+                    "savePrice": 50,
+                    "link": "http://m.mogujie.com/x6/detail/16oq0s2?from=tuan&acm=3.ms.1_4_16oq0s2.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/b7/pic/141208/259k8_ieydsojxgyzdeztgmqytambqmeyde_640x960.jpg",
+                    "leftTime": "<b>0</b>小时<b>17</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 126,
+                    "discount": 6.0,
+                    "title": "保罗2017新款OL欧美时尚百搭休闲大包斜挎包大容量手提包",
+                    "price": 76.2,
+                    "originalPrice": 127.0,
+                    "tradeItemId": "16oq0s2",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天0小时",
+                    "acm": "3.ms.1_4_1k2h8zc.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 606743744,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k2h8zc?from=tuan&acm=3.ms.1_4_1k2h8zc.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/160919/46290986_27eidc7163a13d66clg18l1bdl3ae_1000x1500.jpg",
+                    "leftTime": "<b>1</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1234,
+                    "discount": 6.5,
+                    "title": "包包2017春夏新款女包韩版简约复古单肩小包包小方包斜挎包",
+                    "price": 55.25,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "1k2h8zc",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天0小时",
+                    "acm": "3.ms.1_4_18pmpym.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 263389915,
+                    "status": "going",
+                    "savePrice": 30,
+                    "link": "http://m.mogujie.com/x6/detail/18pmpym?from=tuan&acm=3.ms.1_4_18pmpym.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160411/41303819_ifqwknbyhfrtmyleg4zdambqgyyde_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 805,
+                    "discount": 6.2,
+                    "title": "【多功能】韩范儿明星同款潮流百搭双肩包",
+                    "price": 49.6,
+                    "originalPrice": 80.0,
+                    "tradeItemId": "18pmpym",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天14小时",
+                    "acm": "3.ms.1_4_18lo226.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 260061851,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/18lo226?from=tuan&acm=3.ms.1_4_18lo226.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160218/rk6cq_ie4wgolfgjqtiy3dgyzdambqgqyde_1000x1500.jpg",
+                    "leftTime": "<b>1</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 2493,
+                    "discount": 6.5,
+                    "title": "2017新款时尚小香风菱格包韩版单肩斜挎包小包包潮链条包女包",
+                    "price": 55.25,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "18lo226",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天14小时",
+                    "acm": "3.ms.1_4_1jyjqn0.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 603442610,
+                    "status": "going",
+                    "savePrice": 39,
+                    "link": "http://m.mogujie.com/x6/detail/1jyjqn0?from=tuan&acm=3.ms.1_4_1jyjqn0.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160702/41303819_ie4wcmtcmy3dmmryhezdambqgqyde_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 908,
+                    "discount": 5.0,
+                    "title": "高端皮质复古简约学院风百搭双肩包",
+                    "price": 39.28,
+                    "originalPrice": 78.56,
+                    "tradeItemId": "1jyjqn0",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天0小时",
+                    "acm": "3.ms.1_4_1k3ouoa.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 607760905,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k3ouoa?from=tuan&acm=3.ms.1_4_1k3ouoa.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161015/54375095_3e8hidje030e43i8g3h692kailb83_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 410,
+                    "discount": 6.8,
+                    "title": "购买有免单机会",
+                    "price": 36.82,
+                    "originalPrice": 54.15,
+                    "tradeItemId": "1k3ouoa",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天0小时",
+                    "acm": "3.ms.1_4_1k5i1si.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 609281837,
+                    "status": "going",
+                    "savePrice": 22,
+                    "link": "http://m.mogujie.com/x6/detail/1k5i1si?from=tuan&acm=3.ms.1_4_1k5i1si.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161123/89185670_327e54e97i4lk07bc54lek4ha79b1_1000x1500.jpg",
+                    "leftTime": "<b>4</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 69,
+                    "discount": 6.0,
+                    "title": "2016新款时尚简约钱包女长款韩版休闲搭扣多卡位学生钱包钱夹",
+                    "price": 34.2,
+                    "originalPrice": 57.0,
+                    "tradeItemId": "1k5i1si",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天0小时",
+                    "acm": "3.ms.1_4_1k4anoc.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 608269586,
+                    "status": "going",
+                    "savePrice": 29,
+                    "link": "http://m.mogujie.com/x6/detail/1k4anoc?from=tuan&acm=3.ms.1_4_1k4anoc.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161230/61446285_71l64geg8lb15e0k6jk9ajcbebl8c_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 3174,
+                    "discount": 6.8,
+                    "title": "唐嫣同款包包明星欧美徽章铆钉链条包香风菱格包单肩斜挎迷你小包",
+                    "price": 63.13,
+                    "originalPrice": 92.84,
+                    "tradeItemId": "1k4anoc",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "0小时17分",
+                    "acm": "3.ms.1_4_1k6c7vo.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 609985622,
+                    "status": "going",
+                    "savePrice": 44,
+                    "link": "http://m.mogujie.com/x6/detail/1k6c7vo?from=tuan&acm=3.ms.1_4_1k6c7vo.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170325_5e2ggf193275af68fjdek0dkfc38l_800x800.png",
+                    "leftTime": "<b>0</b>小时<b>17</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 45,
+                    "discount": 6.1,
+                    "title": "2017新款斜挎包高圆圆同款单肩包链条女包包百搭圆环包小包潮",
+                    "price": 69.63,
+                    "originalPrice": 114.15,
+                    "tradeItemId": "1k6c7vo",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天0小时",
+                    "acm": "3.ms.1_4_18nj49k.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 261626256,
+                    "status": "going",
+                    "savePrice": 32,
+                    "link": "http://m.mogujie.com/x6/detail/18nj49k?from=tuan&acm=3.ms.1_4_18nj49k.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p1/160601/67572574_ie4dqzlgmjrdmmlfhazdambqgiyde_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 1233,
+                    "discount": 6.2,
+                    "title": "▲范爷同款▼幻想星空方盒子小包包",
+                    "price": 52.7,
+                    "originalPrice": 85.0,
+                    "tradeItemId": "18nj49k",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "14小时17分",
+                    "acm": "3.ms.1_4_1k761ns.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 610681432,
+                    "status": "going",
+                    "savePrice": 50,
+                    "link": "http://m.mogujie.com/x6/detail/1k761ns?from=tuan&acm=3.ms.1_4_1k761ns.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170210/114616808_4bfabe2i2bj127g71g1686el5g693_640x960.jpg",
+                    "leftTime": "<b>14</b>小时<b>17</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 68,
+                    "discount": 6.0,
+                    "title": "绣花短款钱包女",
+                    "price": 76.29,
+                    "originalPrice": 127.15,
+                    "tradeItemId": "1k761ns",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "0小时17分",
+                    "acm": "3.ms.1_4_1k3zfda.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 608007595,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k3zfda?from=tuan&acm=3.ms.1_4_1k3zfda.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s11.mogucdn.com/p2/161119/54375095_6b12l89568h8eedij35975k74k518_640x960.jpg",
+                    "leftTime": "<b>0</b>小时<b>17</b>分后结束",
+                    "type": 2,
+                    "salesVolume": 107,
+                    "discount": 6.8,
+                    "title": "数码印花100%全检",
+                    "price": 36.91,
+                    "originalPrice": 54.28,
+                    "tradeItemId": "1k3zfda",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "2天14小时",
+                    "acm": "3.ms.1_4_1k5g9le.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 609240237,
+                    "status": "going",
+                    "savePrice": 59,
+                    "link": "http://m.mogujie.com/x6/detail/1k5g9le?from=tuan&acm=3.ms.1_4_1k5g9le.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161122/61446285_5769e1h08481ei4h6hjff7cjgk63l_800x1200.jpg",
+                    "leftTime": "<b>2</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 140,
+                    "discount": 6.5,
+                    "title": "欧美徽章铆钉大包",
+                    "price": 110.5,
+                    "originalPrice": 170.0,
+                    "tradeItemId": "1k5g9le",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天14小时",
+                    "acm": "3.ms.1_4_1k7wx7i.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 611308403,
+                    "status": "going",
+                    "savePrice": 40,
+                    "link": "http://m.mogujie.com/x6/detail/1k7wx7i?from=tuan&acm=3.ms.1_4_1k7wx7i.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170228/204991139_6d3787283dd0k242la7hjaf65gkj4_800x1200.jpg",
+                    "leftTime": "<b>5</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 0,
+                    "discount": 7.3,
+                    "title": "尼龙布男士胸包",
+                    "price": 108.77,
+                    "originalPrice": 149.0,
+                    "tradeItemId": "1k7wx7i",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天14小时",
+                    "acm": "3.ms.1_4_1k78mmm.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 610741675,
+                    "status": "going",
+                    "savePrice": 48,
+                    "link": "http://m.mogujie.com/x6/detail/1k78mmm?from=tuan&acm=3.ms.1_4_1k78mmm.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170212/105680782_1a438029hfkb037c76il003al1k63_640x960.jpg",
+                    "leftTime": "<b>1</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 84,
+                    "discount": 6.2,
+                    "title": "2017新款宫格包女包欧美波士顿包手提包单肩包斜挎包大包包",
+                    "price": 79.62,
+                    "originalPrice": 128.42,
+                    "tradeItemId": "1k78mmm",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "3天0小时",
+                    "acm": "3.ms.1_4_1k55xuo.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 608999348,
+                    "status": "going",
+                    "savePrice": 17,
+                    "link": "http://m.mogujie.com/x6/detail/1k55xuo?from=tuan&acm=3.ms.1_4_1k55xuo.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/161114/54375095_4e95ih4i6cf34c83lhed42l852f7k_640x960.jpg",
+                    "leftTime": "<b>3</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 25,
+                    "discount": 6.8,
+                    "title": "购买就会有免单机会",
+                    "price": 36.91,
+                    "originalPrice": 54.28,
+                    "tradeItemId": "1k55xuo",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "1天0小时",
+                    "acm": "3.ms.1_4_1k608dk.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 609706008,
+                    "status": "going",
+                    "savePrice": 59,
+                    "link": "http://m.mogujie.com/x6/detail/1k608dk?from=tuan&acm=3.ms.1_4_1k608dk.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170323_02hlfkg8ch41gfk680g5h22kdhc87_640x832.jpg",
+                    "leftTime": "<b>1</b>天<b>0</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 31,
+                    "discount": 5.4,
+                    "title": "复古波士顿水桶包枕头包2017新款手提包潮女包撞色单肩斜挎包",
+                    "price": 69.35,
+                    "originalPrice": 128.43,
+                    "tradeItemId": "1k608dk",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天14小时",
+                    "acm": "3.ms.1_4_1k7t31m.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 611218873,
+                    "status": "going",
+                    "savePrice": 39,
+                    "link": "http://m.mogujie.com/x6/detail/1k7t31m?from=tuan&acm=3.ms.1_4_1k7t31m.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170308/204991139_8d6g80h82ile3i95gdji3hg8b7c6b_800x1200.jpg",
+                    "leftTime": "<b>4</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 3,
+                    "discount": 6.0,
+                    "title": "牛皮钱包男钱夹",
+                    "price": 59.4,
+                    "originalPrice": 99.0,
+                    "tradeItemId": "1k7t31m",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "5天14小时",
+                    "acm": "3.ms.1_4_1k7llsi.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 611044397,
+                    "status": "going",
+                    "savePrice": 39,
+                    "link": "http://m.mogujie.com/x6/detail/1k7llsi?from=tuan&acm=3.ms.1_4_1k7llsi.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170221/99092920_412588l72g5ak8f6ll98dhcaecjli_640x960.jpg",
+                    "leftTime": "<b>5</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 7,
+                    "discount": 6.5,
+                    "title": "时尚贝壳手提包",
+                    "price": 74.19,
+                    "originalPrice": 114.14,
+                    "tradeItemId": "1k7llsi",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "4天14小时",
+                    "acm": "3.ms.1_4_1k7t3jo.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 611219198,
+                    "status": "going",
+                    "savePrice": 70,
+                    "link": "http://m.mogujie.com/x6/detail/1k7t3jo?from=tuan&acm=3.ms.1_4_1k7t3jo.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/p2/170308/204991139_832dhj5k8k92l9dl3jd8d4l65dd54_640x960.jpg",
+                    "leftTime": "<b>4</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 7,
+                    "discount": 4.9,
+                    "title": "真皮男钱包钱夹",
+                    "price": 68.11,
+                    "originalPrice": 139.0,
+                    "tradeItemId": "1k7t3jo",
+                    "lefttop_taglist": [
+                        
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                },
+                {
+                    "leftTimeOrg": "6天14小时",
+                    "acm": "3.ms.1_4_1k6ivzy.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "tradeId": 610141219,
+                    "status": "going",
+                    "savePrice": 56,
+                    "link": "http://m.mogujie.com/x6/detail/1k6ivzy?from=tuan&acm=3.ms.1_4_1k6ivzy.0.1661-22922.wGTRPqhFO993T.t_0-lc_9",
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170413_1lkhbekbi10b3708j8j4fk0h6k0hj_1000x1500.jpg",
+                    "leftTime": "<b>6</b>天<b>14</b>小时后结束",
+                    "type": 2,
+                    "salesVolume": 31,
+                    "discount": 6.7,
+                    "title": "森林插画斜挎包",
+                    "price": 114.75,
+                    "originalPrice": 171.27,
+                    "tradeItemId": "1k6ivzy",
+                    "lefttop_taglist": [
+                        {
+                            "img": "http://s17.mogucdn.com/p1/160728/upload_ifqwiyrvguyginrqmezdambqgyyde_62x71.png",
+                            "w": 62,
+                            "h": 71
+                        }
+                    ],
+                    "leftbottom_taglist": [
+                        {
+                            "content": "良品",
+                            "bgColor": "#F9E4A8",
+                            "color": "#333333",
+                            "font": "Helvetica Neue"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "success": true
+}

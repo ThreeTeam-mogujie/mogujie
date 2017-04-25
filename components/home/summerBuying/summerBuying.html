@@ -1,0 +1,35 @@
+<div id="home-summerBuyingWrap">
+	<!--<div>
+		<img src="img/1.png" alt="" />
+	</div>
+	<div>
+		<img src="../../../img/more_84x20.png" alt="" />
+	</div>-->
+	
+	<div class="wall-nav-box">
+		<a href="">
+			<span>新品</span>
+		</a>
+		<a href="">
+			<span>韩系</span>
+		</a>
+		<a href="">
+			<span>美裙</span>
+		</a>
+		<a href="">
+			<span>网红</span>
+		</a>
+	</div>
+	<div class="wall-goods-box">
+		<div class="wall-goods-box-list">
+			<a href="javascript:void(0)" ng-repeat="(i,item) in allSummerList" ng-if="i>1" >
+					<img src="{{item.image}}"/>
+					<p>{{item.title}} </p>
+					<p>良品</p>
+					<p>¥{{item.originalPrice}}</p>
+					<p>¥{{item.price}}</p>
+					<p>省¥{{(item.originalPrice-item.price)|number:0}}</p>
+			</a>
+		</div>
+	</div>
+</div>
