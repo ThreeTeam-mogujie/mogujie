@@ -74,12 +74,15 @@ angular.module('me-lazyload', [])
     }
 
     $win.bind('scroll', checkImage);
+<<<<<<< HEAD
     
     var tl = document.getElementById('GroupBuyingmain');
     tl.onscroll = function(){
     	checkImage()
     };
     
+=======
+>>>>>>> 834ba6134b4c15724a8b445fdd3753d1eda45eca
     $win.bind('resize', checkImage);
 
     function onLoad(){
@@ -104,7 +107,11 @@ angular.module('me-lazyload', [])
             iElement.bind('load', onLoad);
 
             $scope.$watch('lazySrc', function(){
+<<<<<<< HEAD
                 var speed = "3s";
+=======
+                var speed = "1s";
+>>>>>>> 834ba6134b4c15724a8b445fdd3753d1eda45eca
                 if ($scope.animateSpeed != null) {
                     speed = $scope.animateSpeed;
                 }

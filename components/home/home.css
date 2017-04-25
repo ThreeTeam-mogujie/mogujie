@@ -428,3 +428,71 @@
 	width: 100%;
 	height: auto
 }
+
+/*猜你喜欢*/
+#footer{
+	margin: 0.5rem 0;
+	border: 1px solid gray;
+}
+.footer-top{
+	padding: 0.5rem;
+	height: 3rem;
+}
+.footer-bottom{
+	width: 100%;
+	background: #F9F9F9;
+}
+.footer-bottom-list{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+.footer-bottom-list>a{
+	width: 47%;
+	height:27rem;
+	margin: 7.5px 0 0 7.5px;
+	display: block;
+	position: relative;
+	background: white;
+}
+.footer-bottom-list>a>img{
+	width: 100%;
+}
+
+.footer-bottom-list>a>p:nth-of-type(1){
+	font-size: 1rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.footer-bottom-list>a>p:nth-of-type(2){
+	font-size: 1rem;
+	border-radius: 3px;
+	background: #F9E4A8;
+	width: 2.5rem;
+	text-align: center;
+}
+.footer-bottom-list>a>p:nth-of-type(3){
+	font-size: 1rem;
+	color:#999;
+	height:2rem;
+	line-height: 2rem;
+}
+.footer-bottom-list>a>p:nth-of-type(4){
+	font-size: 1.3rem;
+	color:#FF4877;
+}
+.footer-bottom-list>a>p:nth-of-type(5){
+	font-size:.8rem;
+	width:4.5rem;
+	height:1.4rem;
+	position: absolute;
+	right: 1rem;
+	bottom: 1.5rem;
+	color:#FF4877;
+	background: url(../../img/todayBuy-icon.png);
+	background-size: 100% 100%;
+	text-indent: 1.3rem;
+	color: white;
+}
+

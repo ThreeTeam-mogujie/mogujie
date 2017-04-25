@@ -1,0 +1,84 @@
+#home-summerBuyingWrap{
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	position: relative;
+	background: lightgoldenrodyellow;
+}
+
+
+.wall-nav-box{
+	width: 100%;
+	height: 3.8rem;
+	background: #4a374a;
+}
+.wall-nav-box>a{
+	display: inline-block;
+	float: left;
+	width: 25%;
+	display: flex;
+	justify-content: center;
+}
+.wall-nav-box>a>span{
+	display: inline-block;
+	color: white;
+	text-align: center;
+}
+
+.wall-goods-box{
+	width: 100%;
+	background: #F9F9F9;
+}
+.wall-goods-box-list{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+.wall-goods-box-list>a{
+	width: 47%;
+	height:27rem;
+	margin: 7.5px 0 0 7.5px;
+	display: block;
+	position: relative;
+	background: white;
+}
+.wall-goods-box-list>a>img{
+	width: 100%;
+}
+
+.wall-goods-box-list>a>p:nth-of-type(1){
+	font-size: 1rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.wall-goods-box-list>a>p:nth-of-type(2){
+	font-size: 1rem;
+	border-radius: 3px;
+	background: #F9E4A8;
+	width: 2.5rem;
+	text-align: center;
+}
+.wall-goods-box-list>a>p:nth-of-type(3){
+	font-size: 1rem;
+	color:#999;
+	height:2rem;
+	line-height: 2rem;
+}
+.wall-goods-box-list>a>p:nth-of-type(4){
+	font-size: 1.3rem;
+	color:#FF4877;
+}
+.wall-goods-box-list>a>p:nth-of-type(5){
+	font-size:.8rem;
+	width:4.5rem;
+	height:1.4rem;
+	position: absolute;
+	right: 1rem;
+	bottom: 1.5rem;
+	color:#FF4877;
+	background: url(../../img/todayBuy-icon.png);
+	background-size: 100% 100%;
+	text-indent: 1.3rem;
+	color: white;
+}

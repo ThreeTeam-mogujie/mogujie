@@ -54,4 +54,8 @@ angular.module('homeModule',[])
         	console.log('sssssssssss:',res.data.list);
         	$scope.arrTitle = res.data.list;
         });
+        $http.get('components/home/love1.json').success(function(res){
+        	console.log('tttttttttt',res.result.wall.docs);
+        	$scope.arrList = res.result.wall.docs;
+        })
     }]);
