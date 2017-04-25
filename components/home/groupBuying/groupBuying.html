@@ -25,7 +25,7 @@
 		</div>
 		<!--u质团-->
 		<div id="Ugroup">
-			<li ng-repeat="item in ugroup" ><a href="javascript:void(0)"><img src="{{item.image}}"/></a><p ng-style="{color:'{{item.titleColor}}'}">{{item.title}}</p><span>{{item.description}}</span></li>
+			<li ng-repeat=" (i,item) in ugroup" ><a ng-click=toThreePage(i) ui-sref='.UZGroup' href=""><img src="{{item.image}}"/></a><p ng-style="{color:'{{item.titleColor}}'}">{{item.title}}</p><span>{{item.description}}</span></li>
 		
 			<!--品牌团-->
 		<div id="brandTuanWrap">
@@ -61,9 +61,9 @@
 		<div id="todayBuy"><h4>今日精选·</h4><span>特价尖货限时抢购</span></div>
 		<div id="todayBuyWrap">
 			<div id="todayBuyList">	
-				<img src="{{goos0.img}}"/><img src="{{goos1.img}}"/>
+				<img lazy-src="{{goos0.img}}"/><img lazy-src="{{goos1.img}}"/>
 				<a href="javascript:void(0)" ng-repeat="(i,item) in allGoods" ng-if="i>1" >
-					<img src="{{item.img}}"/>
+					<img lazy-src = "{{item.img}}"/>
 					<p>{{item.title}} </p>
 					<p>良品</p>
 					<p>¥{{item.originalPrice}}</p>
@@ -74,5 +74,6 @@
 		</div>
 		
 	</div>
-
+		<div ng-class="{true: 'active1', false: 'inactive1'}[isActive1]" id="toThreePage"  ui-view>
+    	</div>
 </div>

@@ -15,6 +15,22 @@ angular.module('groupBuyingModule',[])
 	$http.get('components/home/groupBuying/json/uGroup.json').success(function(res){
 		$scope.bannerImg = res.data[12908].list[0].image;
 		$scope.ugroup = res.data[12777].list;
+		//跳转到三级页面
+		$scope.ToThreePage = null;
+		$scope.isActive1 = true;
+		$scope.toThreePage = function(i){
+			$scope.isActive1 = !$scope.isActive1;
+			
+			localStorage.setItem('gtUZ',i);
+			
+			
+//			console.log(i);
+//			if(i==0){
+//				$scope.ToThreePage = ".UZGroup"
+//			}else{
+//				$scope.ToThreePage = null;
+//			}
+		}
 	})
 	//品牌团
 	$http.get('components/home/groupBuying/json/brandTuan.json').success(function(res){
