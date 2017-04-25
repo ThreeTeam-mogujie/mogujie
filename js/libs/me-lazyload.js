@@ -71,8 +71,13 @@ angular.module('me-lazyload', [])
               iElement.attr('src', $scope.lazySrc);
             }
         });
+        var t1 = document.getElementById('GroupBuyingmain');
+    	t1.onscroll = function(){
+    		checkImage()
+    	};
     }
 
+<<<<<<< HEAD
     $win.bind('scroll', checkImage);
 <<<<<<< HEAD
     
@@ -80,6 +85,9 @@ angular.module('me-lazyload', [])
     tl.onscroll = function(){
     	checkImage()
     };
+=======
+    $win.bind('scroll', checkImage); 
+>>>>>>> xuedeng
     
 =======
 >>>>>>> 834ba6134b4c15724a8b445fdd3753d1eda45eca
