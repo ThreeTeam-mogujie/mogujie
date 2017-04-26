@@ -1,12 +1,12 @@
 <!--头部-->
-<div class="category">
+<div class="category" ui-view>
 	<div id="categoryHeader">
 	
 	</div>
 
 	<div class="category_leftMenu clearfix">
 		<ul>
-			<li ng-repeat='item in leftMenuCategoryArr' ng-click="initCategoryLeftMenu($event,item.maitKey,$index,item.miniWallkey)" ng-class="{'categoryNoneBackGround':$index==isCategoryLeftSelected}">
+			<li ng-repeat='item in leftMenuCategoryArr' ng-click="initCategoryLeftMenu($event,item.maitKey,$index,item.miniWallkey,item.acm)" ng-class="{'categoryNoneBackGround':$index==isCategoryLeftSelected}">
 				<span class='categorySelectItem' ng-class="{'categorySelectedBackGround':$index==isCategoryLeftSelected}"></span>
 				<a href='javascript:void(0)' ng-class="{'categorySlectedColor':$index==isCategoryLeftSelected}">{{item.title}}</a></li>
 		</ul>
@@ -15,11 +15,43 @@
 	</div>
 	
 	<div class="category_rightMenu clearfix">
+		
+		<div class="category_rightMenu_top clearfix">
 		<ul>
 			<li ng-repeat='item in rightMenuCategoryArr.bannerHead.list' class="bannerHeadLi"><img src="{{item.image}}"/></li>
-			<div class="toufuNavigationDiv"><li ng-repeat='item in rightMenuCategoryArr.toufuNavigation.list' class="toufuNavigationLi"><img src="{{item.image}}"/></li></div>
-			<li ng-repeat='item in rightMenuCategoryArr.categoryNavigation.list' class="rightCategoryProducts"><a href="#"><img src="{{item.image}}" /><p>{{item.title}}</p></a></li>
+			<div class="toufuNavigationDiv"><li ng-repeat='item in rightMenuCategoryArr.toufuNavigation.list' class="toufuNavigationLi"><img lazy-src="{{item.image}}"/></li></div>
+			<li ng-repeat='item in rightMenuCategoryArr.categoryNavigation.list' class="rightCategoryProducts"><a ui-sref='.categoryKind' href="" ><img lazy-src="{{item.image}}" /><p>{{item.title}}</p></a></li>
 		</ul>
+		</div>
+		
+		<div class="category_rightMenu_buttom clearfix">
+			
+			<div class="category_rightMenu_buttom_title clearfix">
+				<ul>
+					<li ng-click="initCategory_rightMenu_buttom_title_zhonghe($event)" ><a href="javascript:void(0)" ng-class="{'categorySlectedColor':category_rightMenu_buttom_titleSelected==1}">综合</a></li>
+					<li ng-click="initCategory_rightMenu_buttom_title_xiaoliang($event)"><a href="javascript:void(0)" ng-class="{'categorySlectedColor':category_rightMenu_buttom_titleSelected==2}">销量</a></li>
+					<li ng-click="initCategory_rightMenu_buttom_title_xinpin($event)"><a href="javascript:void(0)" ng-class="{'categorySlectedColor':category_rightMenu_buttom_titleSelected==3}">新品</a></li>
+				</ul>
+			</div>
+			
+			
+			<!--瀑布流加载图片-->
+			<div class="category_rightMenu_buttom_waterfall clearfix">
+				<ul class="waterfall-list" ng-waterfall cols="2">  
+        			<li ng-repeat="image in initCategoryRightDownMenuImages" repeat-finished>  
+            		<div class="data-block">  
+                	<img src="{{image.show.img}}" alt="{{image.title}}"/>  
+                	<p class="saled">已售{{image.sale}}件</p>
+                	<p class="waterfall-title">{{image.title}}</p>
+                	<p class="waterfall-price"><span>{{image.price}}</span><span>{{image.cfav}}</span></p>
+            		</div>  
+       				</li>  
+				</ul>  
+			</div>	
+			
+		</div>
+		
 	</div>
+	
+	
 </div>
-

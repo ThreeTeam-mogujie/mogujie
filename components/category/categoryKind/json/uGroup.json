@@ -1,0 +1,80 @@
+{
+    "data": {
+        "43037": {
+            "context": {
+                "currentTime": 1492685769
+            },
+            "isEnd": true,
+            "list": [
+                
+            ],
+            "nextPage": 1
+        },
+        "12777": {
+            "context": {
+                "currentTime": 1492685769
+            },
+            "isEnd": true,
+            "list": [
+                {
+                    "title": "U质团",
+                    "acm": "3.mce.1_10_1bi80.12777.0.zlmCAqhkFmQwo.m_268388",
+                    "description": "品质严选",
+                    "link": "http://act.mogujie.com/uzhituan?acm=3.mce.1_10_1bi80.12777.0.zlmCAqhkFmQwo.m_268388",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170407_54l6j1338dlg5f7aeldcj305chga3_344x190.jpg",
+                    "titleColor": "#7259a5",
+                    "isIcon": "false"
+                },
+                {
+                    "title": "美妆团",
+                    "acm": "3.mce.1_10_1bi82.12777.0.zlmCAqhkFmQwp.m_268389",
+                    "description": "口碑尖货",
+                    "link": "http://act.mogujie.com/tunhuo/tgmeizhuang?acm=3.mce.1_10_1bi82.12777.0.zlmCAqhkFmQwp.m_268389",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170407_86ci3hfldeh988f289bifjhi1l5c2_344x190.jpg",
+                    "titleColor": "#63aa9c",
+                    "isIcon": "false"
+                },
+                {
+                    "title": "家居团",
+                    "acm": "3.mce.1_10_1bi84.12777.0.zlmCAqhkFmQwq.m_268390",
+                    "description": "宜家宜室",
+                    "link": "http://act.mogujie.com/tunhuo/tgjiaju?acm=3.mce.1_10_1bi84.12777.0.zlmCAqhkFmQwq.m_268390",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170407_0l2484498c9894668jada3abi28aa_344x190.jpg",
+                    "titleColor": "#ca6979",
+                    "isIcon": "false"
+                },
+                {
+                    "title": "吃货团",
+                    "acm": "3.mce.1_10_1bi86.12777.0.zlmCAqhkFmQwr.m_268391",
+                    "description": "嗨!乐此购",
+                    "link": "http://act.mogujie.com/tunhuo/tgshipin?acm=3.mce.1_10_1bi86.12777.0.zlmCAqhkFmQwr.m_268391",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170407_57500228dk0g69a43e99d6f1k1c3c_344x190.jpg",
+                    "titleColor": "#7791af",
+                    "isIcon": "false"
+                }
+            ],
+            "nextPage": 1
+        },
+        "12908": {
+            "context": {
+                "currentTime": 1492685769
+            },
+            "isEnd": true,
+            "list": [
+                {
+                    "startTime": 1492272000,
+                    "title": "品牌团甄选爆款（打底素材）",
+                    "sort": 5,
+                    "acm": "3.mce.1_10_1bico.12908.0.zlmCAqhkFmQwn.m_268472",
+                    "description": "",
+                    "link": "http://act.mogujie.com/brandtuan/selected?acm=3.mce.1_10_1bico.12908.0.zlmCAqhkFmQwn.m_268472",
+                    "image": "https://s2.mogucdn.com/mlcdn/c45406/170407_2d9b2d880785gkj17dleh61h81j79_750x280.jpg",
+                    "endTime": 0
+                }
+            ],
+            "nextPage": 1
+        }
+    },
+    "returnCode": "SUCCESS",
+    "success": true
+}
