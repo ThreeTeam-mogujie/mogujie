@@ -76,11 +76,9 @@ angular.module('me-lazyload', [])
     		checkImage()
     	};
     }
-<<<<<<< HEAD
-    $win.bind('scroll', checkImage); 
-=======
+
     $win.bind('scroll', checkImage);    
->>>>>>> xuedeng
+
     $win.bind('resize', checkImage);
 
     function onLoad(){

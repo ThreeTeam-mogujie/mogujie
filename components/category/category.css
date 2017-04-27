@@ -1,7 +1,7 @@
 .category{
 	width:100% ;
 	height: 100%;
-	overflow: hidden;
+
 	position: relative;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .category_leftMenu{
-	position: absolute;
+	position: fixed;
 	top: 10%;
 	width: 25%;
 	height: 90%;
@@ -30,7 +30,7 @@
 	position: relative;
 }
 .category_leftMenu>ul>li>a{
-	color: #A0A0A0;
+	color: #777777;
 
 }
 .categorySelectItem{
@@ -58,7 +58,6 @@
 	width: 75%;
 	height: 90%;
 	left: 25%;
-	overflow: auto;
 }
 
 
@@ -69,7 +68,7 @@
 }
 .rightCategoryProducts>a{
 	display: inline-block;
-	color: #9A9A95;
+	color: #808080;
 	
 }
 .rightCategoryProducts>a>img{
@@ -114,3 +113,112 @@
 	margin:  0 auto;
 }
 
+.category_rightMenu_top{
+	width: 100%;
+}
+
+.category_rightMenu_buttom{
+	width: 100%;
+	height: 100%;
+	position: relative;
+
+}
+.category_rightMenu_buttom_title{
+	width: 100%;
+	position: absolute;
+	height: 3.5rem;
+	margin-top: 2rem;
+}
+/*.category_rightMenu_buttom_title ul{
+	width: 100%;
+	height: 3.5rem;
+	position: fixed;
+	top: 40rem;
+	left: 0;
+	background: #FFFFFF;
+	z-index: 3;	
+	background: red;
+}*/
+.category_rightMenu_buttom_title ul li{
+	width: 33.33%;
+	float: left;
+	text-align: center;
+	height: 3.5rem;
+	line-height: 3.5rem;
+	border-left: 1px solid silver;
+	border-top: 1px solid silver;
+	border-bottom: 1px solid silver;
+}
+
+.category_rightMenu_buttom_title ul li a{
+	display: inline-block;
+	font-size: 1.2rem;
+	width: 50%;
+
+
+}
+.category_rightMenu_buttom_title .categorySlectedColor{
+	color: #FF5577;
+	
+}
+
+.waterfall-list{
+	position: relative;
+	width: 100%;
+}
+
+.category_rightMenu_buttom_waterfall{
+padding-top: 5.5rem;
+}
+.category_rightMenu_buttom_waterfall .waterfall-list li {
+    position: absolute;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 5px;
+    overflow: hidden;
+
+}
+
+.category_rightMenu_buttom_waterfall .waterfall-list li img{
+	width: 100%;
+	height: 13.57rem;
+}
+.data-block{
+	position: relative;
+}
+.data-block p{
+	line-height: 2rem;
+}
+.waterfall-title{
+	width: 100%;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+.waterfall-price span:first-of-type{
+	color: #FF5777;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+.waterfall-price span:last-of-type{
+	float: right;
+	padding-right: 1rem;
+	background: url(../../img/star.png)no-repeat right center;
+}
+
+.saled{
+	width: 60%;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	
+	position: absolute;
+	left: 0;
+	bottom: 5rem;
+	padding-left: 1rem;
+	color: #FFFFFF;
+	background: linear-gradient(to right, #7B7677 0%,#fff 150%);
+
+}
