@@ -76,8 +76,7 @@ angular.module('me-lazyload', [])
     		checkImage()
     	};
     }
-    $win.bind('scroll', checkImage); 
-    
+    $win.bind('scroll', checkImage);    
     $win.bind('resize', checkImage);
 
     function onLoad(){
@@ -102,7 +101,7 @@ angular.module('me-lazyload', [])
             iElement.bind('load', onLoad);
 
             $scope.$watch('lazySrc', function(){
-                var speed = "3s";
+                var speed = "1s";
                 if ($scope.animateSpeed != null) {
                     speed = $scope.animateSpeed;
                 }
