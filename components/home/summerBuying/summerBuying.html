@@ -7,29 +7,31 @@
 	</div>-->
 	
 	<div class="wall-nav-box">
-		<a href="">
-			<span>新品</span>
+		<a href="" ng-click=fn('components/home/summerBuying/bag.json')>
+			<span>包包</span>
 		</a>
-		<a href="">
-			<span>韩系</span>
+		<a href="" ng-click=fn('components/home/summerBuying/food.json')>
+			<span>食品</span>
 		</a>
-		<a href="">
-			<span>美裙</span>
+		<a href="" ng-click=fn('components/home/summerBuying/girl.json')>
+			<span>女装</span>
 		</a>
-		<a href="">
-			<span>网红</span>
+		<a href="" ng-click=fn('components/home/summerBuying/shoe.json')>
+			<span>女鞋</span>
 		</a>
 	</div>
 	<div class="wall-goods-box">
 		<div class="wall-goods-box-list">
-			<a href="javascript:void(0)" ng-repeat="(i,item) in allSummerList" ng-if="i>1" >
+			<a href="javascript:void(0)" ng-repeat="(i,item) in allSummerList" ng-if="i>1" ng-click=tosale_offBuying(item) ui-sref='.sale_off'>
 					<img src="{{item.image}}"/>
 					<p>{{item.title}} </p>
 					<p>良品</p>
-					<p>¥{{item.originalPrice}}</p>
-					<p>¥{{item.price}}</p>
-					<p>省¥{{(item.originalPrice-item.price)|number:0}}</p>
+					<p>¥{{item.discountPrice}}</p>
+					<p>¥{{item.cutPrice}}</p>
+					<p>省¥{{(item.discountPrice-item.cutPrice)|number:0}}</p>
 			</a>
 		</div>
 	</div>
+	<div ng-class="{true: 'active_saleoff', false: 'inactive_saleoff'}[isActive_saleoff]" id="tosummerBuying" ui-view>
+    </div>
 </div>

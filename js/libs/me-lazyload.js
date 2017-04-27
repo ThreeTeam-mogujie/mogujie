@@ -71,10 +71,10 @@ angular.module('me-lazyload', [])
               iElement.attr('src', $scope.lazySrc);
             }
         });
-        var t1 = document.getElementById('GroupBuyingmain');
-    	t1.onscroll = function(){
-    		checkImage()
-    	};
+//      var t1 = document.getElementById('GroupBuyingmain');
+//  	t1.onscroll = function(){
+//  		checkImage()
+//  	};
     }
 
     $win.bind('scroll', checkImage);    

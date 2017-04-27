@@ -1,40 +1,35 @@
-#home-summerBuyingWrap{
+.wall-goods-box{
+	/*width: 100%;
+	background: #F9F9F9;*/
+	
 	width: 100%;
 	height: 100%;
-	overflow: auto;
-	position: relative;
-	background: lightgoldenrodyellow;
+	background: white;
+	position: fixed;
+	top: 0;
 }
 
-
-.wall-nav-box{
-	width: 100%;
-	height: 3.8rem;
-	background: #4a374a;
-}
-.wall-nav-box>a{
-	display: inline-block;
-	float: left;
-	width: 25%;
-	display: flex;
-	justify-content: center;
-}
-.wall-nav-box>a>span{
-	display: inline-block;
-	color: white;
-	text-align: center;
-}
-
-.wall-goods-box{
-	width: 100%;
-	background: #F9F9F9;
-}
 .wall-goods-box-list{
 	width: 100%;
 	display: flex;
 	flex-wrap: wrap;
 }
-.wall-goods-box-list>a{
+.wall-goods-box-list img{
+	width: 100%;
+	height: 60%;
+	margin: 0 auto;
+}
+.wall-goods-box-list p{
+	text-align: center;
+	padding: 0 0.6rem;
+}
+.wall-goods-box-list p:first-child{
+	color: #424242;
+}
+.wall-goods-box-list p:last-child{
+	color: #999;
+}
+/*.wall-goods-box-list>a{
 	width: 47%;
 	height:27rem;
 	margin: 7.5px 0 0 7.5px;
@@ -81,20 +76,4 @@
 	background-size: 100% 100%;
 	text-indent: 1.3rem;
 	color: white;
-}
-
-/*修改跳转盒子*/
-#tosummerBuying{
-	position: fixed;
-	top:0 ;
-	width: 100%;
-	height: 100%;
-	z-index: 9;
-	/*background: red;*/
-}
-.active_saleoff{display: none;}
-.inactive_saleoff{display: block;}
-/*学登修改的代码*/
-.active_saleoff{display: none;}
-.inactive_saleoff{display: block;}
-/*学登修改的代码*/
+}*/

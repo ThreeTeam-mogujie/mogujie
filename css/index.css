@@ -15,8 +15,9 @@
     width: 100%;
     position: fixed;
     bottom: 0;
-    background: #808080;
-    border-top: 1px solid lightblue;
+    /*background: #808080;*/
+    border-top: 1px solid lightgray;
+    background: #FFF;
 }
 #tab>ul{
     width: 100%;
@@ -25,9 +26,16 @@
 #tab>ul>li{
     width: 25%;
     height: 100%;
+    /*line-height: 100%;*/
     float: left;
-    text-align: center;
+    /*text-align: center;*/
+    display: flex;
+    align-items: center;
 }
 #tab>ul>li>a{
 	font-size: 1.28rem;
+	/*vertical-align: middle;*/
+	text-align: center;
+	margin: 0 auto;
+	
 }

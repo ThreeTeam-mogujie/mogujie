@@ -42,7 +42,7 @@
     	<div class="home-sec-bottom ">
     		<ul class="clearfix">
     			<li ng-repeat="item in arrMiaoarr">
-    				<a href="">
+    				<a href="" ng-click=fx($index)>
     					<div><img src="{{item.img}}" alt="" /></div>
     					<p>{{item.title}}</p>
     					<p>{{item.salePrice}}<span></span></p>

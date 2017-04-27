@@ -46,6 +46,9 @@ angular.module('homeModule',[])
           $scope.arrMiaotitle = res.data[41119].list[0].title;
           $scope.arrMiaoarr = res.data[41119].list[0].list;
 //            $scope.arrLast2 = res.data.act_info[5].act_rows[0].category_detail.goods;
+			$scope.fx = function(x){
+				console.log(x);
+			}
 
 			//超实惠-促销直达
 			$scope.arrShihui = res.data[40298].list;
