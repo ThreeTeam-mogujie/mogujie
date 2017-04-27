@@ -1,0 +1,23 @@
+{
+	"index.html": {
+		"resources": [
+			"components/home/groupBuying/UZGroup/UZGroup.js",
+			"js/libs/angular-css.min.js",
+			"js/libs/swiper-3.4.1.min.js",
+			"js/libs/angular-ui-router.js",
+			"app.js",
+			"components/category/category.js",
+			"components/home/summerBuying/summerBuying.js",
+			"components/home/groupBuying/UZGroup/lastGoods/lastGoods.js",
+			"css/index.css",
+			"js/libs/angular.js",
+			"js/libs/me-lazyload.js",
+			"components/shopcar/shopcar.js",
+			"components/home/groupBuying/groupBuying.js",
+			"css/swiper-3.4.1.min.css",
+			"components/mine/mine.js",
+			"css/reset.css",
+			"components/home/home.js"
+		]
+	}
+}
