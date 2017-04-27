@@ -1,0 +1,62 @@
+<div class="categoryKindDetail">
+	<!--<div class="categoryKindDetailTop">
+		<img src="{{rightMenuCategoryDetailArr.itemInfo.topImages[0]}}"/>
+	</div>-->
+
+
+<div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide" ng-repeat="item in rightMenuCategoryDetailArr.itemInfo.topImages">
+            	<a ui-sref='.summerBuying' href="" ng-click=viewGroupBuying()>  
+            		<img src="{{item}}" alt=""/>
+            	</a>
+            </div>
+        </div>
+        <!-- 如果需要分页器 -->
+        <div class="swiper-pagination"></div>
+</div>
+
+<div class="categoryKindDetail_text">
+	<p class="categoryKindDetail_text_title">{{rightMenuCategoryDetailArr.itemInfo.title}}</p>
+	<p class="categoryKindDetail_text_desc">{{rightMenuCategoryDetailArr.itemInfo.desc}}</p>
+	<p class="categoryKindDetail_text_price"><span>{{rightMenuCategoryDetailArr.itemInfo.price}}</span>
+		<span>{{rightMenuCategoryDetailArr.itemInfo.oldPrice}}</span>
+		<span>{{rightMenuCategoryDetailArr.itemInfo.discountDesc}}</span>
+	</p>
+	
+	<p class="categoryKindDetail_text_mailDesc" ><span ng-repeat="column in rightMenuCategoryDetailArr.columns">{{column}}</span></p>
+	
+	<div class="categoryKindDetail_text_itemTag clearfix">
+		<ul>
+			<li ng-repeat="itemTag in rightMenuCategoryDetailArr.itemTags">
+				<img src="{{itemTag.icon}}"/><span>{{itemTag.name}}</span>
+			</li>
+			
+		</ul>
+	</div>
+	
+	<div class="categoryKindDetail_text_itemTag_promotions clearfix">
+		<ul>
+			<li ng-repeat="itemPromotion in rightMenuCategoryDetailArr.promotions.list"><p>{{itemPromotion}}</p></li>
+		</ul>
+	</div>
+	
+	<div class="categoryKindDetail_text_itemTag_detailImage">
+		<p>{{rightMenuCategoryDetailArr.detailInfo.detailImage[0].key}}</p>
+		<p>{{rightMenuCategoryDetailArr.detailInfo.detailImage[0].desc}}</p>
+		<ul>
+			<li ng-repeat="itemImg in rightMenuCategoryDetailArr.detailInfo.detailImage[0].list"><img src="{{itemImg}}"/></li>
+		</ul>
+	</div>
+	
+</div>
+		
+	<div class="categoryKindDetail_footDialog">
+		<ul>
+			<li class="categoryKindDetail_footDialog_one"><img src="img/headMessage.png"/></li>
+			<li class="categoryKindDetail_footDialog_one"><img src="img/star.png"/></li>
+			<li class="categoryKindDetail_footDialog_two"> <p>加入购物车</p></li>
+			<li class="categoryKindDetail_footDialog_two"><p>立即购买</p></li>
+		</ul>
+	</div>
+</div>
