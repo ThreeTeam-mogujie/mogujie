@@ -1,12 +1,16 @@
 <!--头部-->
 <div class="category" ui-view>
 	<div id="categoryHeader">
-	
+		<ul>
+			<li> <a href=""><img src="img/headMessage.png"/></a> </li>
+			<li><input type="text" placeholder="免洗面膜"></input></li>
+			<li><a href="javascript:void(0)"><img src="img/topCar.png"/></a></li>
+		</ul>
 	</div>
 
 	<div class="category_leftMenu clearfix">
 		<ul>
-			<li ng-repeat='item in leftMenuCategoryArr' ng-click="initCategoryLeftMenu($event,item.maitKey,$index,item.miniWallkey,item.acm)" ng-class="{'categoryNoneBackGround':$index==isCategoryLeftSelected}">
+			<li ng-repeat='item in leftMenuCategoryArr' ng-click="initCategoryLeftMenu($event,$index,item)" ng-class="{'categoryNoneBackGround':$index==isCategoryLeftSelected}">
 				<span class='categorySelectItem' ng-class="{'categorySelectedBackGround':$index==isCategoryLeftSelected}"></span>
 				<a href='javascript:void(0)' ng-class="{'categorySlectedColor':$index==isCategoryLeftSelected}">{{item.title}}</a></li>
 		</ul>
@@ -20,7 +24,7 @@
 		<ul>
 			<li ng-repeat='item in rightMenuCategoryArr.bannerHead.list' class="bannerHeadLi"><img src="{{item.image}}"/></li>
 			<div class="toufuNavigationDiv"><li ng-repeat='item in rightMenuCategoryArr.toufuNavigation.list' class="toufuNavigationLi"><img lazy-src="{{item.image}}"/></li></div>
-			<li ng-repeat='item in rightMenuCategoryArr.categoryNavigation.list' class="rightCategoryProducts"><a ui-sref='.categoryKind' href="" ><img lazy-src="{{item.image}}" /><p>{{item.title}}</p></a></li>
+			<li ng-repeat='item in rightMenuCategoryArr.categoryNavigation.list' class="rightCategoryProducts"><a ui-sref='.categoryKind' href="" ng-click="toCategoryKind(item)"><img lazy-src="{{item.image}}" /><p>{{item.title}}</p></a></li>
 		</ul>
 		</div>
 		
@@ -40,7 +44,7 @@
 				<ul class="waterfall-list" ng-waterfall cols="2">  
         			<li ng-repeat="image in initCategoryRightDownMenuImages" repeat-finished>  
             		<div class="data-block">  
-                	<img src="{{image.show.img}}" alt="{{image.title}}"/>  
+                	<a ui-sref='.categoryKind.categoryKindDetail' href="" ng-click="toCategoryKindDetail(image)"><img src="{{image.show.img}}" alt="{{image.title}}"/></a>
                 	<p class="saled">已售{{image.sale}}件</p>
                 	<p class="waterfall-title">{{image.title}}</p>
                 	<p class="waterfall-price"><span>{{image.price}}</span><span>{{image.cfav}}</span></p>

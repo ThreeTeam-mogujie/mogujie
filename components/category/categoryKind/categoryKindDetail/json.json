@@ -1,0 +1,474 @@
+{
+    "status": {
+        "code": 1001,
+        "msg": ""
+    },
+    "result": {
+        "skuInfo": {
+            "title": "【百搭显瘦】新款韩版宽松字母T恤+格子半身裙两件套连衣裙女",
+            "skus": [
+                {
+                    "stockId": "1qkjk56",
+                    "xdSkuId": "1qkjk56",
+                    "price": 9715,
+                    "nowprice": 6800,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170411_0230helf3fj25dhd23ha7cj41h0il_640x960.jpg",
+                    "currency": "￥",
+                    "stock": 822,
+                    "style": "黄色",
+                    "size": "均码",
+                    "styleId": 1,
+                    "sizeId": 100
+                },
+                {
+                    "stockId": "1qkjk58",
+                    "xdSkuId": "1qkjk58",
+                    "price": 9715,
+                    "nowprice": 6800,
+                    "img": "http://s2.mogucdn.com/mlcdn/c45406/170411_5ecb7bjb53280hc8c35g45fll3744_640x960.jpg",
+                    "currency": "￥",
+                    "stock": 557,
+                    "style": "绿色",
+                    "size": "均码",
+                    "styleId": 2,
+                    "sizeId": 100
+                }
+            ],
+            "props": [
+                {
+                    "label": "颜色:",
+                    "list": [
+                        {
+                            "type": "style",
+                            "name": "黄色",
+                            "isDefault": false,
+                            "styleId": 1,
+                            "index": 1
+                        },
+                        {
+                            "type": "style",
+                            "name": "绿色",
+                            "isDefault": false,
+                            "styleId": 2,
+                            "index": 2
+                        }
+                    ],
+                    "isDefault": false
+                },
+                {
+                    "label": "尺码:",
+                    "list": [
+                        {
+                            "type": "size",
+                            "name": "均码",
+                            "isDefault": false,
+                            "sizeId": 100,
+                            "index": 100
+                        }
+                    ],
+                    "isDefault": false
+                }
+            ],
+            "styleKey": "颜色",
+            "sizeKey": "尺码",
+            "priceRange": "¥68.00",
+            "defaultPrice": "¥68.00",
+            "isAbroad": false,
+            "totalStock": 1379
+        },
+        "itemInfo": {
+            "desc": "【关注收藏小店 享受原价6.8折优惠】春季新款韩版宽松字母T恤+格子半身裙两件套连衣裙女",
+            "userId": "149v898",
+            "shopId": "1q4alu",
+            "title": "【百搭显瘦】新款韩版宽松字母T恤+格子半身裙两件套连衣裙女",
+            "discountDesc": "7折",
+            "discountBgColor": "#f13e3a",
+            "lowPrice": "97.15",
+            "highPrice": "97.15",
+            "lowNowPrice": "68.00",
+            "highNowPrice": "68.00",
+            "iid": "1ka1tru",
+            "isSelf": false,
+            "isFaved": false,
+            "imUrl": "mgjim://talk?&bid=1q4alu&goodsId=1ka1tru&userId=149v898&shopId=1q4alu",
+            "state": 0,
+            "topImages": [
+                "http://s2.mogucdn.com/mlcdn/c45406/170411_42h06f12h62d6d00i4h2487ijch5b_640x960.jpg",
+                "http://s2.mogucdn.com/mlcdn/c45406/170411_16e8ea9e04gf16g8j8ah73i1hc2cj_640x960.jpg",
+                "http://s2.mogucdn.com/mlcdn/c45406/170411_1h1eg71b9l4108kdidb26158kg815_640x960.jpg",
+                "http://s2.mogucdn.com/mlcdn/c45406/170411_74h3i1b62dag2fccc4j19f702lji9_640x960.jpg",
+                "http://s2.mogucdn.com/mlcdn/c45406/170411_2iaek9j7b80c6lfa2cb00if96ki9a_640x960.jpg"
+            ],
+            "oldPrice": "¥97.15",
+            "price": "¥68.00",
+            "saleType": 0,
+            "tags": "",
+            "inActivity": false,
+            "redPacketsSwitch": false,
+            "cFav": 0,
+            "admin": false,
+            "cids": "#682# #683# #2525# #703#",
+            "cartNum": 0,
+            "extra": {},
+            "addCartTips": true,
+            "isGrayUser": false,
+            "isNewComer": false
+        },
+        "topBar": {
+            "img": "http://s2.mogucdn.com/p1/150811/upload_ieytsmbrmm4wkm3ggizdambqmeyde_226x43.png",
+            "link": "http://www.xiaodian.com/h5/download"
+        },
+        "detailInfo": {
+            "desc": "【关注收藏小店 享受原价6.8折优惠】春季新款韩版宽松字母T恤+格子半身裙两件套连衣裙女",
+            "detailImage": [
+                {
+                    "desc": "关于色差，我们保证我们的所有宝贝都是实物拍的，我们已经尽量避免色差，颜色已经非常接近实物图了，但是拍摄时由于灯光的原因，以及网购的每台电脑显示器光亮程度不同，可能会存在少许色差。",
+                    "key": "穿着效果",
+                    "anchor": "model_img",
+                    "list": [
+                        "http://s2.mogucdn.com/p2/170317/77101615_6f3ak83kkl00329ged9249aa93ifb_1125x285.jpg",
+                        "http://s2.mogucdn.com/mlcdn/c45406/170411_2a9e7098f0883hf44040da5jfj8ia_640x960.jpg",
+                        "http://s2.mogucdn.com/mlcdn/c45406/170411_2c4g3dkb9g80kd7j8dha7jh3aig65_640x960.jpg",
+                        "http://s2.mogucdn.com/mlcdn/c45406/170411_3iiega49b8ie05l8ed1cg7da6j9jb_640x960.jpg",
+                        "http://s2.mogucdn.com/mlcdn/c45406/170411_17j45kdd3k5fhk0fi3dkb40dj3hbd_640x960.jpg",
+                        "http://s2.mogucdn.com/mlcdn/c45406/170411_3cjbl72082e18h47deeb8b2d6egcl_640x960.jpg",
+                        "http://s2.mogucdn.com/mlcdn/c45406/170411_40kkhfh5698f4k537b1fl5glc6d78_640x960.jpg",
+                        "http://s2.mogucdn.com/mlcdn/c45406/170411_2a75574chh86k69fah4c17hcg0kde_640x960.jpg",
+                        "http://s2.mogucdn.com/mlcdn/c45406/170411_6jhfac1452ag928j1ida0jk9dl5jb_640x960.jpg",
+                        "http://s2.mogucdn.com/mlcdn/c45406/170411_0lhc9ldlejdj7812g8360aeb74429_640x960.jpg"
+                    ]
+                }
+            ]
+        },
+        "columns": [
+            "全国包邮",
+            "销量 717"
+        ],
+        "promotions": {
+            "link": "mgj://shoppro?shopId=1q4alu",
+            "alertData": {},
+            "list": [
+                "满99元减5元",
+                "65元任选2件"
+            ]
+        },
+        "itemParams": {
+            "info": {
+                "set": [
+                    {
+                        "value": "常规袖",
+                        "key": "袖型"
+                    },
+                    {
+                        "value": "百搭,韩系",
+                        "key": "风格"
+                    },
+                    {
+                        "value": "均码",
+                        "key": "尺码"
+                    },
+                    {
+                        "value": "普通",
+                        "key": "厚薄"
+                    },
+                    {
+                        "value": "衣裙套装",
+                        "key": "款式"
+                    },
+                    {
+                        "value": "其他",
+                        "key": "材质"
+                    },
+                    {
+                        "value": "绿色,黄色",
+                        "key": "颜色"
+                    },
+                    {
+                        "value": "拼色/撞色",
+                        "key": "元素"
+                    },
+                    {
+                        "value": "常规款（51-65cm）",
+                        "key": "衣长"
+                    },
+                    {
+                        "value": "圆领",
+                        "key": "领型"
+                    },
+                    {
+                        "value": "色块",
+                        "key": "图案"
+                    },
+                    {
+                        "value": "夏季",
+                        "key": "季节"
+                    },
+                    {
+                        "value": "短袖",
+                        "key": "袖长"
+                    }
+                ],
+                "key": "产品参数",
+                "anchor": "product_info"
+            },
+            "rule": {
+                "tables": [
+                    [
+                        [
+                            "尺码",
+                            "均码"
+                        ],
+                        [
+                            "裤长",
+                            "54"
+                        ]
+                    ]
+                ],
+                "key": "尺码说明",
+                "anchor": "size_info",
+                "disclaimer": "※ 以上尺寸为实物人工测量，因测量当时不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。"
+            }
+        },
+        "shopInfo": {
+            "score": [
+                {
+                    "name": "描述相符",
+                    "score": 4.46,
+                    "isBetter": true
+                },
+                {
+                    "name": "价格合理",
+                    "score": 4.43,
+                    "isBetter": true
+                },
+                {
+                    "name": "质量满意",
+                    "score": 4.41,
+                    "isBetter": true
+                }
+            ],
+            "services": [
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_804deld49f8i13gb2gdji12k6h9h2_60x60.png",
+                    "name": "退货补运费"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_69l7gg2aeb5jb1k0g5l785gdhk7g0_60x60.png",
+                    "name": "7天无理由退货"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_4c9fi653lcljc0ig512il61jh3ljl_60x60.png",
+                    "name": "全国包邮"
+                },
+                {
+                    "icon": "http://s2.mogucdn.com/p2/161121/upload_8fak1807jfee78jjh49f146g09hc5_60x60.png",
+                    "name": "72小时发货"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "连衣裙",
+                    "link": "http://shop.mogujie.com/1q4alu/list/index?categoryId=1456902"
+                },
+                {
+                    "name": "下装",
+                    "link": "http://shop.mogujie.com/1q4alu/list/index?categoryId=1456904"
+                },
+                {
+                    "name": "上装",
+                    "link": "http://shop.mogujie.com/1q4alu/list/index?categoryId=1456908"
+                },
+                {
+                    "name": "套装",
+                    "link": "http://shop.mogujie.com/1q4alu/list/index?categoryId=1456909"
+                },
+                {
+                    "name": "外套",
+                    "link": "http://shop.mogujie.com/1q4alu/list/index?categoryId=1463952"
+                },
+                {
+                    "name": "邮差",
+                    "link": "http://shop.mogujie.com/1q4alu/list/index?categoryId=20107596"
+                }
+            ],
+            "cFans": 38850,
+            "cSells": 94631,
+            "allGoodsUrl": "http://m.mogujie.com/v8/meili/shopSearch?shopid=1q4alu",
+            "shopUrl": "http://m.mogujie.com/v8/meili/shop?shopid=1q4alu",
+            "isMarked": false,
+            "cGoods": 161,
+            "userId": "149v898",
+            "shopLogo": "http://s2.mogucdn.com/p1/160429/24xm3u_ifrdsmrxmm3dsojthazdambqmeyde_200x200.jpg",
+            "name": "韩菇凉衣柜",
+            "shopId": "1q4alu",
+            "type": 1,
+            "level": 2,
+            "nonsupportReasonRefound": false
+        },
+        "listBanner": {
+            "downloadBanner": {
+                "bgImg": "http://s8.mogucdn.com/p1/160709/t0_ie4dsndgmjrtgntbhezdambqgiyde_750x109.jpg",
+                "link": "https://www.mogujie.com/mage/app/tuiguang?package=MAMtxdetai01.apk&pkgname=com.mogujie&ckey=CK1297357065612",
+                "acm": "3.mce.1_10_19sa8.5694.0.wPJ7sqhXvQuxo.m_228252"
+            }
+        },
+        "rate": {
+            "list": [
+                {
+                    "user": {
+                        "uid": "",
+                        "uname": "噔***6",
+                        "avatar": "http://s2.mogucdn.com/p1/160105/idid_ifrwenjuhfsggntfguzdambqhayde_160x160.jpg",
+                        "profileUrl": "",
+                        "tagIndex": ""
+                    },
+                    "images": [
+                        "http://s2.mogucdn.com/mlcdn/c45406/170423_07k655g325c382bkgbf0ck31hchc0_186x332.jpg"
+                    ],
+                    "rateId": "1u4tf9e",
+                    "content": "主要是质量不错  发货了以后物流超级快 推荐😘",
+                    "created": 1492941661,
+                    "isAnonymous": 1,
+                    "style": "颜色:绿色 尺码:均码 ",
+                    "isEmpty": 0,
+                    "level": "",
+                    "canExplain": false,
+                    "extraInfo": [
+                        "体重:53 kg",
+                        "身高:163 cm",
+                        "是否合身:合身"
+                    ]
+                },
+                {
+                    "user": {
+                        "uid": "",
+                        "uname": "5***6",
+                        "avatar": "http://s2.mogucdn.com/p1/160105/idid_ifrtmoddmnsggntfguzdambqhayde_160x160.jpg",
+                        "profileUrl": "",
+                        "tagIndex": ""
+                    },
+                    "images": [
+                        "http://s2.mogucdn.com/mlcdn/c45406/170426_6d5bg4hkjeada9aikh1cd4e1ff14a_1242x2208.png_100x100.jpg",
+                        "http://s2.mogucdn.com/mlcdn/c45406/170426_00a6f6hh5b08jeh6ki064858lj7k3_2448x3264.jpg_100x100.jpg"
+                    ],
+                    "rateId": "1u7i4j0",
+                    "content": "差评！严重色差，好失望呀",
+                    "created": 1493209837,
+                    "isAnonymous": 0,
+                    "style": "颜色:黄色 尺码:均码 ",
+                    "isEmpty": 0,
+                    "level": "",
+                    "canExplain": false
+                }
+            ],
+            "cRate": 66,
+            "rateTags": [
+                {
+                    "emotion": "positive",
+                    "property": "质量",
+                    "value": "质量很好",
+                    "num": 7
+                },
+                {
+                    "emotion": "positive",
+                    "property": "服务",
+                    "value": "卖家服务很好",
+                    "num": 7
+                },
+                {
+                    "emotion": "positive",
+                    "property": "发货",
+                    "value": "发货速度快",
+                    "num": 4
+                },
+                {
+                    "emotion": "negative",
+                    "property": "色差",
+                    "value": "有色差",
+                    "num": 3
+                }
+            ]
+        },
+        "collcationSet": [
+            {
+                "name": "套餐一",
+                "promotionMark": "collocationSet_700005506613",
+                "collocationSetItemGroupDTOs": [
+                    {
+                        "img": "http://s2.mogucdn.com/mlcdn/c45406/170411_42h06f12h62d6d00i4h2487ijch5b_640x960.jpg",
+                        "title": "【百搭显瘦】新款韩版宽松字母T恤+格子半身裙两件套连衣裙女",
+                        "itemId": 613102433,
+                        "iid": "1ka1tru",
+                        "proPrice": 9200,
+                        "defaultPrice": "¥92.00",
+                        "collocationSetSkuDTOs": [
+                            {
+                                "stockId": 803312706,
+                                "proPrice": 9200
+                            },
+                            {
+                                "stockId": 803312705,
+                                "proPrice": 9200
+                            }
+                        ]
+                    },
+                    {
+                        "img": "http://s2.mogucdn.com/mlcdn/c45406/170405_1llcg2a6j857e37271ee2kdj2e26d_640x960.jpg",
+                        "title": "【时尚套装】三件套春装女装春季新款韩版条纹衬衫+八分裤+马甲",
+                        "itemId": 612755263,
+                        "iid": "1k9my0m",
+                        "proPrice": 12000,
+                        "defaultPrice": "¥120.00",
+                        "collocationSetSkuDTOs": [
+                            {
+                                "stockId": 798553962,
+                                "proPrice": 12000
+                            },
+                            {
+                                "stockId": 798553963,
+                                "proPrice": 12000
+                            },
+                            {
+                                "stockId": 798553964,
+                                "proPrice": 12000
+                            },
+                            {
+                                "stockId": 798553965,
+                                "proPrice": 12000
+                            }
+                        ]
+                    },
+                    {
+                        "img": "http://s2.mogucdn.com/mlcdn/c45406/170410_68b62ddlgl5cdce34eg6355k2h9j0_640x960.jpg",
+                        "title": "夏季新款韩版时尚套装收腰无袖背心马甲+高腰阔腿短裤两件套女",
+                        "itemId": 613041905,
+                        "iid": "1k9z8d6",
+                        "proPrice": 10800,
+                        "defaultPrice": "¥108.00",
+                        "collocationSetSkuDTOs": [
+                            {
+                                "stockId": 802489546,
+                                "proPrice": 10800
+                            },
+                            {
+                                "stockId": 802489549,
+                                "proPrice": 10800
+                            },
+                            {
+                                "stockId": 802489547,
+                                "proPrice": 10800
+                            },
+                            {
+                                "stockId": 802489548,
+                                "proPrice": 10800
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "itemTags": [],
+        "isLogin": false,
+        "esi": "<esi:try><esi:attempt><esi:include src='http://m.mogujie.com/detail/mgj/v1/h5_dyn?$(QUERY_STRING)'/></esi:attempt><esi:except></esi:except></esi:try>"
+    }
+}

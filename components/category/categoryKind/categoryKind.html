@@ -1,7 +1,38 @@
-<div class="categoryKind">
+<div class="categoryKind" ui-view>
 	<div class="categoryKindHead">
 		<ul>
-			<li> <a href="javascript:void(0)"><img src="components/category/categoryKind/img/zuo.png"/></a> </li><li></li><li><a href="javascript:void(0)"><img src="components/category/categoryKind/img/car.png"/></a></li>
+			<li> <a href="index.html#/category"><img src="components/category/categoryKind/img/zuo.png"/></a> 
+			</li><li><a>{{categoryKindItem.title}}</a></li>
+			<li><a href="javascript:void(0)"><img src="components/category/categoryKind/img/car.png"/></a></li>
 		</ul>
 	</div>
+	
+	<div class="categoryHotCates">
+		<ul>
+			<li ng-repeat="categoryHotCate in categoryKindHotCates"><a href=""><img src="{{categoryHotCate.img}}" /></a><span>{{categoryHotCate.title}}</span></li>
+		</ul>
+	</div>
+	<div class="categoryKindTitle">
+		<ul>
+			<li ng-click="categoryKindTitleZh($event)"><a href="javascript:void(0)" ng-class="{'categorySlectedColor':categoryKindTitleSelected==1}">综合</a></li>
+			<li ng-click="categoryKindTitleXl($event)"><a href="javascript:void(0)" ng-class="{'categorySlectedColor':categoryKindTitleSelected==2}">销量</a></li>
+			<li ng-click="categoryKindTitleXp($event)"><a href="javascript:void(0)" ng-class="{'categorySlectedColor':categoryKindTitleSelected==3}">新品</a></li>
+			<li ng-click="categoryKindTitleJe($event)"><a href="javascript:void(0)" ng-class="{'categorySlectedColor':categoryKindTitleSelected==4}">价格</a></li>			
+		</ul>
+	</div>
+	
+	
+	<!--瀑布流加载图片-->
+			<div class="category_kind_waterfall clearfix">
+				<ul class="category_kind_waterfall-list" ng-waterfall cols="2">  
+        			<li ng-repeat="categoryKindImg in categoryKindImages" repeat-finished>  
+            		<div class="category_kind_waterfall_data-block">  
+                	<a ui-sref='.categoryKindDetail' href="" ng-click="toCategoryKindDetail(categoryKindImg)"><img src="{{categoryKindImg.show==null?categoryKindImg.img.img:categoryKindImg.show.img}}" alt="{{categoryKindImg.title}}" ng-class="{'fullCategoryKindImg':{{categoryKindImg.acm==null}}}"/></a>
+                	<p class="category_kind_waterfall-props"><span ng-repeat="props in categoryKindImg.props">{{props}}</span></p>
+                	<p class="category_kind_waterfall-price"><span>{{categoryKindImg.price}}</span><span>{{categoryKindImg.cfav}}</span></p>
+            		</div>  
+       				</li>  
+				</ul>  
+			</div>	
+			
 </div>

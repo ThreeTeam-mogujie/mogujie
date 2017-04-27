@@ -1,0 +1,239 @@
+#main{
+	width: 100%;
+	height: 100%;
+}
+#tab{
+	display: none;
+}
+.category{
+	height: 100%;
+}
+.categoryKind{
+	width: 100%;
+	height: 100%;
+
+}
+
+.categoryKindDetail{
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+}
+.swiper-container{
+	width: 100%;
+	height: 65%;
+	margin-top: -10%;
+}
+.swiper-slide{
+	width: 100%;
+	height: 65%;
+
+	position: relative;
+
+}
+.swiper-slide img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+
+}
+
+.swiper-container{
+	width: 100%;
+}
+.swiper-slide{
+    width: 100%;
+    height: 100%;
+
+}
+.swiper-slide img{
+    width: 100%;
+}
+
+.swiper-container .swiper-pagination-fraction {
+	background:#847D82;
+	color: #FFFFFF;
+	margin-left: 85%;
+	opacity:1;
+	width: 3rem;
+	border-radius: 10px;
+	position: absolute;
+
+}
+.categoryKindDetail_text>p{
+	margin-top: 1.5rem;
+}
+.categoryKindDetail_text_title{
+	font-size: 1.2rem;
+	text-align: center;
+	
+}
+
+.categoryKindDetail_text_desc{
+	color: #999999;
+	text-align: center;
+	font-size: 1.2rem;
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+.categoryKindDetail_text_price{
+	text-align: center;
+}
+.categoryKindDetail_text_price span{
+	display: inline-block;
+}
+.categoryKindDetail_text_price span:first-of-type{
+	margin-top: -1rem;
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.categoryKindDetail_text_price span:nth-of-type(2){
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+	text-decoration:line-through;
+}
+.categoryKindDetail_text_price span:last-of-type{
+	background: #F13E3A;
+	padding-left: 0.3rem;
+	padding-right: 0.3rem;
+	color: #FFFFFF;
+
+}
+.categoryKindDetail_text_mailDesc{
+	text-align: center;
+	padding-bottom: 1rem;
+	border-bottom: 1px solid #EDEDED;
+}
+.categoryKindDetail_text_mailDesc span:first-of-type{
+	padding-right: 2rem;
+	text-align: center;
+	border-right: 1px solid #EDEDED;
+	color: #999999;
+}
+.categoryKindDetail_text_mailDesc span:last-of-type{
+	padding-left: 2rem;
+	color: #999999;
+}
+.categoryKindDetail_text_itemTag{
+	width: 100%;
+	height: 2rem;
+	margin: 0.8rem 0 0.5rem 0;
+
+}
+.categoryKindDetail_text_itemTag ul li{
+	float: left;
+	text-indent: 1rem;
+}
+.categoryKindDetail_text_itemTag ul li img{
+	display: inline-block;
+	vertical-align: middle;
+	zoom: 0.5;
+}
+
+.categoryKindDetail_text_itemTag ul li span{
+	margin-right: 1rem;
+	color: #999999;
+}
+.categoryKindDetail_text_itemTag_promotions{
+	width: 100%;
+	height: 3.5rem;
+	background: #FAFAFA;
+
+}
+
+.categoryKindDetail_text_itemTag_promotions ul li{
+	list-style: disc;
+	color: #F14440;
+	float: left;
+	height: 3.5rem;
+	line-height: 3.5rem;
+	width: 50%;
+	text-indent: 5rem;
+}
+.categoryKindDetail_text_itemTag_promotions ul li p{
+	color: #000000;
+}
+
+.categoryKindDetail_text_itemTag_detailImage{
+	width: 100%''
+}
+.categoryKindDetail_text_itemTag_detailImage ul{
+	width: 100%;
+}
+.categoryKindDetail_text_itemTag_detailImage ul li{
+	width: 100%;
+}
+.categoryKindDetail_text_itemTag_detailImage ul li img{
+	width: 100%;
+}
+.categoryKindDetail_text_itemTag_detailImage p{
+	height: 2rem;
+	line-height: 2rem;
+}
+.categoryKindDetail_text_itemTag_detailImage p:first-of-type{
+	text-indent: 1rem;
+	font-size: 1.2rem;
+	margin-top: 1rem;
+}
+.categoryKindDetail_text_itemTag_detailImage p:last-of-type{
+	color: #999999;
+	text-indent: 2rem;
+}
+
+
+.categoryKindDetail_footDialog{
+	position: fixed;
+	background: #FFFFFF;
+	width: 100%;
+	height: 3.92rem;
+	border-top: 1px solid #EDEDED;
+	bottom: 0;
+}
+
+.categoryKindDetail_footDialog ul{
+	width: 100%;
+	height: 100%;
+	display: table;
+}
+.categoryKindDetail_footDialog ul li{
+	float: left;
+	height: 3.92rem;
+	text-align: center;
+	display: flex;
+	align-items: center;
+}
+.categoryKindDetail_footDialog ul li img{
+	margin: 0 auto;
+}
+.categoryKindDetail_footDialog ul li:nth-of-type(2) img{
+	zoom: 1.5;	
+}
+
+.categoryKindDetail_footDialog_one{
+	width: 20%;
+	
+}
+.categoryKindDetail_footDialog_two{
+	width: 30%;
+	
+}
+.categoryKindDetail_footDialog_two p{
+	margin: 0 auto;
+	width: 80%;
+}
+.categoryKindDetail_footDialog ul li:nth-of-type(3) p{
+	border: 1px solid #EC312D;
+	color: #EC312D;
+	padding: 0.5rem;
+	
+}
+
+.categoryKindDetail_footDialog ul li:nth-of-type(4) p{
+	background: #EC312D;
+	color: #FFF;
+	padding: 0.5rem;
+}
+
