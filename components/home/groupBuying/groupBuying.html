@@ -1,20 +1,20 @@
 <div id="home-groupBuyingWrap">
 <!--导航-->
 	<div id="home-groupBuyingWrapNav">
-		<a href="javascript:void(0)" ng-click=allGroupBuyGoods('choiceTody.json',backImg) ng-class="{true: 'backgroundImg', false: 'nobackgroundImg'}[backImg]">精选</a>
+		<a ng-init="iscol=0" href="javascript:void(0)" ng-click="allGroupBuyGoods('choiceTody.json',backImg);iscol=0" ng-class="{'homemoue_bt':iscol==0}">精选</a>
 		<div id="home-groupBuyingWrapNavList">
 			<div id="home-groupBuyingWrapNavList-wrap">
-				<a href="javascript:void(0)" name="todayBuyWrap" ng-click=allGroupBuyGoods('girlsCloths.json')><span>女装</span></a>
-				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('girlsBoots.json')><span>女鞋</span></a>
-				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('bags.json')><span>包包</span></a>
-				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('beautyMakeup.json')><span>美妆</span></a>
-				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('boyFriends.json')><span>男友</span></a>
-				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('underWear.json')><span>内衣</span></a>
-				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('life.json')><span>生活</span></a>
-				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('sport.json')><span>运动</span></a>
-				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('decorations.json')><span>配饰</span></a>
-				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('motheranson.json')><span>母婴</span></a>
-				<a href="javascript:void(0)" ng-click=allGroupBuyGoods('foods.json')><span>食品</span></a>
+				<a ng-class="{'homemoue_bt':iscol==1}" href="javascript:void(0)" name="todayBuyWrap" ng-click="allGroupBuyGoods('girlsCloths.json');iscol=1"><span>女装</span></a>
+				<a ng-class="{'homemoue_bt':iscol==2}" href='javascript:void(0)' ng-click="allGroupBuyGoods('girlsBoots.json');iscol=2"><span>女鞋</span></a>
+				<a ng-class="{'homemoue_bt':iscol==3}" href="javascript:void(0)" ng-click="allGroupBuyGoods('bags.json');iscol=3"><span>包包</span></a>
+				<a ng-class="{'homemoue_bt':iscol==4}" href="javascript:void(0)" ng-click="allGroupBuyGoods('beautyMakeup.json');iscol=4"><span>美妆</span></a>
+				<a ng-class="{'homemoue_bt':iscol==5}" href="javascript:void(0)" ng-click="allGroupBuyGoods('boyFriends.json');iscol=5"><span>男友</span></a>
+				<a ng-class="{'homemoue_bt':iscol==6}" href="javascript:void(0)" ng-click="allGroupBuyGoods('underWear.json');iscol=6"><span>内衣</span></a>
+				<a ng-class="{'homemoue_bt':iscol==7}" href="javascript:void(0)" ng-click="allGroupBuyGoods('life.json');iscol=7"><span>生活</span></a>
+				<a ng-class="{'homemoue_bt':iscol==8}" href="javascript:void(0)" ng-click="allGroupBuyGoods('sport.json');iscol=8"><span>运动</span></a>
+				<a ng-class="{'homemoue_bt':iscol==9}" href="javascript:void(0)" ng-click="allGroupBuyGoods('decorations.json');iscol=9"><span>配饰</span></a>
+				<a ng-class="{'homemoue_bt':iscol==10}" href="javascript:void(0)" ng-click="allGroupBuyGoods('motheranson.json');iscol=10"><span>母婴</span></a>
+				<a ng-class="{'homemoue_bt':iscol==11}" href="javascript:void(0)" ng-click="allGroupBuyGoods('foods.json');iscol=11"><span>食品</span></a>
 			</div>			
 		</div>
 	</div>
@@ -77,3 +77,33 @@
 		<div ng-class="{true: 'active1', false: 'inactive1'}[isActive1]" id="toThreePage"  ui-view>
     	</div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!--<div class="homemenu" ng-init="iscol=0">
+    <span  ng-click="iscol=0" ng-class="{'homemoue_bt':iscol==0}">流行</span>
+    <span ng-click="iscol=1" ng-cla-->

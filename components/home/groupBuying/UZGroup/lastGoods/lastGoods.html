@@ -1,0 +1,18 @@
+<div id="LastGoodsWrap">
+	<div id="lastGoodsList">
+		<div id="goodsDetail">
+			<img src="{{itemInLastGoods.image}}"/>
+			<p>{{itemInLastGoods.description}}</p>
+			<p><span>¥：{{itemInLastGoods.savePrice}}</span><span>¥：{{itemInLastGoods.discountPrice}}</span></p>
+		</div>
+		<div class="fastNav">
+			<p ng-click=showNavList()>快捷</br>导航</p>
+			<ul class="NavList" ng-show=isShow>
+				<li><a ui-sref="home" ui-sref-opts="{reload:true}" href="">首页☞</a></li>
+				<!--<li><a ui-sref="home.groupBuying" href="">团购☞</a></li>
+				<li><a ui-sref="home.groupBuying.UZGroup" href="">U质团☞</a></li>-->
+			</ul>
+			
+		</div>
+	</div>
+</div>

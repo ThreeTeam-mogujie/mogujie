@@ -76,7 +76,9 @@ angular.module('me-lazyload', [])
     		checkImage()
     	};
     }
-    $win.bind('scroll', checkImage); 
+
+    $win.bind('scroll', checkImage);    
+
     $win.bind('resize', checkImage);
 
     function onLoad(){

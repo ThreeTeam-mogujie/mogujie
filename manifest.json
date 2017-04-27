@@ -1,4 +1,4 @@
-﻿{
+{
     "@platforms": ["android", "iPhone", "iPad"],
     "id": "",/*应用的标识，创建应用时自动生成，勿手动修改*/
     "name": "mogujie",/*应用名称，程序桌面图标名称*/
@@ -199,5 +199,93 @@
                 }
             }
         }
-    }
+    },
+	"dependencies": {
+		"pages": {
+			"index.html": {
+				"resources": [
+					"components/home/groupBuying/UZGroup/UZGroup.js",
+					"js/libs/angular-css.min.js",
+					"js/libs/swiper-3.4.1.min.js",
+					"js/libs/angular-ui-router.js",
+					"app.js",
+					"components/category/category.js",
+					"components/home/summerBuying/summerBuying.js",
+					"components/home/groupBuying/UZGroup/lastGoods/lastGoods.js",
+					"css/index.css",
+					"js/libs/angular.js",
+					"js/libs/me-lazyload.js",
+					"components/shopcar/shopcar.js",
+					"components/home/groupBuying/groupBuying.js",
+					"css/swiper-3.4.1.min.css",
+					"components/mine/mine.js",
+					"css/reset.css",
+					"components/home/home.js"
+				],
+				"refer": [],
+				"priority": 0
+			}
+		},
+		"idle": {
+			"resources": [
+				"components/home/home.json",
+				"components/home/groupBuying/UZGroup/lastGoods/lastGoods.html",
+				"components/category/category.html",
+				"components/shopcar/shopcar.html",
+				"components/home/groupBuying/UZGroup/UZjson/shoeAndBag.json",
+				"components/home/groupBuying/UZGroup/UZjson/all3.json",
+				"components/home/summerBuying/new.json",
+				"zheng/zheng.txt",
+				"components/home/groupBuying/json/brandTuan.json",
+				"components/home/summerBuying/summerBuying.html",
+				"components/mine/mine.html",
+				"components/home/groupBuying/json/beautyMakeup.json",
+				"components/home/groupBuying/UZGroup/img/UZheadImg.png",
+				"components/category/category.css",
+				"components/home/groupBuying/json/motheranson.json",
+				"components/home/love1.json",
+				"img/todayBuy-icon.png",
+				"components/home/summerBuying/summerBuying.css",
+				"components/home/groupBuying/json/foods.json",
+				"components/home/groupBuying/json/girlsBoots.json",
+				"components/home/groupBuying/json/uGroup.json",
+				"components/home/groupBuying/UZGroup/lastGoods/lastGoods.css",
+				"components/home/groupBuying/json/life.json",
+				"components/home/groupBuying/UZGroup/UZjson/all1.json",
+				"components/shopcar/shopcar.css",
+				"components/home/groupBuying/UZGroup/UZGroup.css",
+				"components/home/home.css",
+				"components/home/groupBuying/json/bags.json",
+				"components/home/summerBuying/img/summer-price.webp",
+				"components/home/groupBuying/json/girlsCloths.json",
+				"components/home/groupBuying/UZGroup/UZGroup.html",
+				"components/home/groupBuying/UZGroup/UZjson/girlCloth.json",
+				"components/home/groupBuying/json/choiceTody.json",
+				"img/more_84x20.png",
+				"components/home/groupBuying/json/sport.json",
+				"components/mine/mine.css",
+				"components/home/groupBuying/json/decorations.json",
+				"components/home/groupBuying/UZGroup/UZjson/all2.json",
+				"components/home/groupBuying/groupBuying.css",
+				"components/home/title.json",
+				"components/home/home.html",
+				"components/home/love2.json",
+				"components/home/groupBuying/json/allBuy.json",
+				"components/home/groupBuying/groupBuying.html",
+				"components/home/groupBuying/UZGroup/UZjson/girlCloth2.json",
+				"components/home/groupBuying/UZGroup/UZjson/qiantian.json",
+				"components/home/groupBuying/UZGroup/UZjson/todayS.json",
+				"components/home/groupBuying/UZGroup/UZjson/zuotian.json",
+				"components/home/groupBuying/img/todayBuy-icon.png",
+				"components/category/category1.json",
+				"components/home/groupBuying/json/underWear.json",
+				"components/home/groupBuying/json/boyFriends.json",
+				"components/home/summerBuying/img/summer1.webp",
+				"components/home/groupBuying/img/nav-icon1.png",
+				"components/home/groupBuying/img/brand-Icon1.png",
+				"components/home/summerBuying/img/1.png",
+				"components/home/groupBuying/UZGroup/UZjson/boyFriend1.json"
+			]
+		}
+	}
 }
