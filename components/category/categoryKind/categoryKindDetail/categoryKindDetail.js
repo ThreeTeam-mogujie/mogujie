@@ -14,7 +14,7 @@ angular.module('categoryKindDetailModule',[])
 
 
 
-	
+
 .controller('categoryKindDetailCon',['$scope','$http','$timeout','$rootScope',function($scope,$http,$timeout,$rootScope){
 	initCategoryKindDetailSwiper($timeout);
 	$scope.categoryKindDetailItem = JSON.parse(sessionStorage.getItem("categoryKindDetailItem"));

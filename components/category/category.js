@@ -88,8 +88,8 @@ function initCategoryRightDownMenu($scope,$http,miniWallkey,$timeout,acm){
 function initCategoryRightUpMenu(leftItem,$scope,$http,myFactory){
 	//
 	$scope.toCategoryKind=function(rightUpItem){
-		myFactory.set("rightUpItem",rightUpItem);	
-		myFactory.set("leftItem",leftItem);
+		myFactory.set("rightUpItem",rightUpItem);
+		sessionStorage.setItem("categoryKindItem",JSON.stringify(rightUpItem));
 		
 	}
 				$http.jsonp('http://mce.mogujie.com/jsonp/makeup/3?pid='+leftItem.maitKey+'&callback=JSON_CALLBACK').success(function(produts){

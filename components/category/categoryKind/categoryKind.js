@@ -16,13 +16,13 @@ angular.module('categoryKindModule',["categoryKindDetailModule"])
 .controller('categoryKindCon',['$scope','$http','$timeout','myFactory','$rootScope',function($scope,$http,$timeout,myFactory,$rootScope){
 	//从category页面传值过来
 	
-	if(myFactory.get("rightUpItem")){
-		$rootScope.categoryKindItem = myFactory.get("rightUpItem");
-		sessionStorage.setItem("categoryKindItem",JSON.stringify(myFactory.get("rightUpItem")));
-	}else{
-		$rootScope.categoryKindItem = JSON.parse(sessionStorage.getItem("categoryKindItem"));
-	}
-	
+//	if(myFactory.get("rightUpItem")){
+//		$rootScope.categoryKindItem = myFactory.get("rightUpItem");
+//
+//	}else{
+//		$rootScope.categoryKindItem = JSON.parse(sessionStorage.getItem("categoryKindItem"));
+//	}
+	$rootScope.categoryKindItem = JSON.parse(sessionStorage.getItem("categoryKindItem"));
 
 //	为四个分类添加不同事
 	categoryKindTitleClick($scope,$http,$rootScope.categoryKindItem,$timeout);
