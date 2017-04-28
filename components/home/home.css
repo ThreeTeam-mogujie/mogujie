@@ -1,11 +1,52 @@
-#header{
+/*#homeHeader{
     height: 10%;
     width: 100%;
-    /*background: #ffd600;*/
-   background: lightpink;
+    background: #FFFFFF;
     position: fixed;
     top: 0;
     z-index: 2;
+}*/
+#homeHeader{
+	width: 100%;
+	height: 3.57rem;
+	position: fixed;
+	top: 0;
+    z-index: 2;
+    border-bottom: 1px solid #E9E9E9;
+    background: #FFFFFF;
+}
+#homeHeader ul{
+	height: 100%;
+	width: 100%;
+}
+#homeHeader ul li{
+	height: 100%;
+	display: flex;
+	float: left;
+	width: 15%;
+	align-items: center;
+}
+#homeHeader ul li:nth-of-type(2){
+	width: 70%;
+}
+#homeHeader ul li a{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+}
+#homeHeader ul li a img{
+	margin: 0 auto;
+	
+}
+
+#homeHeader ul li input{
+	width: 100%;
+	height: 80%;
+	background: #EEEEEE url("../../img/searchIcon.png")no-repeat 0.5rem center;
+}
+#homeHeader ul li input::-webkit-input-placeholder{
+text-indent: 3rem;
 }
 #box{
     height: 100%;

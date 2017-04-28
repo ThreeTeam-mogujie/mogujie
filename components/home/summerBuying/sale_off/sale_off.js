@@ -14,4 +14,6 @@ angular.module('sale_offModule',[])
 //	$scope.showNavList = function(){
 //		$scope.isShow = !$scope.isShow;
 //	}
+
+
 }])

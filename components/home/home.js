@@ -20,10 +20,32 @@ angular.module('homeModule',[])
             })
         },50);
     }])
-.controller('homeCtrl',['$scope','$http','swiper',function($scope,$http){
+//实现页面传值
+.factory('myFactory', function () {
+    //定义factory返回对象
+    var myServices = {};    
+    //定义参数对象
+    var myObject = {};
+    var _set = function (data) {
+       myObject = data;     
+    };
+    var _get = function () {
+        return myObject;
+    };
+    myServices.set = _set;
+    myServices.get = _get;
+    return myServices;
+  
+})
+.controller('homeCtrl',['$scope','$http','swiper','myFactory',function($scope,$http,swiper,myFactory){
 	/*登的修改*/
 	$scope.isActive = true;
 	$scope.viewGroupBuying = function(){
+//		myFactory.set(item);
+		$scope.isActive = !$scope.isActive;
+	}
+	$scope.toDetail = function(item){
+		myFactory.set(item);
 		$scope.isActive = !$scope.isActive;
 	}
 	/**/

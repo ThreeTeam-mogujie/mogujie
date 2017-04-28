@@ -1,5 +1,13 @@
-<!--头部-->
-<div id="header"></div>
+<div ui-view>
+	<!--头部-->
+<!--<div id="header"></div>-->
+<div id="homeHeader">
+		<ul>
+			<li> <a href=""><img src="img/headMessage.png"/></a> </li>
+			<li><input type="text" placeholder="免洗面膜"></input></li>
+			<li><a href="javascript:void(0)"><img src="img/topCar.png"/></a></li>
+		</ul>
+</div>
 
 <!--描述：外层的盒子-->
 <div id="box">
@@ -108,7 +116,7 @@
     	<div class="footer-top">猜你喜欢</div>
     	<div class="footer-bottom">
     		<div class="footer-bottom-list">
-    			<a href="javascript:void(0)" ng-repeat="(i,item) in arrList" ng-if="i>1" >
+    			<a href="javascript:void(0)" ng-repeat="(i,item) in arrList" ng-if="i>1" ng-click=viewGroupBuying() toDetail(item)>
 					<img lazy-src="{{item.img}}"/>
 					<p>{{item.title}} </p>
 					<p>良品</p>
@@ -119,7 +127,9 @@
     		</div>
     	</div>
     </div>
-    <div ng-class="{true: 'active', false: 'inactive'}[isActive]" id="toGroupBuying"  ui-view>
-    </div>
+    <!--<div ng-class="{true: 'active', false: 'inactive'}[isActive]" id="toGroupBuying"  ui-view>
+    </div>-->
 </div>
 
+
+</div>
